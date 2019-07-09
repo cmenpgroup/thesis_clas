@@ -110,7 +110,6 @@ Marco Contalbrigo
 <a href="thesis/MTurisini_thesis.pdf">The CLAS12 RICH Readout Electronics: Design, Development, and Test</a> 
 CLAS12 RICH
 E12-09-008
-
 Arjun
 Trivedi
 2016 December
