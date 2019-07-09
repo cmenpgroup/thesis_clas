@@ -101,6 +101,7 @@ University of Rome, Tor Vergata
 Annalisa D'Angelo
 <a href="thesis/Lanza_thesis.pdf">Search for Hybrid Mesons with CLAS12 Experimental Setup</a>
 
+
 Matteo
 Turisini
 2017 March
@@ -109,7 +110,7 @@ Marco Contalbrigo
 <a href="thesis/MTurisini_thesis.pdf">The CLAS12 RICH Readout Electronics: Design, Development, and Test</a> 
 CLAS12 RICH
 E12-09-008
-CLAS12
+
 Arjun
 Trivedi
 2016 December
