@@ -1,0 +1,1432 @@
+Gavin
+Murdoch
+2019 March
+Glasgow University
+Daria Sokhan & David Ireland
+<a href="thesis/Murdoch_thesis.pdf">Beam-, Target-, and Double-Spin Asymmetry Measurements in Deeply Virtual &#960;<sup>0</sup>, &#960;<sup>+</sup> and &#960;<sup>-</sup> Meson Production </a>  
+eg1-DVCS
+
+Olga
+Cortes Becerra
+2018 May
+Idaho State University
+Philip Cole
+<a href="thesis/CortesBecerra_thesis.pdf">Beam Asymmetry for Photoproduced &#969; Mesons off Bound Protons in Deuterons</a>  
+g13b
+
+William
+Phelps
+2017 November
+Florida International University
+Lei Guo
+<a href="thesis/WPhelps_thesis.pdf">Antibaryon Photoproduction using CLAS at Jefferson Lab</a>  
+g12
+E04-005
+Colin
+Gleason
+2017 August
+University of South Carolina
+Yordanka Ilieva
+<a href="thesis/Gleason_thesis.pdf">Determination of Polarization Transfer Coefficients and Hyperon Induced Polarization for Quasi-Free Hyperon Photoproduction off the Bound Neutron</a>  
+g13a
+E06-103
+Hao 
+Jiang
+2017 August
+University of South Carolina 
+Steffen Strauch
+<a href="thesis/HJiang_thesis.pdf">Polarization Observables T and F in the &#947; p to &#960;<sup>0</sup> p Reaction</a>  
+g9b
+E06-013
+Lelia Aneta 
+Net
+2017 May
+University of South Carolina 
+Steffen Strauch
+<a href="thesis/Net_LeliaAneta_thesis.pdf">Polarization Observables in Double-Pion Photoproduction with Circularly Polarized Photons off Transversely Polarized Protons</a>  
+g9b
+E06-013
+Georgie
+Mbianda Njencheu
+2017 May
+Old Dominion University
+Moskov Amaryan
+<a href="thesis/MbiandaNjencheu_thesis.pdf">Photoproduction and Radiative Decay of &#951;' Meson in CLAS at JLab</a>  
+g11
+CAA LMD
+Nicholas
+Compton
+2017 April
+Ohio University
+Ken Hicks
+<a href="thesis/Compton_thesis.pdf">The Differential Cross Section and &#923; Recoil Polarization from &#947; d to K<sup>0</sup>&#923;(p)</a>  
+g10, g13
+
+Lucilla
+Lanza
+2017 March
+University of Rome, Tor Vergata
+Annalisa D'Angelo
+<a href="thesis/Lanza_thesis.pdf">Search for Hybrid Mesons with CLAS12 Experimental Setup</a>
+
+CLAS12
+Arjun
+Trivedi
+2016 December
+University of South Carolina
+Ralf Gothe
+<a href="thesis/Trivedi_thesis.pdf">Measurement of New Observables from the &#960;<sup>+</sup> &#960;<sup>-</sup> Electroproduction off the Proton</a>  
+e1-6
+
+Bayram
+Torayev
+2016 December
+Old Dominion University
+Stephen Bueltmann
+<a href="thesis/Torayev_thesis.pdf">Electroproduction of Neutral Pion off <sup>4</sup>He</a>  
+eg6 
+
+Priyashree
+Roy
+2016 November
+Florida State University
+Volker Crede
+<a href="thesis/PRoy_thesis.pdf">Measurement of Polarization Observables in Vector Meson Photoproduction Using a Transversely-Polarized Frozen-Spin Target and Polarized Photons at CLAS, Jefferson Lab</a>  
+g9b, g8b
+FROST 
+Rafael
+Badui
+2016 June
+Florida International University
+Lei Guo & Brian Raue
+<a href="thesis/Badui_thesis.pdf">The Beam-Helicity Asymmetry for &#947; p to p &#960;<sup>+</sup> &#960;<sup>-</sup> and &#947; p to p K<sup>+</sup> K<sup>-</sup>  and a Partial Wave Analysis for Excited Baryons</a>  
+g12
+
+Jamie
+Fleming
+2016 June
+Edinburgh University
+Daniel Watts
+<a href="thesis/Fleming_thesis.pdf">First Measurement of the E Double-polarization Observable for the &#947; n to K<sup>+</sup> &#931;<sup>-</sup> with CLAS & a New Forward Tagger Hodoscope for CLAS12</a>  
+g14
+HD-Ice
+Cathrina
+Sowa
+2016 June
+Ruhr/Bochum
+U. Wiedner (Bochum), M. Amaryan (ODU)
+<a href="thesis/CSowa_thesis.pdf">Search for Excited &#951; Mesons in Photoproduction at CLAS</a>  
+g12
+
+Aristeidis
+Tsaris
+2016 May
+Florida State University
+Paul Eugenio
+<a href="thesis/Tsaris_thesis.pdf">A Study of 3&#960; Production in &#947; p to n &#960;<sup>+</sup> &#960;<sup>+</sup> &#960;<sup>-</sup> and &#947; p to &#916;<sup>++</sup> &#960;<sup>+</sup> &#960;<sup>-</sup> &#960;<sup>-</sup> with CLAS at Jefferson Lab</a>  
+g12
+
+Tongtong
+Cao
+2016 May
+University of South Carolina
+Yordanka Ilieva
+<a href="thesis/TCao_thesis.pdf">Determination of the Polarization Observables Cx, Cz, and Py for Final-State Interactions in the Reaction &#947; d to K<sup>+</sup> &#923; n</a>
+g13a
+E06-103
+Ross
+Tucker
+2016 May
+Arizona State University
+Barry Ritchie
+<a href="thesis/Tucker_thesis.pdf">Spin Observables in &#951; Meson Photoproduction on the Proton</a>
+g9b
+FROST
+Hussein
+Al Ghoul
+2016 April
+Florida State University
+Paul Eugenio
+<a href="thesis/AlGhoul_thesis.pdf">The Photoproduction of Strangeness in &#947; p --> K<sup>+</sup> &#960;<sup>+</sup> &#960;<sup>-</sup> &#923; with CLAS at Jefferson Lab</a>
+g12
+E004-05
+William
+Levine
+2016 February
+Carnegie Mellon University
+Curtis Meyer
+<a href="thesis/Levine_thesis.pdf">Measurement of Spin Density Matrix Elements in the Reaction  &#947; p to  K<sup>+</sup> &#923;(1520) Using CLAS at Jefferson Lab</a>
+g11
+
+Peng
+Peng
+2015 December
+University of Virginia
+Blaine Norum
+<a href="thesis/Peng_thesis.pdf">Polarization Observables for Single and Double Charged Pion Photo-production with Polarized HD Target </a>
+g14
+HD-Ice
+Or
+Hen
+2015 November
+Tel-Aviv University
+Eli Piasetzky (Tel Aviv), L. Weinstein (ODU)
+<a href="thesis/OrHen_thesis.pdf">High-Momentum Nucleons in Nuclei </a> 
+eg2
+SRC
+Brice
+Garillon
+2015 September
+IPN-Orsay Paris-Sud
+Silvia Niccolai
+<a href="thesis/Garillon_thesis.pdf">Electroproduction Exclusive des Mesons f<sub>0</sub>(980) et f<sub>2</sub>(1270) sur le Proton a JLab avec le Detecteur CLAS</a> (in French)
+e1-6
+E99-105
+Mark
+Anderson
+2015 September
+Glasgow University
+K. Livingston & D. Ireland
+<a href="thesis/Anderson_thesis.pdf">Beam Spin Asymmetry Measurements for Two Pion Photoproduction at CLAS</a>
+g8b
+FROST
+Jeffrey
+Phillips
+2015 September
+Glasgow University
+K. Livingston & M. Mirazita (INFN)
+<a href="thesis/Phillips_thesis.pdf">Semi-Inclusive Lambda Electroproduction in the Target Fragmentation Region at CLAS</a>
+e1f
+
+Mohammad
+Hattaway
+2015 September
+IPN-Orsay Paris-Sud
+Michel Guidal
+<a href="thesis/MHattawy_thesis.pdf">Deeply Virtual Compton Scattering off 4He</a>
+eg6
+
+Nathan
+Harrison
+2015 August
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/Harrison_thesis.pdf">Exploring the Structure of the Proton via Semi-Inclusive Pion Electroproduction</a>
+e1f 
+
+Dao
+Ho
+2015 August
+Carnegie Mellon University
+Reinhard Schumacher
+<a href="thesis/DaoHo_thesis.pdf">Measurement of the E Polarization Observable for &#947; d to &#960;<sup>-</sup> p (p<sub>s</sub>), &#947; d to K<sup>0</sup> &#923; (p<sub>s</sub>), and &#947; d to &#960;<sup>+</sup> &#960;<sup>-</sup> d (0) using CLAS g14 data at Jefferson Lab </a>
+g14
+HD-Ice
+Shloka
+Chandavar
+2015 August
+Ohio University
+Ken Hicks
+<a href="thesis/Chandavar_thesis.pdf">Photoproduction of Scalar Mesons Using the CEBAF Large Acceptance Spectrometer (CLAS) </a>
+g12
+
+Irene
+Zonta
+2015 May
+University of Rome, Tor Vergata
+Annalisa D'Angelo
+<a href="thesis/Zonta_thesis.pdf">Polarization Observables from Two Pion and rho Photoproduction on Polarized HD Target at JLab  </a>
+g14
+HD-Ice
+Michael
+Kunkel
+2014 December
+Old Dominion University
+Moskov Amaryan
+<a href="thesis/Kunkel_thesis.pdf">Photoproduction of &#960;<sup>0</sup>  on Hydrogen with CLAS from 1.1 GeV - 5.45 GeV Using e<sup>+</sup> e<sup>-</sup> &#947; Decay </a>
+g12
+
+Yuqing
+Mao
+2014 November
+University of South Carolina
+Steffen Strauch
+<a href="thesis/YMao_thesis.pdf">Measurement of Polarization Observables P<sub>z</sub>, P<sub>z</sub><sup>s</sup> and P<sub>z</sub><sup>c</sup> in Double-Pion Photoproduction off the Proton</a>
+g9a
+FROST
+Natalie
+Walford
+2014 October
+Catholic Univ. of America
+Franz Klein
+<a href="thesis/NKWalford_thesis.pdf">The Search for Missing Resonances in &#947; p to K<sup>+</sup> + &#923; and K<sup>+</sup> + &#931;<sup>0</sup> Using Circularly Polarized Photons on a Transversely Polarized Frozen Spin Target</a>
+g9b
+
+Suman
+Koirala
+2014 August
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/Koirala_thesis.pdf">Measurement of Single and Double Spin Asymmetries in Semi-Inclusive Deep-Inelastic Scattering on Proton and Deuteron</a>
+eg1-dvcs
+
+Jason
+Bono
+2014 August
+Florida International University
+Lei Guo
+<a href="thesis/Bono_thesis.pdf">First Time Measurement of Polarization Observables for the Charged Cascade Hyperon in Photoproduction</a>
+g12
+E04-005
+Dasuni
+Adikaram
+2014 May
+Old Dominion University
+Larry Weinstein
+<a href="thesis/Adikaram_thesis.pdf">Direct Measurements of Two Photon Exchange on Lepton-proton Elastic Scattering Using Simulaneous Electron-positron Beams in CLAS</a>
+TPE
+E07-005
+Stefanie
+Lewis
+2014 June
+Glasgow University
+David Ireland
+<a href="thesis/Lewis_thesis.pdf">Bayesian Data Analysis in Baryon Spectroscopy</a>
+g8b, g1c
+
+Brian
+Vernarsky
+2014 April
+Carnegie Mellon University
+Curtis Meyer
+<a href="thesis/Vernarsky_thesis.pdf"> First Measurements of the Polarized Spin Density Matrix Elements along with a Partial-Wave Analysis for &#947; p to  p  &#969; using CLAS at Jefferson Lab</a>
+g1c, g8b
+
+Dipak
+Rimal
+2014 April
+Florida International University
+Brian Raue
+<a href="thesis/Rimal_thesis.pdf">Proton Form Factor Puzzle and the CLAS Two Photon Exchange Experiment</a>
+TPE
+E07-005
+Andrea
+Celentano
+2014 March
+Genova
+Mauro Taiuti & Marco Battaglieri
+<a href="thesis/Celentano_thesis.pdf">The Forward Tagger Detector for CLAS12 at Jefferson Lab and the MesonEx Experiment</a>
+CLAS12
+E12-11-005
+Edwin
+Munevar
+2014 January
+George Washington University
+Jerry Feldman & Pawel Nadel-Turnonski (JLab)
+<a href="thesis/Munevar_thesis.pdf">Photon Beam Asymmetry Measurement from the &#947; n to  K<sup>+</sup>&#931;<sup>-</sup> Reaction</a>
+g13
+E06-103
+Krishna
+Adhikari
+2013 December
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/Adhikari_thesis.pdf"> Measurement of the Spin Structure Function g<sub>1</sub><sup>D</sup> of the Deuteron and its Moments at Low Q<sup>2</sup></a>
+eg4
+
+Andrey  
+Kim
+2013 December
+Kyungpook National University
+Wooyoung Kim
+<a href="thesis/AndreyKim_thesis.pdf">Single and Double Spin Asymmetries for Deeply Virtual Exclusive &#960;<sup>0</sup> Production on Longitudinally Polarized Proton Target with CLAS </a>
+eg1-dvcs
+
+Taisiya 
+Mineeva
+2013 December
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/Mineeva_thesis.pdf"> Hadronization Studies via &#960;<sup>0</sup> Electroproduction off D, C, Fe, and Pb </a>
+eg2
+
+Vivien
+Laine
+2013 November
+Universite Blaise Pascal
+Alexandre Deur
+<a href="thesis/Laine_thesis.pdf">Polarimetry of the Polarized Hydrogen Deuteride HD-Ice Target Under an Electron Beam</a>
+g14
+HD-Ice
+Erin 
+Seder
+2013 October
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/Seder_thesis.pdf">Target-Spin Asymmetry Measurements for Deeply  Virtual Compton Scattering on Longitudinally Polarized Protons </a>
+eg1-dvcs
+
+Ivan
+Bedlinskiy
+2013 September
+ITEP, Moscow
+V. Kubarovsky (JLab)
+<a href="thesis/Bedlinskiy_thesis.pdf">Measurement of Differential Cross Sections of &#960;<sup>0</sup>-meson Electroproduction at Non-resonant Kinematic Region with CLAS Detector </a> (in Russian)
+e1-DVCS
+E01-113
+Gary
+Smith
+2013 September
+Glasgow University
+David Ireland
+<a href="thesis/GSmith_thesis.pdf">Measurement of Spin Asymmetries for Deeply Virtual Compton Scattering off the Proton using the Extended Maximum Likelihood Method</a>
+eg1-dvcs
+
+Gabriel
+Charles
+2013 September
+Universite Paris-Sud XI
+F. Kunne & S. Procureur
+<a href="thesis/Charles_thesis.pdf">Mise au Point de Detecteurs Micromegas pour le Spectrometre CLAS12 au Laboratoire Jefferson</a> (in French)  
+CLAS12
+
+Nicholas 
+Kwaltine
+2013 August
+University of Virginia
+Don Crabb
+<a href="thesis/Kwaltine_thesis.pdf">Spin Structure Function g<sub>1</sub> of the Deuteron </a>
+eg1-dvcs
+
+Sungkyun
+Park
+2013 July
+Florida State University
+Volker Crede
+<a href="thesis/SPark_thesis.pdf">Measurement of Polarization Observables in \vec{&#947;} \vec{p} to p &#960;<sup>+</sup> &#960;<sup>-</sup> Using Circular Beam and Longitudinal Target Polarization and the CLAS Spectrometer at Jefferson Laboratory</a></td>
+g9
+FROST
+Nicholas 
+Saylor
+2013 August
+RPI / IPN-Orsay Paris-Sud
+Paul Stoler & Michel Guidal
+<a href="thesis/Saylor_thesis.pdf">A Measurement of Unpolarized Cross Sections and Polarized Cross Section Differences of Deeply Virtual Compton Scattering on the Proton at Jefferson Laboratory using CLAS</a>
+e1-dvcs2
+06-003
+Michael 
+Mayer
+2013 May
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/Mayer_thesis.pdf">Beam Target Double Spin Asymmetry in (pol)d((pol)e,e'p)n</a>
+eg1
+
+Mukesh
+Saini
+2013 March
+Florida State University
+Paul Eugenio
+<a href="thesis/MSaini_thesis.pdf">Search for New and Unusual Stangonia using CLAS</a>
+g12
+HyCLAS
+Baptiste
+Guegan
+2013 January
+IPN-Orsay / RPI
+Michel Guidal & Paul Stoler
+<a href="thesis/Guegan_thesis.pdf">Study of Generalized Parton Distributions and Deeply Virtual Compton Scattering on the nucleon with the CLAS and CLAS12</a>
+e1-dvcs2
+06-003
+Lewis
+Graham
+2012 December 
+University of South Carolina
+Ralf Gothe
+<a href="thesis/Graham_thesis.pdf">Study of the Two-pion Photoproduction on the Deuteron</a>
+eg3 
+
+Charles 
+Taylor
+2012 December
+Idaho State University
+Philip Cole
+<a href="thesis/CTaylor_thesis.pdf">K<sub>S</sub> &#923; Photoproduction on the Neutron within the Resonance Region</a>
+g13
+
+Wei
+Tang
+2012 December
+Ohio University
+Ken Hicks
+<a href="thesis/WeiTang_thesis.pdf">Photoproduction of K<sup>*+</sup> &#923;/&#931;<sup>0</sup> and K<sup>0</sup>&#931;<sup>+</sup> from the Proton Using CLAS at Jefferson Lab </a>
+g11
+
+Tamar
+Didberidze
+2012 December
+Idaho State University
+Tony Forest
+<a href="thesis/Didberidze_thesis.pdf">A Measurement of Semi-Inclusive Deep Inelastic Scattering Pion Asymmetries to Test Independent Fragmentation </a>
+eg1b
+
+Yohann
+Perrin
+2012 October
+Universite Joseph Fourier, Grenoble
+Eric Voutier
+<a href="thesis/Perrin_thesis.pdf">Etude de la Structure Partonique du Noyau d'Helium </a> (in French)
+eg6
+
+Wesley 
+Gohn
+2012 August
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/Gohn_thesis.pdf">Probing the Proton's Quark Dynamics in the Semi-inclusive Pion Electroproduction </a>
+e1f
+
+Diane
+Schott
+2012 August
+Florida International University
+Brian Raue
+<a href="thesis/Schott_thesis.pdf">A Search for an Exotic Meson in the &#947; + p to  &#916;<sup>++</sup> + &#960;<sup>-</sup> + &#951; Reaction      </a>
+g12
+E04-005
+Craig
+Bookwalter
+2012 June
+Florida State University
+Paul Eugenio
+<a href="thesis/Bookwalter_thesis.pdf">A Search for Exotic Mesons in &#947; p to  &#960;<sup>+</sup> &#960;<sup>+</sup> &#960;<sup>-</sup> n with CLAS at Jefferson Lab</a>
+g12
+E04-005
+Nikolay
+Markov
+2012 May
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/Markov_thesis.pdf">Single &#960;<sup>0</sup> Electroproduction off the Proton in the Resonance Region </a>
+e1e
+
+Sharon
+Careccia
+2012 May
+Old Dominion University
+Gail Dodge
+<a href="thesis/Careccia_thesis.pdf">Single and Double Spin Asymmetries for &#960;<sup>-</sup> Electro-Production from the Deuteron in the Resonance Region</a>
+eg1b
+ 
+Nicholas
+Zachariou
+2012 May
+George Washington University
+B.L. Berman & J. Ilieva & G. Feldman
+<a href="thesis/Zachariou_thesis.pdf">Determination of the Azimuthal Asymmetry of Deuteron Photodisintegration in the Energy Region E<sub>g</sub> = 1.1 - 2.3 GeV </a>
+g13 
+CAA 7-01 
+Marianna
+Gabrielyan
+2012 March
+Florida International University
+Brian Raue
+<a href="thesis/Gabrielyan_thesis.pdf">Measurement of the Induced Polarization of &#923;(1116) in Kaon Electroproduction with CLAS</a>
+e1f
+E00-112
+Sucheta
+Jawalkar
+2012 January
+College of William & Mary
+Keith Griffioen
+<a href="thesis/Jawalkar_thesis.pdf">Measurement of Single and Double Spin Asymmetries in \vec{p}(e,e' &#960;<sup>+-,0</sup>)X Semi-Inclusive Deep-Inelastic Scattering </a>
+eg1-dvcs
+
+Heghine
+Seraydaryan
+2011 December
+Old Dominion University
+Moskov Amaryan
+<a href="thesis/Seraydaryan_thesis.pdf">Photoproduction of the &#966;(1020) Meson in Neutral Decay Mode &#947; + p to  &#966; + p to K<sub>S</sub> K<sub>L</sub> p </a>
+g11
+
+Brian
+Morrison
+2011 November
+Arizona State University
+Barry Ritchie
+<a href="thesis/Morrison_thesis.pdf">Helicity Asymmetry E in &#951;(547) Meson Photoproduction from the Proton </a>
+g9a 
+FROST
+Raphael 
+Dupre
+2011 November
+Argonne Nat'l Laboratory & Univ. of Lyon
+Kawtar Hafidi
+<a href="thesis/Dupre_thesis.pdf">Quark Fragmentation and Hadron Formation in Nuclear Matter</a></td>
+eg6
+
+Stuart
+Fegan
+2011 October
+Glasgow University 
+David Ireland & Ken Livingston
+<a href="thesis/Fegan_thesis.pdf">Polarization Observables from Strangeness Photoproduction on a Frozen Spin Target with CLAS at Jefferson Lab </a>
+g9 
+FROST 
+Josephine
+McAndrew
+2011 July
+Edinburgh University
+Daniel Watts
+<a href="thesis/McAndrew_thesis.pdf">Measurement of the G Double-Polarization Observable in Positive Pion Photoproduction </a>
+g9a 
+FROST 
+Hideko
+Iwamoto
+2011 August
+George Washington University
+Bill Briscoe
+<a href="thesis/HIwamoto_thesis.pdf">Helicity Asymmetry Measurement for &#960;<sup>0</sup> Photoproduction with FROST</a>
+FROST
+03-105
+Biplab
+Dey
+2011 July
+Carnegie Mellon University
+Curtis Meyer
+<a href="thesis/BDey_thesis.pdf">Differential Cross Section and Polarization Extractions for &#947; p to K<sup>+</sup> &#931;<sup>0</sup> and &#947; p to  &#966; p using CLAS at Jefferson Lab, Towards a Partial Wave Analysis in Search of Missing Baryon Resonances </a>
+g11
+
+Ryan
+Dickson
+2011 July
+Carnegie Mellon University
+Reinhard Schumacher
+<a href="thesis/Dickson_thesis.pdf">Photoproduction of the f1(1285)/&#951;(1295) Mesons Using CLAS at Jefferson Lab</a>
+g11
+
+Liam
+Casey
+2011 May
+Catholic Univ. of America
+Franz Klein
+<a href="thesis/LCasey_thesis.pdf">The Search for Missing Resonances in &#947; p to K<sup>+</sup> &#923; Using Circularly Polarized Photons on a Longitudinally Polarized Frozen Spin Target </a>
+g8b
+CAA01-003
+Paul
+Mattione
+2011 April
+Rice University
+Gordon Mutchler & P.Padley & Daniel Carman(JLab) 
+<a href="thesis/Mattione_thesis.pdf">K<sup>*</sup>(892)<sup>0</sup> &#923; and K<sup>+</sup> &#931;<sup>*</sup>(1385)<sup>-</sup> Photoproduction on the Deuteron </a>
+g13
+
+Piotr
+Konczykowski 
+2010 December
+SPhN-Saclay
+Franck Sabatie
+<a href="thesis/Konczykowski_thesis.pdf">Etude de l'Asymetrie de Spin du Faisceau Dans  l'Electroproduction de Photons Aupres du Spectrometre CLAS au Jefferson Lab et Developpement de Detecteurs Micromegas Pour le Futur Spectrometre CLAS12</a> (in French)
+e1-dvcs2
+06-003
+Kangkang
+Kovacs
+2010 December
+University of Virginia
+Don Crabb
+<a href="thesis/Kovacs_thesis.pdf">Measurement of the Longitudinal Spin Asymmetry of the Deuteron in the Resonance Region</a>
+eg4 
+ 
+Charles 
+Hanretty
+2010 December
+Florida State University
+Volker Crede
+<a href="thesis/Hanretty_thesis.pdf">Measurement of the Polarization Observables I<sup>S</sup> and I<sup>C</sup> for &#947; p to p &#960;<sup>+</sup> &#960;<sup>-</sup> Using the CLAS Spectrometer</a></td>
+g8b
+FROST
+Dustin
+Keller
+2010 October
+Ohio University
+Ken Hicks
+<a href="thesis/DKeller_thesis.pdf">U-Spin Symmetry Test of the &#931;<sup>*+</sup> Electromagnetic Decay</a>
+g11
+
+John
+Goetz
+2010 October
+Univ. of California at Los Angeles
+Bernard Nefkens
+      <a href="thesis/Goetz_thesis.pdf">Cascade Hyperon Photoproduction from Threshold to 5.4 GeV with the CEBAF Large Acceptance Spectrometer</a>
+g12
+
+Kei
+Moriya
+2010 October
+Carnegie Mellon University
+Reinhard Schumacher
+      <a href="thesis/Moriya_thesis.pdf">Measurement of the Lineshape, Differential Photoproduction Cross Section, Spin and Parity of the &#923;(1405) Using CLAS at Jefferson Lab</a>
+g11
+
+Zhiwen
+Zhao
+2010 August
+University of South Carolina
+Ralf Gothe
+      <a href="thesis/ZWZhao_thesis.pdf">Photoproduction of the &#923;(1520) Hyperon off Protons and Neutrons in Deuterium</a>
+eg3
+
+Puneet
+Khetarpal
+2010 August
+Rensselaer Polytechnic Institute
+Paul Stoler
+      <a href="thesis/Khetarpal_thesis.pdf">Near Threshold Neutral Pion Electroproduction at High Momentum Transfers</a>
+e16,e1f
+
+Neil
+Hassall
+2010 June
+Glasgow University     
+Ken Livingston &  Gunter Rosner
+      <a href="thesis/Hassall_thesis.pdf">Spin Observables in Kaon Photoproduction from the Neutron in a Deuterium Target with CLAS</a>
+g13
+06-103
+Rafayel
+Paremuzyan
+2010 June
+Yerevan State University
+Stepan Stepanyan
+      <a href="thesis/Paremuzyan_thesis.pdf">Timelike Compton Scattering</a>
+e1-6, e1f 
+
+Haiyun
+Lu
+2010 June
+University of South Carolina
+Ralf Gothe
+      <a href="thesis/HLu_thesis.pdf">Exclusive Photo-Production Measurement of K<sup>+</sup> &#931;<sup>*+</sup> off Quasi-Free Neutrons in Deuterium</a>
+eg3
+
+Wei
+Chen
+2010 May
+Duke University 
+Haiyan Gao
+      <a href="thesis/WChen_thesis.pdf">A Measurement of the Differential Cross Section for the Reaction &#947; n to &#960;<sup>-</sup> p from Deuterium</a>
+g10
+CAA
+Jixie 
+Zhang
+2010 May
+Old Dominion University
+Gail Dodge
+      <a href="thesis/JixieZhang_thesis.pdf">Exclusive &#960;- Electro-Production from the Neutron in the Resonance Region</a>
+e6
+BoNuS
+Lorenzo
+Zana
+2010 May
+University of New Hampshire
+Maurik Holtrop
+      <a href="thesis/Zana_thesis.pdf">Search for the Onset of Color Transparency Through &#961; Electroproduction on Nuclei</a>
+eg2
+02-110
+Megh
+Niroula
+2010 May
+Old Dominion University
+Larry Weinstein & H. Areti (JLab)
+      <a href="thesis/Niroula_thesis.pdf">Beyond the Born Approximation: a Precise Comparison of e<sup>+</sup>p and e<sup>-</sup>p Elastic Scattering in the CEBAF Large Acceptance Spectrometer (CLAS)</a>
+TPE
+
+Russell
+Johnstone
+2010 April
+Glasgow University
+David Ireland & Ken Livingston
+      <a href="thesis/Johnstone_thesis.pdf">The Photon Beam Asymmetry for KY Production from the Bound Proton in Deuterium</a>
+g13
+06-103
+Nathan
+Baillie
+2010 January
+College of William & Mary
+Keith Griffioen
+<a href="thesis/Baillie_thesis.pdf">Electron Scattering from an Almost Free Neutron in Deuterium</a>
+e8 
+03-012 
+Slava 
+Tkachenko
+2009 December
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/Tkachenko_thesis.pdf">Tagged Neutron Structure Function Measured with Spectator Tagging</a>
+e8
+03-012
+Nevzat
+Guler
+2009 December
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/Guler_thesis.pdf">Spin Structure of the Deuteron</a>
+eg1b
+
+Julian
+Salamanca
+2009 October
+Idaho State University
+Philip Cole
+     <a href="thesis/Salamanca_thesis.pdf">The Photoproduction of &#966;-Mesons off Protons by Using a Beam of Linearly Polarized Photons at Threshold Energies</a>
+g8b 
+   
+Daria
+Sokhan
+2009 August
+Edinburgh University
+Daniel Watts
+     <a href="thesis/Sokhan_thesis.pdf">Beam Asymmetry Measurement from Pion Photoproduction on the Neutron</a>
+g13
+CAA   
+Patrick
+Collins
+2009 August
+Arizona State University
+Barry Ritchie
+     <a href="thesis/Collins_thesis.pdf">Beam Asymmetry in &#951;(547) and &#951;(958) Meson Photoproduction from the Proton</a>
+g8b 
+   
+Brahim
+Moreno
+2009 July
+IPN-Orsay
+Marion MacCormick
+<a href="thesis/Moreno_thesis.pdf">Etude de l'Asymetrie de Spin du Faisceau a 6 GeV Pour l'Electroproduction d'un Etat Resonnant &#960;+ et d'un Photon sur le Proton (e p to e &#960;+ g) avec le Detecteur CLAS</a> (in French)
+e1-dvcs
+01-113
+Ahmed
+Fradi
+2009 July
+IPN-Orsay
+Michel Guidal
+<a href="thesis/Fradi_thesis.pdf">Electroproduction Exclusive du Meson &#961;+ sur le Proton a JLab avec le Detecteur CLAS</a> (in French)
+e1-dvcs
+01-113
+Nathan
+Baltzell
+2009 May
+University of South Carolina
+David Tedeschi
+<a href="thesis/Baltzell_thesis.pdf">A Search for the Exotic &#920;<sup>+</sup> Pentaquark in &#947; D to p p K<sup>0</sup> K<sup>-</sup></a>
+g10
+03-113
+Maryam
+Moteabbed
+2009 March
+Florida International University
+Brian Raue
+<a href="thesis/Moteabbed_thesis.pdf">A Precise Measurement of the Two-Photon Exchange Effect</a>
+TPE
+ 
+Jorge de Oliveira
+Echeimberg
+2009 January
+Rome & Sao Paulo
+Patrizia Rossi
+<a href="thesis/Echeimberg_thesis.pdf">Differential Cross Section Measurement for the Reaction of &#947; p to K+ &#923; </a> (in Portuguese)
+g10 
+  
+Bo
+Zhao
+2008 December
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/BoZhao_thesis.pdf">Beam Spin Asymmetry Measurements from Deeply Virtual Meson Production </a>
+e1 
+dvcs
+Hayk
+Hakobyan
+2008 December
+Yerevan State University
+Will Brooks & A. Danagulyan
+<a href="thesis/Hakobyan_thesis.pdf">Observation of Quark Propagation Pattern in Nuclear Medium</a>
+eg2
+ 
+Narbe
+Kalantarians
+2008 August
+University of Houston
+Ed Hungerford
+<a href="thesis/Kalantarians_thesis.pdf">Semi-Inclusive Single Pion Electroproduction From Deuteron and Proton Targets</a>
+e8e6
+03-012
+Robert
+Fersch
+2008 August
+College of William & Mary
+Keith Griffioen
+<a href="thesis/Fersch_thesis.pdf">Measurement of Inclusive Proton Double-Spin Asymmetries and Polarized Structure Functions</a>
+eg1b 
+ 
+Atilla
+Gonenc
+2008 June
+Florida International University
+Brian Raue
+<a href="thesis/Gonenc_thesis.pdf">Coherent &#961; Meson Electroproduction off Deuteron</a>
+e5, e6 
+ 
+Craig
+Paterson
+2008 June
+Glasgow University
+Gunter Rosner & David Ireland
+<a href="thesis/Paterson_thesis.pdf">Polarization Observables in Strangeness Photoproduction with CLAS at Jefferson Lab </a>
+g8b
+ 
+Lamiaa
+El Fassi
+2008 May
+University  Mohammed V, Morocco
+Kwatar Hafidi
+<a href="thesis/ElFassi_thesis.pdf">Etude de la Transparence de Couleur du Meson Vecteur &#961;<sup>0</sup> </a> (in French)
+eg2
+ 
+Joshua
+Pierce
+2008 January
+University of Virginia
+Don Crabb
+<a href="thesis/Pierce_thesis.pdf">Double Spin Asymmetry in Exclusive &#960;+ Electroproduction with CLAS </a>
+eg1b 
+ 
+Michael
+McCracken
+2007 November
+Carnegie Mellon University
+Curtis Meyer
+<a href="thesis/Mccracken_thesis.pdf">A Study of K<sup>+</sup> &#923; Photoproduction in the CLAS g11a Dataset: Differential Cross Section, Recoil Polarization, and a Partial-Wave Analysis</a>
+g11
+ 
+Michael
+Williams
+2007 November
+Carnegie Mellon University
+Curtis Meyer
+<a href="thesis/Williams_thesis.pdf">Measurement of Differential Cross Sections and Spin Density Matrix Elements along with a Partial Wave Analysis for &#947; p to p &#969; using CLAS at Jefferson Lab</a>
+g11
+ 
+Zebulun
+Krahn
+2007 October
+Carnegie Mellon University
+Curtis Meyer
+<a href="thesis/Krahn_thesis.pdf">Production of &#951; and &#951;_prime mesons using CLAS at JLab</a>
+g11
+ 
+Hovhannes
+Baghdasaryan
+2007 May
+Old Dominion University
+Larry Weinstein
+<a href="thesis/Baghdasaryan_thesis.ps">Measurements of Correlated Pair Momentum Distributions in 3He(e,e'pp)n with CLAS</a>
+e2b
+89-027
+Hyon-Suk
+Jo
+2007 March
+IPN-Orsay
+Michel Guidal
+<a href="thesis/HyonSukJo_thesis.pdf">Etude de la Diffusion Compton Profondement Virtuelle sur le nucleon avec le detecteur CLAS deJefferson Lab: mesure des sections efficaces polarisees et nonpolarisees</a>(in French)
+e1-dvcs
+01-113
+Francois-Xavier
+Girod
+2006 December
+SPhN-Saclay
+Michel Gar&ccedil;on
+<a href="http://www.jlab.org/Hall-B/general/thesis/FXGirod_thesis.pdf">Deeply Virtual Compton Scattering (Beam Spin Asymmetries) for the study of Generalized Parton Distributions</a> (in French)
+e1-dvcs
+01-113
+Natasha
+Dashyan
+2006 November
+Yerevan State University
+Kim Egiyan
+<a href="thesis/Dashyan_thesis.pdf">Measuring the probability of two-nucleon correlations in nuclei</a> (in Russian)
+e2
+89-036
+Burnham
+Stokes
+2006 Fall
+Florida State University
+Paul Eugenio
+<a href="thesis/BStokes_FSU_thesis.v4.3.pdf">Search for Resonances in the Photoproduction of Proton-Antiproton Pairs</a>
+g6
+
+Kijun
+Park
+2006 May
+Kyungpook National University
+Wooyoung Kim & Volker Burkert (JLab)
+<a  href="thesis/KJPark_thesis.pdf">Measurement of cross section and electron asymmetry of the p(\vec{e},e' &#960;<sup>+</sup>)n reaction in the &#916;(1232) and higher resonances for Q<sup>2</sup> <= 5.0 GeV<sup>2</sup>
+e1-6
+89-042
+Bryan
+McKinnon
+2006 May
+Glasgow University
+James Kellie
+<a  href="thesis/McKinnon_thesis.ps.gz">Search for the &#920;<sup>+</sup> Pentaquark in the Reaction &#947; d -> p K<sup>+</sup> K<sup>-</sup> n</a>
+g10
+03-113
+Shifeng
+Chen
+2006 February
+Florida State University
+Paul Eugenio
+<a href="thesis/ShifengChen_dvcs_thesis.pdf">First Measurement of Deeply Virtual Compton Scattering with a Polarized Proton Target</a>
+eg1
+
+Ishaq
+Hleiqawi
+2006 February
+Ohio University
+Ken Hicks
+<a href="thesis/Hleiqawi_thesis.pdf">K<sup>*0</sup> Photoproduction and Electroproduction Measured at CLAS</a>
+e1
+
+Cornel
+Butuceanu
+2005 December
+College of William & Mary
+Keith Griffioen
+<a href="thesis/Butuceanu_thesis.ps.gz">Quasi-Elastic Electron Scattering from a High-Momentum Nucleon in Deuterium</a>
+e6
+93-019
+Joe
+Donnelly
+2005 September
+Glasgow University
+David Ireland
+<a href="thesis/Donnelly_thesis.ps.gz">Multipole Analysis of the &#916;(1232) in He3</a>
+e2b
+89-017
+Jeffrey
+Lachniet
+2005 June
+Carnegie Mellon University
+Brian Quinn
+<a href="thesis/Lachniet_thesis.pdf">A high precision measurement of the neutron magnetic form factor using the CLAS detector
+e5
+94-017
+Clarisse
+Tur
+2005 August
+University of South Carolina
+Chaden Djalali
+<a href="thesis/Clarisse_Tur_Thesis.pdf">Search for modification of vector meson properties in nuclei</a>
+g7
+01-112
+Robert
+Bradford
+2005 May
+Carnegie Mellon University
+Reinhard Schumacher
+<a href="thesis/Bradford_thesis.pdf">Measurement of Differential Cross Sections and C<sub>x</sub> and C<sub>z</sub> for &#947; p to K<sup>+</sup> &#923; and &#947; p to K<sup>+</sup> &#931;<sup>0</sup>Using CLAS at Jefferson Lab</a>
+g1
+89-004 
+Joseph
+Melone
+2005 March
+Glasgow University
+James Kellie
+<a href="thesis/Melone_thesis.pdf">Measurement of the photon asymmetry for the p(pol. &#947;, K<sup>+</sup>)&#923;0 reaction at CLAS from 1.6 to 2.0 GeV
+g8
+ 
+Joseph
+Santoro
+2004 August
+Virginia Polytechnic Institute
+John Ficenec & Elton Smith (JLab)
+<a href="thesis/JSantoro_thesis.pdf">Electroproduction of &#966;(1020) Mesons at High Q<sup>2</sup> with CLAS</a>
+e1-6
+
+Rakhsha
+Nasseripour
+2004 July
+Florida International University
+Brian Raue
+<a href="thesis/Nasseripour_thesis.ps.gz">Measurement of Single Spin Asymmetry and Fifth Structure Function for the p(pol)(e,e' K<sup>+</sup>)&#923; Reaction with CLAS </a>
+e1c 
+ 
+Yelena
+Prok
+2004 May
+University of Virginia
+Don Crabb
+<a href="thesis/Prok_thesis.pdf">GDH Integral on the Proton from Asymmetries</a>
+eg1b
+91-023
+Alexei
+Klimenko
+2004 May
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/Klimenko_thesis.ps.gz">Electron Scattering From a High-Momentum Neutron in Deuterium</a>
+e6
+
+Vipuli
+Dharmawardane
+2004 May
+Old Dominion University
+Gail Dodge
+<a href="thesis/Vipuli_thesis.ps.gz">Spin Structure Functions of the Deuteron Measured with CLAS in and Above the Resonance Region</a>
+eg1
+93-009
+Lei
+Guo
+2004 May
+Vanderbilt University
+David Ernst &  D. Weygand (JLab)
+<a href="thesis/LeiGuo_thesis.pdf">Search for S=+1 exotic baryon in &#947; p to K<sup>+</sup>K<sup>-</sup>&#960;<sup>+</sup>(n)</a>
+g6
+
+Sylvain
+Bouchigny
+2004 April
+IPN-Orsay
+Michel Guidal
+<a href="thesis/Bouchigny_thesis.pdf">Development of a pure HD polarized target: HD analysis and distillation.Resonant virtual Compton scattering on the nucleon</a> (in French)
+e1-6
+
+Christopher
+Gordon
+2004 March
+Glasgow University
+G. Rosner
+<a href="thesis/Gordon_thesis.ps.gz">&#961;0 Photoproduction using Linearly Polarised Photons with the CLAS Detector
+g8
+ 
+Gagik
+Gavalian
+2004 January
+University of New Hampshire
+Maurik Holtrop
+<a href="http://www.jlab.org/Hall-B/general/thesis/Gagik_Gavalian_thesis.pdf">Beam Spin Asymmetry Measurements in Deeply Virtual Compton Scattering</a>
+e1d
+
+Matthew
+Bellis
+2003 December
+Rensselaer Polytechnic Institute
+Jim Napolitano
+ <a href="thesis/Bellis_thesis.pdf">A Search for Missing Baryon States
+g1
+ 
+Ji
+Li
+2003 December
+Rensselaer Polytechnic Institute
+Gary Adams
+ <a href="thesis/JiLi_thesis.pdf">Search for Exotic Mesons in &#960;+ &#960;- &#960;0 Decay
+g6
+
+Ludyvine
+Morand
+2003 December
+Saclay 
+Michel Gar&ccedil;on
+<a href="thesis/Morand_thesis.ps.gz">Deeply Virtual &#969; Electroproduction and the Study of Generalized Parton Distributions</a> (JLab thesis prize 2003)
+e1-6
+99-105
+Maurizio
+Ungaro
+2003 December
+Rensselaer Polytechnic Institute
+Paul Stoler
+<a href="thesis/Ungaro_thesis.pdf">&#960;0 Electroproduction off the &#916;(1232) Resonance at High Momentum Transfer
+e1
+91-002
+Westley
+Ingram
+2003 June
+Glasgow University
+David Ireland
+<a href="thesis/Ingram_thesis.ps.gz">Semi-exclusive studies of &#916;(1232) electroproduction in <sup>3</sup>He
+e2
+89-017
+Federico
+Ronchetti
+2003 June
+INFN-Frascati
+Enzo De Sanctis
+<a href="thesis/Ronchetti_thesis.pdf">Complete angular distributions of the &#947; d -&gt; pn reaction in the few GeV region</a>
+g2
+93-017
+Michael
+Klusman
+2003 xxxx
+Rensselaer Polytechnic Institute
+Jim Napolitano
+A search for missing Baryons formed in &#947; p to  p &#960;+ &#960;- using the CLAS at CEBAF
+g1
+93-033
+Rustam
+Niyazov
+2003 May
+Old Dominion University
+Larry Weinstein
+<a href="thesis/Niyazov_thesis.ps">Measurement of Correlated Pair Momentum Distributions in 3He(e,e'pp)n with CLAS</a>
+e2
+89-027
+Brian
+Carnahan
+2003 July
+Catholic Univ. of America 
+Franz Klein
+<a href="thesis/Carnahan_thesis.ps">Strangeness Photoproduction in the &#947; p to K<sup>0</sup> &#931;<sup>+</sup>Reaction</a>
+g1
+89-004
+Silvia
+Niccolai
+2003 May
+George Washington University
+B.L. Berman
+<a href="http://www.jlab.org/Hall-B/general/thesis/Niccolai_thesis.ps.gz">Three-body Forces in Photoreactions on 3He</a>
+g3
+
+Bin
+Zhang
+2003 February
+MIT
+William Bertozzi
+<a href="/Hall-B/general/thesis/BZhang_thesis.ps">Searching for Short Range Correlations Using (e,e'NN) Reactions</a>
+eg1
+
+Steve
+McLauchlin
+2003 January
+Glasgow University
+James Kellie
+<a href="thesis/McLauchlan_thesis.ps.gz">&#916;(1232) electroproduction in <sup>12</sup>C</a>
+e2
+89-017
+Dan
+Protopopescu
+2002 December
+University of New Hampshire
+William Hersman
+<a href="thesis/Protopopescu_thesis.pdf.gz">A Survey of Beam Asymmetries in Semi-Exclusive Electron Scattering on 4He and 12C</a>
+e2
+89-031
+Mehmet
+Bektasoglu
+2002 December
+Old Dominion University
+Gail Dodge
+<a href="thesis/Bektasoglu_thesis.ps">Measurement of the Double Spin Asymmetry in &#960;- Electroproduction with CLAS</a>
+eg1
+93-009
+John
+McNabb
+2002 December
+Carnegie Mellon University 
+Reinhard Schumacher
+<a href="thesis/McNabb_thesis.pdf">Photoproduction of &#923; and &#931;<sup>0</sup> Hyperons off Protons in the Nucleon Resonance Region using CLAS at Jefferson Lab </a>
+g1
+89-004
+Cynthia
+Hajidakis
+2002 December
+IPN-Orsay
+Michel Guidal
+<a href="http://www.jlab.org/Hall-B/general/thesis/Hajidakis_thesis.pdf.gz">&#961; meson electroproduction at intermediate virtuality at JLab with the CLAS detector</a> (in French)
+e1-6
+99-105
+Robert
+Feuerbach
+2002 December
+Carnegie Mellon University
+Reinhard Schumacher
+<a href="thesis/Feuerbach_thesis.pdf">Measurement of the Unpolarized K<sup>+</sup> &#923; and K<sup>+</sup> &#931;<sup>0</sup> Electroproduction Cross Sections and Interference Terms from the Proton with the CLAS Detector. </a>
+e1
+93-030
+Haluk
+Denizli
+2002 October
+University of Pittsburgh
+James Mueller 
+<a href="thesis/Denizli_thesis.pdf">&#951; Electroproduction at and Above the Region of S11(1535) Baryon Resonance</a>
+e1
+
+Mikhail
+Osipenko
+2002 October
+Moscow State University
+G. Ricco 
+<a href="thesis/Osipenko_thesis.ps.gz">Moments of the F2 Structure Function of the Proton</a>
+e1-e2
+
+Ana C.S.
+Lima
+2002 September
+Sao Paulo Univerity
+B.L. Berman
+Study of Kaon Photoproduction on Deuterium
+g2
+89-045
+Junho
+Yun
+2002 May
+Old Dominion University
+Sebastian Kuhn
+<a href="http://www.jlab.org/Hall-B/general/thesis/Jun_ana_note.pdf">Inclusive Spin Structure Functions of the Deuteron</a>
+eg1
+93-009
+Angela
+Biselli
+2002 March
+Rensselaer Polytechnic Institute
+Paul Stoler
+<a href="thesis/Biselli_thesis.ps.gz">Study of the &#916;(1232) using double polarization experiments</a>
+eg1
+94-003
+Mathieu
+Guillo
+2002 February
+University of South Carolina
+Chaden Djalali
+<a href="thesis/Matthieu_Guillo_thesis.pdf">Search for unusual mesons in photoproduction in CLAS</a>
+g6
+
+Sasha
+Philips
+2002 January
+George Washington University
+B.L. Berman
+<a href="thesis/SPhilips_Thesis.ps">Resonance Production through the Two Neutral-Pion Channel</a>
+g1
+
+Simeon
+McAleer
+2002 January
+Florida State University
+Larry Dennis
+<a href="/Hall-B/general/thesis/Mcaleer_thesis.pdf">A Measurement of the Recoil Polarization of Electroproduced &#923;(1116)</a>
+e1
+89-043
+Renee
+Fatemi
+2002 January
+University of Virginia
+Don Crabb
+<a href="/Hall-B/general/thesis/Fatemi_thesis.ps">The Spin Structure of the Proton in the Resonance Region </a>
+eg1
+91-023
+Michael
+Dugger
+2001 December
+Arizona State University
+Barry Ritchie
+<a href="/Hall-B/general/thesis/Dugger_thesis.pdf">&#951;(547) and &#951;(958) Meson Photoproduction on the Proton</a>
+g1
+91-008
+Hovanes
+Egiyan
+2001 September
+College of William & Mary
+Keith Griffioen & Volker Burkert (JLab)      
+<a href="/Hall-B/general/thesis/HEgiyan_thesis.pdf">Single &#960;+ Electroproduction in the First and Second Resonance Regions Using CLAS</a>
+e1
+89-037
+Raffaella
+DeVita
+2001 January
+INFN Genova
+G. Ricco
+<a href="thesis/Devita_thesis.ps.gz">Measurement of the double spin asymmetry in &#960;+ electroproduction with CLAS</a>
+eg1
+93-036
+Catalina
+Cetina
+2001 January
+George Washington University
+B.L. Berman
+<a href="thesis/Cetina_Thesis.ps.gz">Photofission of heavy nuclei from .2 to 3.8 GeV</a>
+g5
+
+Alex
+Skabelin
+2000 December
+MIT
+William Bertozzi
+<a href="http://www.jlab.org/Hall-B/general/thesis/Skabelin_thesis.ps">GDH Integral on the Proton from Cross Section Differences</a>
+eg1
+91-023
+Alan
+Coleman
+2000 November
+College of William & Mary
+Herb Funsten
+<a href="http://proquest.umi.com/pqdlink?Ver=1&Exp=01-05-2015&FMT=7&DID=732035881&RQT=309&attempt=1&cfc=1">Electroproduction of &#969;(783) mesons using CLAS at Jefferson Lab</a>
+e1
+91-024
+Simon
+Taylor
+2000 May
+Rice University
+Gordon Mutchler
+<a href="http://www.jlab.org/Hall-B/general/thesis/Taylor_thesis.pdf">Radiative Decays of Low-Lying Excited-State Hyperons</a>
+g1
+89-024
+Burin
+Asavapibhop
+2000 May
+University of Massachusetts
+Rory Miskimen
+<a href="thesis/Asavapibhop_thesis.pdf">Study of the Axial Anomaly using the &#947; p to &#960;+ &#960;0 n Reaction Near Threshold</a>
+g1
+94-015
+Richard
+Thompson
+2000 March
+University of Pittsburgh
+Steve Dytman
+<a href="thesis/Thompson_thesis.pdf">&#951; Electroproduction in the Region of the Isospin One Half, Spin One Half 1535 MeV Baryon Resonance</a>
+e1
+89-039
+Eric
+Anciant
+2000 March
+CEA-Saclay
+Jean-Marc Laget
+<a href="thesis/Anciant_thesis.pdf">Photoproduction de Mesons &#966; a Grand Moment Transfere</a> (in French)
+g6
+93-031
+Konstantin
+Loukachine
+2000 February
+Virginia Polytechnic Institute
+John Ficenec & Elton Smith (JLab)
+<a href="thesis/Loukachine_thesis.pdf">Measurement of the Polarization of the &#966;(1020) in Electroproduction</a>
+e1
+93-022
+Thierry
+Auger
+1999 August
+CEA-Saclay
+Jean-Marc Laget & Claude Marchand
+<a href="thesis/Auger_thesis.pdf">Photoproduction de Mesons Vecteurs: Permiers Resultats Avec CLAS</a> (in French)
+g1
+
+Michel
+Guidal
+1996 December
+IPN-Orsay Paris-Sud
+Jean-Marc Laget
+<a href="thesis/Guidal_thesis.pdf">Photoproduction de Mesons sur le Nucleon aux Energies Intermediaire</a> (in French)
+
+

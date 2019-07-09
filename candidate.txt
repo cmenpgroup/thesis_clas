@@ -1,0 +1,273 @@
+Shankar 
+Adhikari
+Florida International University
+Lei Guo, Brian Raue
+Measurement of Polarization Observables for Lambda in the reaction gamma p --> K+ Lambda.
+g12
+
+Zulkaida 
+Akbar 
+Florida State University
+Volker Crede
+omega Photoproduction from g12 (Cross Sections & SDMEs)
+g12
+
+Giovanni 
+Angelini 
+George Washington University
+William Briscoe & Patrizia Rossi (JLab)
+Probing the Proton's Quark Dynamics in Semi-Inclusive Pion and Kaon Electroproduction
+CLAS12
+
+Ilaria
+Balosino
+INFN Ferrara
+Marco Contalbrigo
+T.B.D.
+CLAS12 RICH E12-09-008
+
+Dilini
+Bulumulla
+Old Dominion University
+Charles Hyde
+Partial-Wave Analysis of Deep Virtual pi-pi Electroproduction on the Proton, with Extraction of the sigma-meson and rho-meson Signals.
+CLAS12 Group A
+E12-12-007
+Frank
+Cao
+University of Connecticut
+Kyungseon Joo
+Deeply Virtual pi^0 Meson Production off He4
+eg6
+
+Taya
+Chetry
+Ohio University
+Ken Hicks
+Coherent Photoproduction of the rho Meson from Deuterium
+g10
+
+Louise 
+Clark
+University of Glasgow
+Dave Ireland & Bryan McKinnon
+phi-Photoproduction Beam Asymmetry.
+g8
+
+Brandon 
+Clary 
+University of Connecticut
+Kyungseon Joo
+Deeply Virtual Exclusive phi(1020) Electroproduction with CLAS12 
+CLAS12 Group A
+
+Pierre
+Chatagnon
+IPN Orsay
+Silvia Niccolai
+Timelike Compton Scattering on the Proton
+CLAS12 RG-A
+E12-12-001
+Guillaume
+Christiaens
+Glasgow & CEA Saclay
+D. Sokhan & M. Defurne
+Deeply Virtual Compton Scattering off the Proton at 10.6 GeV
+CLAS12 RG-A
+E12-06-119
+Nathan
+Dzbenski
+Old Dominion University
+Gail Dodge
+T.B.D.
+CLAS 12 Group F
+BONus12
+Yeranuhi 
+Ghandilyan
+Yerevan  
+Stepan Stepanyan
+Coherent Production of Proton - Anti-proton Pairs on Deuterium
+eg3
+
+Simon
+Hughes
+Edinburgh University
+Daniel Watts
+Photoproduction of omega pi pi
+g10
+
+Sudeep
+Ghosh
+Indian Inst. of Tech, Indore & ODU
+Ankhi Roy & M. Amaryan
+Dalitz Plot Analysis of Hadronic Decays of eta and etaprime Mesons
+g11
+CAA LMD
+Timothy
+Hayward
+William and Mary
+Keith Griffioen
+Dihadron Beam Single-Spin Asymmetries
+CLAS12 Group A
+
+Gary
+Hollis
+University of South Carolina
+Ralf Gothe
+Double Pion Electroproduction off the Neutron in Deuterium 
+e1-e
+
+Chan
+Kim
+The George Washington University
+Igor Strakovsky
+Helicity Asymmetry Measurement for pi0 Photoproduction on the CLAS Frozen Spin Target
+g9
+FROST
+Mariana 
+Khachatryan
+Old Dominion University
+Lawrence Weinstein
+Neutron and Proton Momentum Distributions in 3He using 3He(e,e'p) and 3He(e,e'n) 
+e2
+
+Victoria
+Lagerquist
+Old Dominion University
+Sebastian Kuhn
+T.B.D.
+Run Group C
+
+Michael
+Mroz
+Ohio University 
+Ken Hicks
+Lambda-nucleon scattering
+g12
+
+Cristina
+Moody
+Purdue 
+K. Hafidi (ANL), A. Hirsch (Purdue)
+Study of the EMC Effect via DVCS on 4He
+eg6
+
+Joseph
+Newton
+Old Dominion University
+Stepan Stepanyan
+J/psi Photoproduction Near Threshold
+CLAS12
+
+Thomas 
+O'Connell
+University of Connecticut
+Kyungseon Joo
+Development of Spin-Frozen Transversely-Polarized HDIce Target Under Electron Beams
+HDIce
+
+David
+Payette
+Old Dominion University
+Sebastian Kuhn
+T.B.D.
+Run Group F
+BONus12
+Evan
+Phelps
+University of South Carolina
+Ralf Gothe
+omega Electroproduction in the Resonance Region
+e1-6, e1-f
+
+Jiwan
+Poudel
+Old Dominion University
+Stephen Bueltmann
+T.B.D.
+CLAS12 
+Run Group F
+David
+Riser
+University of Connecticut
+Kyungseon Joo
+Measurements of Semi-Inclusive pi^0 Production on the Unpolarized Proton
+ef1 and e1-dvcs
+
+Torri
+Roark
+Old Dominion Universtity
+M. Amaryan
+Photoproduction and Radiative Decay of eta Meson in CLAS at JLab
+g11
+CAA LMD
+Utsav
+Shrestha
+Ohio University
+Ken Hicks
+Photoproduction of Lambda* Resonances
+g12
+
+Ivana 
+Stankovic
+Edinburgh
+Daniel Watts
+KKp Observables
+g11 
+HASPECT
+Orlando
+Soto
+Universidad Tecnica Federico Santa Maria
+Hayk Hakobyan
+Eta Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer
+eg2
+
+Iuliia 
+Skorodumina
+University of South Carolina
+Ralf Gothe
+Double Pion Electroproduction off the Proton in Deuterium 
+e1-e
+
+Kemal
+Tezgin
+University of Connecticut
+Kyungseon Joo
+PDF Extractions using CLAS e1f Measurements
+e1f
+
+Ye
+Tian
+University of South Carolina
+Ralf Gothe
+Single Pion Electroproduction off the Neutron in Deuterium
+e1-e
+
+Matteo
+Turisini
+INFN Ferrara
+Marco Contalbrigo
+The CLAS12 RICH readout electronics: design, development and test
+CLAS12 RICH E12-09-008
+
+Kevin
+Wei 
+University of Connecticut
+Kyungseon Joo
+Development of a Novel System to Hold Polarized HD Transverse to High Energy Electron Beams within the CLAS12 Longitudinal Solenoid
+CLAS12
+
+Christopher
+Zeoli
+Florida State University 
+Volker Crede
+Partial Wave Analysis of the omega Decay Dalitz Plot
+g12
+
+Isaac
+Newton
+Trinity College Cambridge
+Terra Mater
+Philosophiae Naturalis Principia Mathematica
+All
+E00-000
