@@ -1,10 +1,3 @@
-Shankar 
-Adhikari
-Florida International University
-Lei Guo, Brian Raue
-Measurement of Polarization Observables for Lambda in the reaction gamma p --> K+ Lambda.
-g12
-
 Giovanni 
 Angelini 
 George Washington University
@@ -19,13 +12,6 @@ Charles Hyde
 Partial-Wave Analysis of Deep Virtual pi-pi Electroproduction on the Proton, with Extraction of the sigma-meson and rho-meson Signals.
 CLAS12 Group A
 E12-12-007
-Frank
-Cao
-University of Connecticut
-Kyungseon Joo
-Deeply Virtual pi^0 Meson Production off He4
-eg6
-
 Louise 
 Clark
 University of Glasgow
@@ -44,14 +30,14 @@ Pierre
 Chatagnon
 IPN Orsay
 Silvia Niccolai
-Timelike Compton Scattering on the Proton
+Timelike Compton Scattering with CLAS12
 CLAS12 RG-A
 E12-12-001
 Guillaume
 Christiaens
 Glasgow & CEA Saclay
 D. Sokhan & M. Defurne
-Deeply Virtual Compton Scattering off the Proton at 10.6 GeV
+DVCS Beam Spin Assymetries at 10.6 GeV with the CLAS12 Spectrometer
 CLAS12 RG-A
 E12-06-119
 Nathan
@@ -114,7 +100,7 @@ Victoria
 Lagerquist
 Old Dominion University
 Sebastian Kuhn
-T.B.D.
+The CLAS12 Longitudinally Polarized Target
 Run Group C
 
 Michael
@@ -149,7 +135,7 @@ David
 Payette
 Old Dominion University
 Sebastian Kuhn
-T.B.D.
+Tracking Proton Spectators in Deep Inelastic Electron Scattering
 Run Group F
 BONus12
 Evan
@@ -163,9 +149,9 @@ Jiwan
 Poudel
 Old Dominion University
 Stephen Bueltmann
-T.B.D.
+Beam Spin Asymmetries in Time-like Compton Scattering
 CLAS12 
-Run Group F
+Run Group A
 Torri
 Roark
 Old Dominion Universtity
@@ -173,6 +159,13 @@ M. Amaryan
 Photoproduction and Radiative Decay of eta Meson in CLAS at JLab
 g11
 CAA LMD
+Efrain
+Segarra
+Massachusetts Institute of Technology
+Or Hen
+Bound proton structure function from d(e,e'n_recoil) measurements
+CLAS12
+Run Group A
 Utsav
 Shrestha
 Ohio University
@@ -213,7 +206,21 @@ Tian
 University of South Carolina
 Ralf Gothe
 Single Pion Electroproduction off the Neutron in Deuterium
-e1-e
+e1e
+
+Nicholas
+Tyler
+University of South Carolina
+Ralf Gothe
+Single Pion Electroproduction off the Proton
+e1d
+
+Tyler 
+Viducic
+Old Dominion University
+Moskov Amaryan
+Radiative Decay of rho to pi+ pi- gamma
+g11 CLAS12
 
 Kevin
 Wei 

@@ -1,3 +1,11 @@
+Frank
+Cao
+2019 May
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/FCao_thesis.pdf">Beam-Spin Asymmetry of Exclusive Coherent Electroproduction of the &#960;<sup>0</sup> off <sup>4</sup>He</a> 
+eg6
+
 David
 Riser
 2019 June
@@ -21,6 +29,14 @@ Glasgow University
 Daria Sokhan & David Ireland
 <a href="thesis/Murdoch_thesis.pdf">Beam-, Target-, and Double-Spin Asymmetry Measurements in Deeply Virtual &#960;<sup>0</sup>, &#960;<sup>+</sup> and &#960;<sup>-</sup> Meson Production </a>  
 eg1-DVCS
+
+Shankar 
+Adhikari
+2018 November
+Florida International University
+Lei Guo, Brian Raue
+<a href="thesis/SAdhikari_thesis.pdf">Polarization Observables for &#947; p --> K<sup>0+</sup> &#923; at Photon Energies up to 5.,45 GeV</a>
+g12
 
 Zulkaida 
 Akbar 
