@@ -5,26 +5,12 @@ Lei Guo, Brian Raue
 Measurement of Polarization Observables for Lambda in the reaction gamma p --> K+ Lambda.
 g12
 
-Zulkaida 
-Akbar 
-Florida State University
-Volker Crede
-omega Photoproduction from g12 (Cross Sections & SDMEs)
-g12
-
 Giovanni 
 Angelini 
 George Washington University
 William Briscoe & Patrizia Rossi (JLab)
 Probing the Proton's Quark Dynamics in Semi-Inclusive Pion and Kaon Electroproduction
 CLAS12
-
-Ilaria
-Balosino
-INFN Ferrara
-Marco Contalbrigo
-T.B.D.
-CLAS12 RICH E12-09-008
 
 Dilini
 Bulumulla
@@ -39,13 +25,6 @@ University of Connecticut
 Kyungseon Joo
 Deeply Virtual pi^0 Meson Production off He4
 eg6
-
-Taya
-Chetry
-Ohio University
-Ken Hicks
-Coherent Photoproduction of the rho Meson from Deuterium
-g10
 
 Louise 
 Clark
@@ -187,13 +166,6 @@ Stephen Bueltmann
 T.B.D.
 CLAS12 
 Run Group F
-David
-Riser
-University of Connecticut
-Kyungseon Joo
-Measurements of Semi-Inclusive pi^0 Production on the Unpolarized Proton
-ef1 and e1-dvcs
-
 Torri
 Roark
 Old Dominion Universtity
@@ -243,26 +215,12 @@ Ralf Gothe
 Single Pion Electroproduction off the Neutron in Deuterium
 e1-e
 
-Matteo
-Turisini
-INFN Ferrara
-Marco Contalbrigo
-The CLAS12 RICH readout electronics: design, development and test
-CLAS12 RICH E12-09-008
-
 Kevin
 Wei 
 University of Connecticut
 Kyungseon Joo
 Development of a Novel System to Hold Polarized HD Transverse to High Energy Electron Beams within the CLAS12 Longitudinal Solenoid
 CLAS12
-
-Christopher
-Zeoli
-Florida State University 
-Volker Crede
-Partial Wave Analysis of the omega Decay Dalitz Plot
-g12
 
 Isaac
 Newton

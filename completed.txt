@@ -1,3 +1,19 @@
+David
+Riser
+2019 June
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/DRiser_thesis.pdf">Studies of Quark Momentum in the Proton by Use of the SIDIS Process</a> 
+e1f
+
+Taya
+Chetry
+2019 May
+Ohio University
+Ken Hicks
+<a href="thesis/TChetry_thesis.pdf">A Study of the Reaction &#947; d --> &#960;<sup>+</sup> &#960;<sup>-</sup> d (From Vector Mesons to Possible Dibaryons)</a> 
+g10
+
 Gavin
 Murdoch
 2019 March
@@ -5,6 +21,14 @@ Glasgow University
 Daria Sokhan & David Ireland
 <a href="thesis/Murdoch_thesis.pdf">Beam-, Target-, and Double-Spin Asymmetry Measurements in Deeply Virtual &#960;<sup>0</sup>, &#960;<sup>+</sup> and &#960;<sup>-</sup> Meson Production </a>  
 eg1-DVCS
+
+Zulkaida 
+Akbar 
+2018 July
+Florida State University
+Volker Crede
+<a href="thesis/AZulkaida_thesis.pdf"> The Search For N<sup>*</sup> Resonances: Measurement of Differential Cross Sections and Polarization Observables for &#947; p --> p &#969; and &#947; p --> K<sup>0</sup>&#931;<sup>+</sup> Using Circularly-Polarized Photons at CLAS, JEFFERSON LAB</a> 
+g12
 
 Olga
 Cortes Becerra
@@ -14,6 +38,14 @@ Philip Cole
 <a href="thesis/CortesBecerra_thesis.pdf">Beam Asymmetry for Photoproduced &#969; Mesons off Bound Protons in Deuterons</a>  
 g13b
 
+Ilaria
+Balossino
+2018 February
+INFN Ferrara
+Marco Contalbrigo
+<a href="thesis/IBalossino_thesis.pdf">Studies of Innovative Photon Detectors Working in the Single-Photon Regime for the RICH Detector of the CLAS12 Experiment</a> 
+CLAS12 RICH 
+E12-09-008
 William
 Phelps
 2017 November
@@ -69,6 +101,15 @@ University of Rome, Tor Vergata
 Annalisa D'Angelo
 <a href="thesis/Lanza_thesis.pdf">Search for Hybrid Mesons with CLAS12 Experimental Setup</a>
 
+
+Matteo
+Turisini
+2017 March
+INFN Ferrara
+Marco Contalbrigo
+<a href="thesis/MTurisini_thesis.pdf">The CLAS12 RICH Readout Electronics: Design, Development, and Test</a> 
+CLAS12 RICH
+E12-09-008
 CLAS12
 Arjun
 Trivedi
@@ -93,7 +134,15 @@ Florida State University
 Volker Crede
 <a href="thesis/PRoy_thesis.pdf">Measurement of Polarization Observables in Vector Meson Photoproduction Using a Transversely-Polarized Frozen-Spin Target and Polarized Photons at CLAS, Jefferson Lab</a>  
 g9b, g8b
-FROST 
+FROST
+Christopher
+Zeoli
+2016 October
+Florida State University 
+Volker Crede
+<a href="thesis/CZeoli_thesis.pdf">A Daltiz Plot Analysis and Extraction of Spin Density Matrix Elements for the &#969; --> 3 &#960; Decay</a> 
+g12
+ 
 Rafael
 Badui
 2016 June
