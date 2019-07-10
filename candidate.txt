@@ -10,7 +10,7 @@ Bulumulla
 Old Dominion University
 Charles Hyde
 Partial-Wave Analysis of Deep Virtual pi-pi Electroproduction on the Proton, with Extraction of the sigma-meson and rho-meson Signals.
-CLAS12 Group A
+CLAS12 RG-A
 E12-12-007
 Louise 
 Clark
@@ -24,7 +24,7 @@ Clary
 University of Connecticut
 Kyungseon Joo
 Deeply Virtual Exclusive phi(1020) Electroproduction with CLAS12 
-CLAS12 Group A
+CLAS12 RG-A
 
 Pierre
 Chatagnon
@@ -45,7 +45,7 @@ Dzbenski
 Old Dominion University
 Gail Dodge
 T.B.D.
-CLAS 12 Group F
+CLAS 12 RG-F
 BONus12
 Yeranuhi 
 Ghandilyan
@@ -73,7 +73,7 @@ Hayward
 William and Mary
 Keith Griffioen
 Dihadron Beam Single-Spin Asymmetries
-CLAS12 Group A
+CLAS12 RG-A
 
 Gary
 Hollis
@@ -93,7 +93,7 @@ Mariana
 Khachatryan
 Old Dominion University
 Lawrence Weinstein
-Neutron and Proton Momentum Distributions in 3He using 3He(e,e'p) and 3He(e,e'n) 
+Electrons for Neutrinos: Beam Energy Reconstruction 
 e2
 
 Victoria
@@ -101,8 +101,15 @@ Lagerquist
 Old Dominion University
 Sebastian Kuhn
 The CLAS12 Longitudinally Polarized Target
-Run Group C
+Run RG-C
 
+Sangbaek
+Lee
+Massachusetts Institute of Technology
+Richard Milner
+DVCS Cross Section with a Hydrogen Target
+CLAS 12
+E12-06-119
 Michael
 Mroz
 Ohio University 
@@ -136,22 +143,22 @@ Payette
 Old Dominion University
 Sebastian Kuhn
 Tracking Proton Spectators in Deep Inelastic Electron Scattering
-Run Group F
+CLAS12 RG-F
 BONus12
 Evan
 Phelps
 University of South Carolina
 Ralf Gothe
 omega Electroproduction in the Resonance Region
-e1-6, e1-f
+e1-6, e1f
 
 Jiwan
 Poudel
 Old Dominion University
 Stephen Bueltmann
 Beam Spin Asymmetries in Time-like Compton Scattering
-CLAS12 
-Run Group A
+CLAS12 RG-A
+
 Torri
 Roark
 Old Dominion Universtity
@@ -164,8 +171,8 @@ Segarra
 Massachusetts Institute of Technology
 Or Hen
 Bound proton structure function from d(e,e'n_recoil) measurements
-CLAS12
-Run Group A
+CLAS12 RG-A
+
 Utsav
 Shrestha
 Ohio University
@@ -192,7 +199,7 @@ Skorodumina
 University of South Carolina
 Ralf Gothe
 Double Pion Electroproduction off the Proton in Deuterium 
-e1-e
+e1e
 
 Kemal
 Tezgin
