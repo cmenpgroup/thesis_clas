@@ -23,7 +23,7 @@ Louise
 Clark
 University of Glasgow
 Dave Ireland & Bryan McKinnon
-phi-Photoproduction Beam Asymmetry.
+Measurement of Polarization Observables from &#947; p --> K<sup>0</sup> &#931;<sup>+</sup>, and SDMEs from &#947; p --> &#966; p Using Linearly Polarized Photons
 g8
 
 Brandon 
