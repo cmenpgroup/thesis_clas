@@ -89,6 +89,13 @@ Ralf Gothe
 Double Pion Electroproduction off the Neutron in Deuterium 
 e1-e
 
+Robert
+Johnston
+Massachusetts Institute of Technology
+Richard Milner
+Deeply Virtual &#960;<sup>0</sup> Production Cross Section
+CLAS12 RG-A
+
 Chan
 Kim
 The George Washington University
@@ -108,7 +115,7 @@ Lagerquist
 Old Dominion University
 Sebastian Kuhn
 The CLAS12 Longitudinally Polarized Target
-Run RG-C
+CLAS12 RG-C
 
 Sangbaek
 Lee
@@ -131,6 +138,13 @@ K. Hafidi (ANL), A. Hirsch (Purdue)
 Study of the EMC Effect via DVCS on 4He
 eg6
 
+Patrick
+Moran
+Massachusetts Institute of Technology
+Richard Milner
+Deeply Virtual &#966; Meson Electroproduction off a Hydrogen Target
+CLAS12 RG-A
+PR12-12-007
 Joseph
 Newton
 Old Dominion University
