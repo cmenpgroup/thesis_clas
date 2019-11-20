@@ -659,7 +659,7 @@ Dey
 2011 July
 Carnegie Mellon University
 Curtis Meyer
-<a href="thesis/BDey_thesis.pdf">Differential Cross Section and Polarization Extractions for &#947; p to K<sup>+</sup> &#931;<sup>0</sup> and &#947; p to  &#966; p using CLAS at Jefferson Lab, Towards a Partial Wave Analysis in Search of Missing Baryon Resonances </a>
+<a href="thesis/BDey_thesis.pdf">Differential Cross Section and Polarization Extractions for &#947; p --> K<sup>+</sup> &#931;<sup>0</sup> and &#947; p -->  &#966; p using CLAS at Jefferson Lab, Towards a Partial Wave Analysis in Search of Missing Baryon Resonances </a>
 g11
 
 Ryan
