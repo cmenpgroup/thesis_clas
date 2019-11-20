@@ -30,14 +30,6 @@ Daria Sokhan & David Ireland
 <a href="thesis/Murdoch_thesis.pdf">Beam-, Target-, and Double-Spin Asymmetry Measurements in Deeply Virtual &#960;<sup>0</sup>, &#960;<sup>+</sup> and &#960;<sup>-</sup> Meson Production </a>  
 eg1-DVCS
 
-Orlando
-Soto
-January 2019
-Universidad Tecnica Federico Santa Maria
-Hayk Hakobyan
-<a href="thesis/OSoto_thesis.pdf">Hadronization Studies of &#951; Mesons Using the CLAS Spectrometer</a> 
-eg2
-
 Shankar 
 Adhikari
 2018 November
@@ -53,6 +45,14 @@ Florida State University
 Volker Crede
 <a href="thesis/AZulkaida_thesis.pdf"> The Search For N<sup>*</sup> Resonances: Measurement of Differential Cross Sections and Polarization Observables for &#947; p --> p &#969; and &#947; p --> K<sup>0</sup>&#931;<sup>+</sup> Using Circularly-Polarized Photons at CLAS, JEFFERSON LAB</a> 
 g12
+
+Orlando
+Soto
+July 2018
+Universidad Tecnica Federico Santa Maria
+Hayk Hakobyan
+<a href="thesis/OSoto_thesis.pdf">Hadronization Studies of &#951; Mesons Using the CLAS Spectrometer</a> 
+eg2
 
 Olga
 Cortes Becerra
