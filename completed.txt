@@ -30,6 +30,14 @@ Daria Sokhan & David Ireland
 <a href="thesis/Murdoch_thesis.pdf">Beam-, Target-, and Double-Spin Asymmetry Measurements in Deeply Virtual &#960;<sup>0</sup>, &#960;<sup>+</sup> and &#960;<sup>-</sup> Meson Production </a>  
 eg1-DVCS
 
+Orlando
+Soto
+January 2019
+Universidad Tecnica Federico Santa Maria
+Hayk Hakobyan
+<a href="thesis/OSoto_thesis.pdf">Hadronization Studies of &#951; Mesons Using the CLAS Spectrometer</a> 
+eg2
+
 Shankar 
 Adhikari
 2018 November
