@@ -48,7 +48,7 @@ g12
 
 Orlando
 Soto
-July 2018
+2018 July
 Universidad Tecnica Federico Santa Maria
 Hayk Hakobyan
 <a href="thesis/OSoto_thesis.pdf">Hadronization Studies of &#951; Mesons Using the CLAS Spectrometer</a> 
