@@ -4,6 +4,7 @@ $NameFinish="completed.txt";
 $NameCandidate="candidate.txt";
 $NameTop="top.html";
 $NameMiddle="middle.html";
+$NamePostMiddle="postmiddle.html";
 $NameBottom="bottom.html";
 
 $overwrite=($ARGV[0] eq "-f");
@@ -14,6 +15,7 @@ open($FileFinish,"<$NameFinish") or die "Cannot open file $NameFinish!";
 open($FileCandidate,"<$NameCandidate") or die "Cannot open file $NameCandidate!";
 open($FileTop,"<$NameTop") or die "Cannot open file $NameTop!";
 open($FileMiddle,"<$NameMiddle") or die "Cannot open file $NameMiddle!";
+open($FilePostMiddle,"<$NamePostMiddle") or die "Cannot open file $NamePostMiddle!";
 open($FileBottom,"<$NameBottom") or die "Cannot open file $NameBottom!";
 open($FileHtml,">$NameHtml") or die "Cannot open file $NameHtml!";
 my @lines=<$FileTop>;
@@ -48,6 +50,12 @@ foreach $line (@lines){
     $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
 }
 close($FileFinish);
+@lines=<$FilePostMiddle>;
+foreach (@lines){
+    print $FileHtml $_;
+}
+close($FilePostMiddle);
+
 @lines=<$FileBottom>;
 foreach (@lines){
     print $FileHtml $_;
