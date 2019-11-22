@@ -22,22 +22,6 @@ foreach (@lines){
 }
 close($FileTop);
 $stringTR='    <tr align="left" valign="top">';
-@lines=<$FileFinish>;
-$indLine=0;
-foreach $line (@lines){
-    chomp($line);
-    $indLine==0 and print $FileHtml "$stringTR\n";
-    print $FileHtml "      <td>".$line."</td>\n";
-    $indLine+=1;
-    $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
-}
-close($FileFinish);
-
-@lines=<$FileMiddle>;
-foreach (@lines){
-    print $FileHtml $_;
-}
-close($FileMiddle);
 @lines=<$FileCandidate>;
 $indLine=0;
 foreach $line (@lines){
@@ -48,6 +32,22 @@ foreach $line (@lines){
     $indLine==7 and print $FileHtml "    </tr>\n" and $indLine=0;
 }
 close($FileCandidate);
+
+@lines=<$FileMiddle>;
+foreach (@lines){
+    print $FileHtml $_;
+}
+close($FileMiddle);
+@lines=<$FileFinish>;
+$indLine=0;
+foreach $line (@lines){
+    chomp($line);
+    $indLine==0 and print $FileHtml "$stringTR\n";
+    print $FileHtml "      <td>".$line."</td>\n";
+    $indLine+=1;
+    $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
+}
+close($FileFinish);
 @lines=<$FileBottom>;
 foreach (@lines){
     print $FileHtml $_;

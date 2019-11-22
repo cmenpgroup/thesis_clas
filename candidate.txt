@@ -215,13 +215,6 @@ Daniel Watts
 KKp Observables
 g11 
 HASPECT
-Orlando
-Soto
-Universidad Tecnica Federico Santa Maria
-Hayk Hakobyan
-Eta Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer
-eg2
-
 Iuliia 
 Skorodumina
 University of South Carolina
