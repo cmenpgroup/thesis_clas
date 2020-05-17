@@ -38,6 +38,14 @@ Lei Guo, Brian Raue
 <a href="thesis/SAdhikari_thesis.pdf">Polarization Observables for &#947; p --> K<sup>0+</sup> &#923; at Photon Energies up to 5.,45 GeV</a>
 g12
 
+Barak
+Schmookler
+2018 September
+Massachusetts Institute of Technology
+Or Hen, Shalev Gilad
+<a href="thesis/BSchmookler_thesis.pdf">Nucleon Structure and Its Modification in Nuclei.</a>
+eg2
+
 Zulkaida 
 Akbar 
 2018 July
