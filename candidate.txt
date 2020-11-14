@@ -1,4 +1,6 @@
-Giovanni 
+
+
+Giovanni
 Angelini 
 George Washington University
 William Briscoe & Patrizia Rossi (JLab)
@@ -33,20 +35,6 @@ Raphael Dupre (IPN-Orsay)
 Measurement of the Boer-Mulders Function in the Nucleon and Nuclei with the CLAS12 Spectrometer at the Jefferson Laboratory
 CLAS12 RG-A
 
-Brandon 
-Clary 
-University of Connecticut
-Kyungseon Joo
-Deeply Virtual Exclusive phi(1020) Electroproduction with CLAS12 
-CLAS12 RG-A
-
-Pierre
-Chatagnon
-IPN Orsay
-Silvia Niccolai
-Timelike Compton Scattering with CLAS12
-CLAS12 RG-A
-E12-12-001
 Guillaume
 Christiaens
 Glasgow & CEA Saclay
@@ -54,13 +42,6 @@ D. Sokhan & M. Defurne
 DVCS Beam Spin Assymetries at 10.6 GeV with the CLAS12 Spectrometer
 CLAS12 RG-A
 E12-06-119
-Nathan
-Dzbenski
-Old Dominion University
-Gail Dodge
-T.B.D.
-CLAS 12 RG-F
-BONus12
 Yeranuhi 
 Ghandilyan
 Yerevan  
@@ -96,6 +77,13 @@ Ralf Gothe
 Double Pion Electroproduction off the Neutron in Deuterium 
 e1-e
 
+Isabella
+Illari
+The George Washington University
+Igor Strakovsky, William Briscoe, Volker Burkert
+Electro-Production of &#951 and &#951' Mesons with CLAS12 at Jefferson Lab
+CLAS12 RG-A, RG-K
+
 Robert
 Johnston
 Massachusetts Institute of Technology
@@ -106,16 +94,10 @@ CLAS12 RG-A
 Chan
 Kim
 The George Washington University
-Igor Strakovsky
+Igor Strakovsky, William Briscoe
 Helicity Asymmetry Measurement for pi0 Photoproduction on the CLAS Frozen Spin Target
 g9
 FROST
-Mariana 
-Khachatryan
-Old Dominion University
-Lawrence Weinstein
-Electrons for Neutrinos: Beam Energy Reconstruction 
-e2
 
 Victoria
 Lagerquist
@@ -131,12 +113,6 @@ Richard Milner
 DVCS Cross Section with a Hydrogen Target
 CLAS 12
 E12-06-119
-Michael
-Mroz
-Ohio University 
-Ken Hicks
-Lambda-nucleon scattering
-g12
 
 Cristina
 Moody
@@ -173,12 +149,6 @@ Sebastian Kuhn
 Tracking Proton Spectators in Deep Inelastic Electron Scattering
 CLAS12 RG-F
 BONus12
-Evan
-Phelps
-University of South Carolina
-Ralf Gothe
-omega Electroproduction in the Resonance Region
-e1-6, e1f
 
 Jiwan
 Poudel
@@ -194,6 +164,13 @@ M. Amaryan
 Photoproduction and Radiative Decay of eta Meson in CLAS at JLab
 g11
 CAA LMD
+Joseph
+Rowley
+Ohio University
+Ken Hicks
+Cross sections for Lambda-proton scattering
+g12
+
 Efrain
 Segarra
 Massachusetts Institute of Technology

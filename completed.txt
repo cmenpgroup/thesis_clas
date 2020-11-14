@@ -1,3 +1,34 @@
+Nathan
+Dzbenski
+December 2020
+Old Dominion University
+Gail Dodge
+Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12
+CLAS 12 RG-F
+BONUS12
+Brandon
+Clary
+University of Connecticut
+Kyungseon Joo
+Exclusive &#966 Production Beam Spin Asymmetry Measurements with CLAS12
+CLAS12
+RG-A
+Pierre
+Chatagnon
+2020 October
+IPN Orsay
+Silvia Niccolai
+<a href="thesis/PChatagnon_thesis.pdf">Nucleon Structure studies with CLAS12 at Jefferson Lab: Timelike Compton Scattering and the Central Neutron Detector</a>
+CLAS12
+RG-A E12-12-001
+Mariana
+Khachatryan
+2019 December
+Old Dominion University
+Lawrence Weinstein
+<a href="thesis/MKhachatryan_thesis.pdf">Electrons for Neutrinos: Beam Energy Reconstruction</a>
+e2
+
 Frank
 Cao
 2019 May
@@ -110,6 +141,14 @@ Steffen Strauch
 <a href="thesis/Net_LeliaAneta_thesis.pdf">Polarization Observables in Double-Pion Photoproduction with Circularly Polarized Photons off Transversely Polarized Protons</a>  
 g9b
 E06-013
+Evan
+Phelps
+2017 May
+University of South Carolina
+Ralf Gothe
+<a href="thesis/EPhelps_thesis.pdf">Electroproduction of &#969 Mesons off Protons in the Third Resonance Region and Beyond</a>
+e1-6, e1f
+
 Georgie
 Mbianda Njencheu
 2017 May
@@ -133,7 +172,6 @@ University of Rome, Tor Vergata
 Annalisa D'Angelo
 <a href="thesis/Lanza_thesis.pdf">Search for Hybrid Mesons with CLAS12 Experimental Setup</a>
 
-
 Matteo
 Turisini
 2017 March
@@ -149,6 +187,14 @@ University of South Carolina
 Ralf Gothe
 <a href="thesis/Trivedi_thesis.pdf">Measurement of New Observables from the &#960;<sup>+</sup> &#960;<sup>-</sup> Electroproduction off the Proton</a>  
 e1-6
+
+Ye
+Tian
+2016 December
+University of South Carolina
+Ralf Gothe
+<a href="thesis/YTian_thesis.pdf">Exclusive &#960<sup>-</sup> Electroproduction off the Neutron in Deuterium in the Resonance Region</a>
+e1e
 
 Bayram
 Torayev
