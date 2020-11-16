@@ -145,7 +145,6 @@ Sebastian Kuhn
 Tracking Proton Spectators in Deep Inelastic Electron Scattering
 CLAS12 RG-F
 BONus12
-
 Jiwan
 Poudel
 Old Dominion University
@@ -156,7 +155,7 @@ CLAS12 RG-A
 Torri
 Roark
 Old Dominion Universtity
-M. Amaryan
+M. Maryann
 Photoproduction and Radiative Decay of eta Meson in CLAS at JLab
 g11
 CAA LMD
