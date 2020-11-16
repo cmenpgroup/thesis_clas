@@ -96,7 +96,6 @@ Igor Strakovsky, William Briscoe
 Helicity Asymmetry Measurement for pi0 Photoproduction on the CLAS Frozen Spin Target
 g9
 FROST
-
 Victoria
 Lagerquist
 Old Dominion University
@@ -111,7 +110,6 @@ Richard Milner
 DVCS Cross Section with a Hydrogen Target
 CLAS 12
 E12-06-119
-
 Cristina
 Moody
 Purdue 
