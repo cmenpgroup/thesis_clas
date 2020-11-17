@@ -1,6 +1,6 @@
 Nathan
 Dzbenski
-December 2020
+2020 December
 Old Dominion University
 Gail Dodge
 Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12
@@ -8,7 +8,7 @@ CLAS 12 RG-F
 BONUS12
 Brandon
 Clary
-August 2020
+2020 August
 University of Connecticut
 Kyungseon Joo
 Exclusive &#966 Production Beam Spin Asymmetry Measurements with CLAS12
