@@ -1,11 +1,3 @@
-Nathan
-Dzbenski
-2020 December
-Old Dominion University
-Gail Dodge
-Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12
-CLAS 12 RG-F
-BONUS12
 Brandon
 Clary
 2020 August
@@ -22,6 +14,14 @@ Silvia Niccolai
 <a href="thesis/PChatagnon_thesis.pdf">Nucleon Structure studies with CLAS12 at Jefferson Lab: Timelike Compton Scattering and the Central Neutron Detector</a>
 CLAS12
 RG-A E12-12-001
+Nathan
+Dzbenski
+2020 May
+Old Dominion University
+Gail Dodge
+<a href="thesis/NDzbenski_thesis.pdf">Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12</a>
+CLAS 12 RG-F
+BONUS12
 Mariana
 Khachatryan
 2019 December
