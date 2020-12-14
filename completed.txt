@@ -3,7 +3,7 @@ Clary
 2020 August
 University of Connecticut
 Kyungseon Joo
-Exclusive &#966 Production Beam Spin Asymmetry Measurements with CLAS12
+<a href="thesis/BClary_thesis.pdf">Exclusive &#966 Production Beam Spin Asymmetry Measurements with CLAS12</a>
 CLAS12
 RG-A
 Pierre
