@@ -3,7 +3,7 @@ Gonzalez Ledesma
 2020 December
 Florida State University
 Volker Crede
-<a href="thesis/JFGonzalezLedesma_thesis.pdf">The Study of Beam-Recoil Polarization Observables for &#947 p -> K<sup>0</sup>&#931<sup>+</sup></a>
+<a href="thesis/JFGonzalezLedesma_thesis.pdf">The Study of Beam-Recoil Polarization Observables for &#947 p --> K<sup>0</sup>&#931<sup>+</sup></a>
 g12
 Master's 
 Brandon
