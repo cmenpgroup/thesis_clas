@@ -173,13 +173,6 @@ Or Hen
 Bound proton structure function from d(e,e'n_recoil) measurements
 CLAS12 RG-A
 
-Utsav
-Shrestha
-Ohio University
-Ken Hicks
-Photoproduction of Lambda* Resonances
-g12
-
 Ivana 
 Stankovic
 Edinburgh
