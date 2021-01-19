@@ -2,6 +2,7 @@
 $NameHtml="clas_thesis.html";
 $NameFinish="completed.txt";
 $NameCandidate="candidate.txt";
+$NameNonCLAS="completed_nonclas.txt";
 $NameTop="top.html";
 $NameMiddle="middle.html";
 $NamePostMiddle="postmiddle.html";
@@ -13,6 +14,7 @@ if(-e $NameHtml){
 }
 open($FileFinish,"<$NameFinish") or die "Cannot open file $NameFinish!";
 open($FileCandidate,"<$NameCandidate") or die "Cannot open file $NameCandidate!";
+open($FileNonCLAS,"<$NameNonCLAS") or die "Cannot open file $NameNonCLAS!";
 open($FileTop,"<$NameTop") or die "Cannot open file $NameTop!";
 open($FileMiddle,"<$NameMiddle") or die "Cannot open file $NameMiddle!";
 open($FilePostMiddle,"<$NamePostMiddle") or die "Cannot open file $NamePostMiddle!";
@@ -55,7 +57,16 @@ foreach (@lines){
     print $FileHtml $_;
 }
 close($FilePostMiddle);
-
+@lines=<$FileNonCLAS>;
+$indLine=0;
+foreach $line (@lines){
+    chomp($line);
+    $indLine==0 and print $FileHtml "$stringTR\n";
+    print $FileHtml "      <td>".$line."</td>\n";
+    $indLine+=1;
+    $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
+}
+close($FileNonCLAS);
 @lines=<$FileBottom>;
 foreach (@lines){
     print $FileHtml $_;
