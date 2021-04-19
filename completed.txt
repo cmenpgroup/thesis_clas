@@ -1,11 +1,3 @@
-Timothy
-Hayward
-2021 ?
-William and Mary
-Keith Griffioen
-<a href="thesis/DPayette_thesis.pdf">Dihadron Beam Single-Spin Asymmetries</a>
-CLAS12 
-RG-A
 David
 Payette
 2021 May
@@ -14,6 +6,14 @@ Sebastian Kuhn
 <a href="thesis/DPayette_thesis.pdf">Spectator Proton Detection and Reconstruction in Deep Inelastic D(e,ep<sub>s</sub>) SCATTERING</a>
 CLAS12
 BONUS12
+Timothy
+Hayward
+2021 March
+William and Mary
+Keith Griffioen
+<a href="thesis/THayward_thesis.pdf">Dihadron Beam Spin Asymmetries on an Unpolarized Hydrogen Target with CLAS12</a>
+CLAS12 
+RG-A
 Utsav
 Shrestha
 2021 January
