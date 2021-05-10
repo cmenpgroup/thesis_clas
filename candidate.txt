@@ -33,13 +33,6 @@ Raphael Dupre (IPN-Orsay)
 Measurement of the Boer-Mulders Function in the Nucleon and Nuclei with the CLAS12 Spectrometer at the Jefferson Laboratory
 CLAS12 RG-A
 
-Guillaume
-Christiaens
-Glasgow & CEA Saclay
-D. Sokhan & M. Defurne
-DVCS Beam Spin Assymetries at 10.6 GeV with the CLAS12 Spectrometer
-CLAS12 RG-A
-E12-06-119
 Yeranuhi 
 Ghandilyan
 Yerevan  
@@ -121,8 +114,15 @@ Joseph
 Newton
 Old Dominion University
 Stepan Stepanyan
-J/psi Photoproduction Near Threshold
+J/&psi Photoproduction Near Threshold
 CLAS12
+
+Paul 
+Naidoo
+University of Glasgow
+Daria Sokhan & Bryan McKinnon
+Hard exclusive &pi<sup>0</sup> production from the neutron and proton in deuterium
+CLAS12 RG-B
 
 Thomas 
 O'Connell
@@ -193,6 +193,13 @@ University of South Carolina
 Ralf Gothe
 Single Pion Electroproduction off the Proton
 e1d
+
+Richard 
+Tyson 
+University of Glasgow
+David Ireland & Bryan McKinnon
+J/&psi Near Threshold Photoproduction at CLAS12
+CLAS12 RG-B
 
 Tyler 
 Viducic

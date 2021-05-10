@@ -1,3 +1,11 @@
+Guillaume
+Christiaens
+2021 May
+University of Glasgow & CEA Saclay
+D. Sokhan & M. Defurne
+<a href="thesis/GChristiaens_thesis.pdf">DVCS Beam Spin Asymetries at 10.6 GeV with the CLAS12 Spectrometer</a>
+CLAS12 RG-A
+E12-06-119
 David
 Payette
 2021 May
