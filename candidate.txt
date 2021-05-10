@@ -114,14 +114,14 @@ Joseph
 Newton
 Old Dominion University
 Stepan Stepanyan
-J/&psi Photoproduction Near Threshold
+J/&psi; Photoproduction Near Threshold
 CLAS12
 
 Paul 
 Naidoo
 University of Glasgow
 Daria Sokhan & Bryan McKinnon
-Hard exclusive &pi<sup>0</sup> production from the neutron and proton in deuterium
+Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuterium
 CLAS12 RG-B
 
 Thomas 
@@ -198,7 +198,7 @@ Richard
 Tyson 
 University of Glasgow
 David Ireland & Bryan McKinnon
-J/&psi Near Threshold Photoproduction at CLAS12
+J/&psi; Near Threshold Photoproduction at CLAS12
 CLAS12 RG-B
 
 Tyler 
