@@ -1,0 +1,87 @@
+Guillaume
+Christiaens
+2021 May
+University of Glasgow & CEA Saclay
+D. Sokhan & M. Defurne
+<a href="thesis/GChristiaens_thesis.pdf">DVCS Beam Spin Asymetries at 10.6 GeV with the CLAS12 Spectrometer</a>
+CLAS12 RG-A
+E12-06-119
+David
+Payette
+2021 May
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/DPayette_thesis.pdf">Spectator Proton Detection and Reconstruction in Deep Inelastic D(e,ep<sub>s</sub>) SCATTERING</a>
+CLAS12
+BONUS12
+Timothy
+Hayward
+2021 March
+William and Mary
+Keith Griffioen
+<a href="thesis/THayward_thesis.pdf">Dihadron Beam Spin Asymmetries on an Unpolarized Hydrogen Target with CLAS12</a>
+CLAS12 
+RG-A
+Brandon
+Clary
+2020 August
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/BClary_thesis.pdf">Exclusive &#966 Production Beam Spin Asymmetry Measurements with CLAS12</a>
+CLAS12
+RG-A
+Pierre
+Chatagnon
+2020 October
+IPN Orsay
+Silvia Niccolai
+<a href="thesis/PChatagnon_thesis.pdf">Nucleon Structure studies with CLAS12 at Jefferson Lab: Timelike Compton Scattering and the Central Neutron Detector</a>
+CLAS12
+RG-A E12-12-001
+Nathan
+Dzbenski
+2020 May
+Old Dominion University
+Gail Dodge
+<a href="thesis/NDzbenski_thesis.pdf">Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12</a>
+CLAS 12 RG-F
+BONUS12
+Ilaria
+Balossino
+2018 February
+INFN Ferrara
+Marco Contalbrigo
+<a href="thesis/IBalossino_thesis.pdf">Studies of Innovative Photon Detectors Working in the Single-Photon Regime for the RICH Detector of the CLAS12 Experiment</a> 
+CLAS12 RICH 
+E12-09-008
+Lucilla
+Lanza
+2017 March
+University of Rome, Tor Vergata
+Annalisa D'Angelo
+<a href="thesis/Lanza_thesis.pdf">Search for Hybrid Mesons with CLAS12 Experimental Setup</a>
+
+
+Matteo
+Turisini
+2017 March
+INFN Ferrara
+Marco Contalbrigo
+<a href="thesis/MTurisini_thesis.pdf">The CLAS12 RICH Readout Electronics: Design, Development, and Test</a> 
+CLAS12 RICH
+E12-09-008
+Andrea
+Celentano
+2014 March
+Genova
+Mauro Taiuti & Marco Battaglieri
+<a href="thesis/Celentano_thesis.pdf">The Forward Tagger Detector for CLAS12 at Jefferson Lab and the MesonEx Experiment</a>
+CLAS12
+E12-11-005
+Gabriel
+Charles
+2013 September
+Universite Paris-Sud XI
+F. Kunne & S. Procureur
+<a href="thesis/Charles_thesis.pdf">Mise au Point de Detecteurs Micromegas pour le Spectrometre CLAS12 au Laboratoire Jefferson</a> (in French)  
+CLAS12

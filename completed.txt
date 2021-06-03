@@ -29,15 +29,7 @@ Ohio University
 Ken Hicks
 <a href="thesis/UShrestha_thesis.pdf">Photoproduction of Lambda* Resonances</a>
 g12
-
-Jose Fransico
-Gonzalez Ledesma
-2020 December
-Florida State University
-Volker Crede
-<a href="thesis/JFGonzalezLedesma_thesis.pdf">The Study of Beam-Recoil Polarization Observables for &#947 p --> K<sup>0</sup>&#931<sup>+</sup></a>
-g12
-Master's 
+ 
 Brandon
 Clary
 2020 August
