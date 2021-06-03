@@ -4,11 +4,11 @@ $NameFinish="completed.txt";
 $NameCandidate="candidate.txt";
 $NameNonCLAS="completed_nonclas.txt";
 $NameCLAS12="completed_clas12.txt";
-$NameCLAS12="completed_masters.txt";
+$NameMasters="completed_masters.txt";
 $NameTop="top.html";
 $NameMiddle="middle.html";
 $NameMiddleCLAS12="middleCLAS12.html";
-$NameMiddleCLAS12="middleMasters.html";
+$NameMiddleMasters="middleMasters.html";
 $NamePostMiddle="postmiddle.html";
 $NameBottom="bottom.html";
 
