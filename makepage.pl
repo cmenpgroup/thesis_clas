@@ -20,7 +20,7 @@ open($FileFinish,"<$NameFinish") or die "Cannot open file $NameFinish!";
 open($FileCandidate,"<$NameCandidate") or die "Cannot open file $NameCandidate!";
 open($FileNonCLAS,"<$NameNonCLAS") or die "Cannot open file $NameNonCLAS!";
 open($FileCLAS12,"<$NameCLAS12") or die "Cannot open file $NameCLAS12!";
-open($FileCLAS12,"<$NameMasters") or die "Cannot open file $NameMasters!";
+open($FileMasters,"<$NameMasters") or die "Cannot open file $NameMasters!";
 open($FileTop,"<$NameTop") or die "Cannot open file $NameTop!";
 open($FileMiddle,"<$NameMiddle") or die "Cannot open file $NameMiddle!";
 open($FileMiddleCLAS12,"<$NameMiddleCLAS12") or die "Cannot open file $NameMiddleCLAS12!";
@@ -45,11 +45,11 @@ foreach $line (@lines){
 }
 close($FileCandidate);
 
-@lines=<$FileMiddle12>;
+@lines=<$FileMiddleCLAS12>;
 foreach (@lines){
     print $FileHtml $_;
 }
-close($FileMiddle12);
+close($FileMiddleCLAS12);
 @lines=<$FileCLAS12>;
 $indLine=0;
 foreach $line (@lines){
