@@ -1,3 +1,11 @@
+Andres
+Borquez Carcamo
+2021 May
+Universidad Técnico Federico Santa Maria
+Hayk Hakobyan
+<a href="thesis/ABorquez_thesis.pdf">The &#969; Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer</a>
+eg2
+
 Jose Fransico
 Gonzalez Ledesma
 2020 December
@@ -5,4 +13,4 @@ Florida State University
 Volker Crede
 <a href="thesis/JFGonzalezLedesma_thesis.pdf">The Study of Beam-Recoil Polarization Observables for &#947 p --> K<sup>0</sup>&#931<sup>+</sup></a>
 g12
-Master's 
+ 
