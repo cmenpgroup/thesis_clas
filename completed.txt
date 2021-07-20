@@ -69,7 +69,7 @@ Massachusetts Institute of Technology
 Or Hen, Shalev Gilad
 <a href="thesis/BSchmookler_thesis.pdf">Nucleon Structure and Its Modification in Nuclei.</a>
 eg2
-
+E02-104
 Zulkaida 
 Akbar 
 2018 July
@@ -85,7 +85,7 @@ Universidad Tecnica Federico Santa Maria
 Hayk Hakobyan
 <a href="thesis/OSoto_thesis.pdf">Hadronization Studies of &#951; Mesons Using the CLAS Spectrometer</a> 
 eg2
-
+E02-104
 Olga
 Cortes Becerra
 2018 May
@@ -437,7 +437,7 @@ University of Connecticut
 Kyungseon Joo
 <a href="thesis/Mineeva_thesis.pdf"> Hadronization Studies via &#960;<sup>0</sup> Electroproduction off D, C, Fe, and Pb </a>
 eg2
-
+E02-104
 Vivien
 Laine
 2013 November
@@ -813,7 +813,7 @@ University of New Hampshire
 Maurik Holtrop
       <a href="thesis/Zana_thesis.pdf">Search for the Onset of Color Transparency Through &#961; Electroproduction on Nuclei</a>
 eg2
-02-110
+E02-110
 Megh
 Niroula
 2010 May
@@ -933,7 +933,7 @@ Yerevan State University
 Will Brooks & A. Danagulyan
 <a href="thesis/Hakobyan_thesis.pdf">Observation of Quark Propagation Pattern in Nuclear Medium</a>
 eg2
- 
+E02-104 
 Narbe
 Kalantarians
 2008 August
@@ -973,7 +973,7 @@ University  Mohammed V, Morocco
 Kwatar Hafidi
 <a href="thesis/ElFassi_thesis.pdf">Etude de la Transparence de Couleur du Meson Vecteur &#961;<sup>0</sup> </a> (in French)
 eg2
- 
+E02-110 
 Joshua
 Pierce
 2008 January
