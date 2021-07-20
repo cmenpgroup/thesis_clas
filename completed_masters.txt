@@ -1,7 +1,7 @@
 Andres
 Borquez Carcamo
 2021 May
-Universidad Técnico Federico Santa Maria
+Universidad Tecnica Federico Santa Maria
 Hayk Hakobyan
 <a href="thesis/ABorquez_thesis.pdf">The &#969; Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer</a>
 eg2
