@@ -14,3 +14,11 @@ Volker Crede
 <a href="thesis/JFGonzalezLedesma_thesis.pdf">The Study of Beam-Recoil Polarization Observables for &#947 p --> K<sup>0</sup>&#931<sup>+</sup></a>
 g12
  
+Andres
+Melo
+2016 January
+Universidad de la Republica, Montevideo, Uruguay
+Carlos Salgado and Gabriel Gonzalez-Sprinberg
+<a href="thesis/AMelo_thesis.pdf">Analysis of the &#969; -> &pi;<sup>+</sup> &pi;<sup>-</sup> &pi;<sup>0</sup> decay using the CLAS at Jefferson Lab</a>
+g12
+ 
