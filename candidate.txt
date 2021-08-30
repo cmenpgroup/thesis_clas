@@ -82,6 +82,13 @@ Igor Strakovsky, William Briscoe
 Helicity Asymmetry Measurement for pi0 Photoproduction on the CLAS Frozen Spin Target
 g9
 FROST
+Aron 
+Kripko
+U. of Giessen, Germany
+Kai Brinkmann
+Beam Spin Asymmetries in Kaon SIDIS with unpolarized hydrogen target
+CLAS12 RG-A
+
 Victoria
 Lagerquist
 Old Dominion University
@@ -192,6 +199,13 @@ Tyson
 University of Glasgow
 David Ireland & Bryan McKinnon
 J/&psi; Near Threshold Photoproduction at CLAS12
+CLAS12 RG-B
+
+Simone 
+Vallarino
+University of Ferrara, Italy
+Marco Contalbrigo
+Beam Spin Asymmetries of KAON SIDIS with unpolarized deuterium target
 CLAS12 RG-B
 
 Tyler 

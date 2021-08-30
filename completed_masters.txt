@@ -6,6 +6,22 @@ Hayk Hakobyan
 <a href="thesis/ABorquez_thesis.pdf">The &#969; Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer</a>
 eg2
 E02-104
+Sebastian
+Moran Vasquez
+2021 March
+Universidad Tecnica Federico Santa Maria
+Hayk Hakobyan
+<a href="thesis/SMoran_thesis.pdf">Study of Hadronization Process Using Positive Pions with CLAS in Jefferson Lab</a>
+eg2
+E02-104
+Antonio
+Radic Brito
+2021 March
+Universidad Tecnica Federico Santa Maria
+Hayk Hakobyan
+<a href="thesis/ARadic_thesis.pdf">Two-Pion Bose-Einstein Correlation Measurements with CLAS Detector</a>
+eg2
+E02-104
 Jose Fransico
 Gonzalez Ledesma
 2020 December
