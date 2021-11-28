@@ -68,11 +68,18 @@ Richard Milner
 Deeply Virtual &#960;<sup>0</sup> Production Cross Section
 CLAS12 RG-A
 
+Achyut
+Khanal
+Florida International University
+Brian Raue, Lei Guo
+Quasi-real photoproduction of Cascade* (&Xi;<sup>*</sup>(1820)) at CLAS12
+CLAS12 RG-A
+E12-11-005A
 Chan
 Kim
 The George Washington University
 Igor Strakovsky, William Briscoe
-Helicity Asymmetry Measurement for pi0 Photoproduction on the CLAS Frozen Spin Target
+Helicity Asymmetry Measurement for &pi;<sup>0</sup> Photoproduction on the CLAS Frozen Spin Target
 g9
 FROST
 Aron 
@@ -103,6 +110,13 @@ K. Hafidi (ANL), A. Hirsch (Purdue)
 Study of the EMC Effect via DVCS on 4He
 eg6
 
+Christopher
+McLauchlin
+University of South Carolina
+Ralf Gothe
+Double Charged Pion Electroproduction off the Proton and Measurement of Beam Spin Asymmetries
+e1-6, e1f
+
 Patrick
 Moran
 Massachusetts Institute of Technology
@@ -124,6 +138,13 @@ Daria Sokhan & Bryan McKinnon
 Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuterium
 CLAS12 RG-B
 
+Krishna
+Neupane
+University of South Carolina
+Ralf Gothe
+CLAS12 Two-Pion Electroproduction Channel Analysis
+CLAS12 RG-A 
+
 Thomas 
 O'Connell
 University of Connecticut
@@ -131,13 +152,34 @@ Kyungseon Joo
 Development of Spin-Frozen Transversely-Polarized HDIce Target Under Electron Beams
 HDIce
 
+Mathieu
+Ouillon
+IJCLab, Univ. Paris-Saclay
+Raphaël Dupré
+Tagged neutron DVCS with Bonus12 and CLAS12 at Jefferson Lab
+CLAS12 RG-F
+E12-06-113A, BONUS12
 Pushpa 
 Pandey 
 Old Dominion University
 Sebastian Kuhn
 Inclusive Spin Structure Functions
 CLAS12 RG-C
+E12-06-109
+Noémie
+Pilleux
+IJCLab, Université Paris Saclay
+Silvia Niccolai
+nDVCS on a longitudinally polarized target with CLAS12 
+CLAS12 RG-C
 
+Madhusudhan
+Pokhrel
+Old Dominion University
+Stephen Bueltmann
+Neutron Structure with Bonus12
+CLAS12 RG-F
+Bonus12
 Jiwan
 Poudel
 Old Dominion University
