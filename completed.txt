@@ -94,6 +94,14 @@ Philip Cole
 <a href="thesis/CortesBecerra_thesis.pdf">Beam Asymmetry for Photoproduced &#969; Mesons off Bound Protons in Deuterons</a>  
 g13b
 
+Simon
+Hughes
+2017 November
+Edinburgh University
+Daniel Watts
+<a href="thesis/SHughes_thesis.pdf">A Fast Timing Hodoscope for CLAS12 and the First Measurement of the &gamma;p -> &omega;&pi;&pi;p Decay Channel</a>
+g11, CLAS12
+
 William
 Phelps
 2017 November
