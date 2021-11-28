@@ -131,13 +131,13 @@ Kyungseon Joo
 Development of Spin-Frozen Transversely-Polarized HDIce Target Under Electron Beams
 HDIce
 
-David
-Payette
+Pushpa 
+Pandey 
 Old Dominion University
 Sebastian Kuhn
-Tracking Proton Spectators in Deep Inelastic Electron Scattering
-CLAS12 RG-F
-BONus12
+Inclusive Spin Structure Functions
+CLAS12 RG-C
+
 Jiwan
 Poudel
 Old Dominion University
