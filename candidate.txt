@@ -155,7 +155,7 @@ HDIce
 Mathieu
 Ouillon
 IJCLab, Univ. Paris-Saclay
-Raphaël Dupré
+Raphael Dupre
 Tagged neutron DVCS with Bonus12 and CLAS12 at Jefferson Lab
 CLAS12 RG-F
 E12-06-113A, BONUS12
@@ -166,9 +166,9 @@ Sebastian Kuhn
 Inclusive Spin Structure Functions
 CLAS12 RG-C
 E12-06-109
-Noémie
+Noemie
 Pilleux
-IJCLab, Université Paris Saclay
+IJCLab, Univ. Paris Saclay
 Silvia Niccolai
 nDVCS on a longitudinally polarized target with CLAS12 
 CLAS12 RG-C
