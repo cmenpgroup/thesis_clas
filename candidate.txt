@@ -26,13 +26,6 @@ Dave Ireland & Bryan McKinnon
 Measurement of Polarization Observables from &#947; p --> K<sup>0</sup> &#931;<sup>+</sup>, and SDMEs from &#947; p --> &#966; p Using Linearly Polarized Photons
 g8
 
-Mylene 
-Caudron 
-Universite Paris-Saclay
-Raphael Dupre (IPN-Orsay)
-Measurement of the Boer-Mulders Function in the Nucleon and Nuclei with the CLAS12 Spectrometer at the Jefferson Laboratory
-CLAS12 RG-A
-
 Yeranuhi 
 Ghandilyan
 Yerevan  
