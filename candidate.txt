@@ -68,13 +68,6 @@ Brian Raue, Lei Guo
 Quasi-real photoproduction of Cascade* (&Xi;<sup>*</sup>(1820)) at CLAS12
 CLAS12 RG-A
 E12-11-005A
-Chan
-Kim
-The George Washington University
-Igor Strakovsky, William Briscoe
-Helicity Asymmetry Measurement for &pi;<sup>0</sup> Photoproduction on the CLAS Frozen Spin Target
-g9
-FROST
 Aron 
 Kripko
 U. of Giessen, Germany
