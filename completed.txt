@@ -3,7 +3,7 @@ Kim
 2022 January
 The George Washington University
 Igor Strakovsky, William Briscoe
-<a href="thesis/CKim_thesis.pdf">Measurement of the Helicity E for the &gamma p -> p &pi;<sup>0</sup> Reaction in the Resonance Region</a>
+<a href="thesis/CKim_thesis.pdf">Measurement of the Helicity E for the &gamma; p -> p &pi;<sup>0</sup> Reaction in the Resonance Region</a>
 g9
 FROST
 Iuliia
@@ -11,7 +11,7 @@ Skorodumina
 2021 August
 University of South Carolina
 Ralf Gothe
-<a href="thesis/ISkorodumina_thesis.pdf">&pi<sup>+</sup> &pi<sup>-</sup>Electroproduction off Protons in Deuterium: Measurements of Quasi-Free Cross Sections and Kinematic Probing of Final State Interactions</a>
+<a href="thesis/ISkorodumina_thesis.pdf">&pi;<sup>+</sup> &pi;<sup>-</sup>Electroproduction off Protons in Deuterium: Measurements of Quasi-Free Cross Sections and Kinematic Probing of Final State Interactions</a>
 e1e
 
 Mathieu
