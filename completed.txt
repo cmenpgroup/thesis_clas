@@ -6,6 +6,22 @@ Igor Strakovsky, William Briscoe
 <a href="thesis/CKim_thesis.pdf">Measurement of the Helicity E for the &gamma p -> p &pi;<sup>0</sup> Reaction in the Resonance Region</a>
 g9
 FROST
+Mathieu
+Ehrhart
+2021 August
+IJCLab, Univ. Paris-Saclay
+Raphael Dupre
+<a href="thesis/MEhrhart_thesis.pdf">Nucleon structure studies with CLAS at Jefferson Lab: Deeply Virtual Compton Scattering on nitrogen</a>
+eg1-DVCS
+
+Iuliia
+Skorodumina
+2021 August
+University of South Carolina
+Ralf Gothe
+<a href="thesis/ISkorodumina_thesis.pdf">&pi<sup>+</sup> &pi<sup>-</sup>Electroproduction off Protons in Deuterium: Measurements of Quasi-Free Cross Sections and Kinematic Probing of Final State Interactions</a>
+e1e
+
 Nicholas
 Tyler
 2021 June

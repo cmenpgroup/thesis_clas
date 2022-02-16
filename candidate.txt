@@ -194,13 +194,6 @@ Daniel Watts
 KKp Observables
 g11 
 HASPECT
-Iuliia 
-Skorodumina
-University of South Carolina
-Ralf Gothe
-Double Pion Electroproduction off the Proton in Deuterium 
-e1e
-
 Kemal
 Tezgin
 University of Connecticut
