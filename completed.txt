@@ -11,7 +11,7 @@ Skorodumina
 2021 August
 University of South Carolina
 Ralf Gothe
-<a href="thesis/ISkorodumina_thesis.pdf">&pi;<sup>+</sup> &pi;<sup>-</sup>Electroproduction off Protons in Deuterium: Measurements of Quasi-Free Cross Sections and Kinematic Probing of Final State Interactions</a>
+<a href="thesis/ISkorodumina_thesis.pdf">&pi;<sup>+</sup> &pi;<sup>-</sup> Electroproduction off Protons in Deuterium: Measurements of Quasi-Free Cross Sections and Kinematic Probing of Final State Interactions</a>
 e1e
 
 Mathieu
