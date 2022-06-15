@@ -23,7 +23,7 @@ Dilini
 Bulumulla
 Old Dominion University
 Charles Hyde
-Partial-Wave Analysis of Deep Virtual &pi;-&pi; Electroproduction on the Proton, with Extraction of the &sigma-meson and &rho-meson Signals.
+Partial-Wave Analysis of Deep Virtual &pi;-&pi; Electroproduction on the Proton, with Extraction of the &sigma;-meson and &rho;-meson Signals.
 CLAS12 RG-A
 E12-12-007
 Jose
