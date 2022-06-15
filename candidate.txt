@@ -5,6 +5,13 @@ William Briscoe & Patrizia Rossi (JLab)
 Probing the Proton's Quark Dynamics in Semi-Inclusive Pion and Kaon Electroproduction
 CLAS12
 
+Lamya
+Baashen
+Florida International University
+Brian Raue, Gerald Gilfoyle
+Neutron Magnetic Form Factor G<sub>nm</sub> Measurement at High Q<sup>2</sup> with CLAS12
+CLAS12 RG-B
+E12-07-104 
 Zachary 
 Beach 
 Florida State University
@@ -16,9 +23,16 @@ Dilini
 Bulumulla
 Old Dominion University
 Charles Hyde
-Partial-Wave Analysis of Deep Virtual pi-pi Electroproduction on the Proton, with Extraction of the sigma-meson and rho-meson Signals.
+Partial-Wave Analysis of Deep Virtual &pi;-&pi; Electroproduction on the Proton, with Extraction of the &sigma-meson and &rho-meson Signals.
 CLAS12 RG-A
 E12-12-007
+Jose
+Carvajal
+Florida International University
+Lei Guo
+Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12
+CLAS12
+E12-11-005A
 Louise 
 Clark
 University of Glasgow
@@ -37,7 +51,7 @@ Sudeep
 Ghosh
 Indian Inst. of Tech, Indore & ODU
 Ankhi Roy & M. Amaryan
-Dalitz Plot Analysis of Hadronic Decays of eta and etaprime Mesons
+Dalitz Plot Analysis of Hadronic Decays of &#951 and &#951' Mesons
 g11
 CAA LMD
 Gary
@@ -93,7 +107,7 @@ Cristina
 Moody
 Purdue 
 K. Hafidi (ANL), A. Hirsch (Purdue)
-Study of the EMC Effect via DVCS on 4He
+Study of the EMC Effect via DVCS on <sup>4</sup>He
 eg6
 
 Christopher
@@ -166,11 +180,18 @@ Stephen Bueltmann
 Beam Spin Asymmetries in Time-like Compton Scattering
 CLAS12 RG-A
 
+Trevor
+Reed
+Florida International University
+Brian Raue
+Investigating Structure of &Lambda;(1405): Photoproduction Cross Sections Using CLAS g12 Data and Electroproduction Cross Sections Using CLAS12 Data
+CLAS(g12), CLAS12(RG-A, RG-K)
+
 Torri
 Roark
 Old Dominion Universtity
 M. Maryann
-Photoproduction and Radiative Decay of eta Meson in CLAS at JLab
+Photoproduction and Radiative Decay of &eta; Meson in CLAS at JLab
 g11
 CAA LMD
 Joseph
@@ -186,6 +207,13 @@ Massachusetts Institute of Technology
 Or Hen
 Bound proton structure function from d(e,e'n_recoil) measurements
 CLAS12 RG-A
+
+Erin
+Seroka
+The George Washington University
+Axel Schmidt
+Mapping the NN Tensor-to-Scalar Transition using the Isospin Composition of Short-Range Correlated Pairs in the CLAS12 Detector
+CLAS12 RG-M
 
 Ivana 
 Stankovic
@@ -219,7 +247,7 @@ Tyler
 Viducic
 Old Dominion University
 Moskov Amaryan
-Radiative Decay of rho to pi+ pi- gamma
+Radiative Decay of &rho; to &pi;<sup>+</sup> &pi;<sup>-</sup> &gamma;
 g11 CLAS12
 
 Kevin
