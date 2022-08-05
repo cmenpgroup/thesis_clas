@@ -138,13 +138,6 @@ Ralf Gothe
 CLAS12 Two-Pion Electroproduction Channel Analysis
 CLAS12 RG-A 
 
-Thomas 
-O'Connell
-University of Connecticut
-Kyungseon Joo
-Development of Spin-Frozen Transversely-Polarized HDIce Target Under Electron Beams
-HDIce
-
 Mathieu
 Ouillon
 IJCLab, Univ. Paris-Saclay
@@ -249,13 +242,6 @@ Old Dominion University
 Moskov Amaryan
 Radiative Decay of &rho; to &pi;<sup>+</sup> &pi;<sup>-</sup> &gamma;
 g11 CLAS12
-
-Kevin
-Wei 
-University of Connecticut
-Kyungseon Joo
-Development of a Novel System to Hold Polarized HD Transverse to High Energy Electron Beams within the CLAS12 Longitudinal Solenoid
-CLAS12
 
 Isaac
 Newton
