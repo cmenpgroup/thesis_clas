@@ -1,6 +1,6 @@
 Thomas
 O'Connell
-2022 July
+2022 March
 University of Connecticut
 Kyungseon Joo and Andrew Sandorfi
 <a href="thesis/TOConnell_thesis.pdf">Measurements of Electron Beam-Induced Spin-Relaxation inFrozen-Spin Hydrogen-Deuteride (HD)</a>
@@ -8,7 +8,7 @@ Upgraded Injector Test Facility
 
 Kevin
 Wei
-2021 December
+2021 November
 University of Connecticut
 Kyungseon Joo and Andrew Sandorfi
 <a href="thesis/KWei_thesis.pdf">The Response of Polarized Protons in SolidHydrogen-Deuteride(HD) to Electron Beams</a>

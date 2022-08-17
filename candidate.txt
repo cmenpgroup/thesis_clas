@@ -61,6 +61,13 @@ Ralf Gothe
 Double Pion Electroproduction off the Neutron in Deuterium 
 e1-e
 
+Yu-Chun
+Hung
+Old Dominion University
+Stephen Bueltmann
+Quasi-Free Neutron Structure
+RG-F
+Bonus12
 Isabella
 Illari
 The George Washington University
@@ -137,6 +144,13 @@ University of South Carolina
 Ralf Gothe
 CLAS12 Two-Pion Electroproduction Channel Analysis
 CLAS12 RG-A 
+
+Matthew
+Nicol
+University of York
+Mikhail Bashkanov, Nick Zachariou
+Exploring strong interaction through exotic particles
+CLAS12 RG-A, RG-B
 
 Mathieu
 Ouillon
