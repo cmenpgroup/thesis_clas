@@ -6,7 +6,6 @@ Dave Ireland, Bryan McKinnon
 <a href="thesis/LClark_thesis.pdf">Measurement of Polarization Observables from &#947; p --> K<sup>0</sup> &#931;<sup>+</sup>, and SDMEs from &#947; p --> &#966; p Using Linearly Polarized Photons</a>
 g8
 
-Yeranuhi
 Chan
 Kim
 2022 January
