@@ -1,3 +1,11 @@
+Sangbaek
+Lee
+2022 September
+Massachusetts Institute of Technology
+Richard Milner
+<a href="thesis/SLee_thesis.pdf">Measurement of the Deeply Virtual Compton Scattering Cross Section from the Proton at 10.6 GeV using the CLAS12 Detector</a>
+CLAS 12 RG-A
+E12-06-119
 Jiwan
 Poudel
 2022 May

@@ -96,13 +96,6 @@ Sebastian Kuhn
 The CLAS12 Longitudinally Polarized Target
 CLAS12 RG-C
 
-Sangbaek
-Lee
-Massachusetts Institute of Technology
-Richard Milner
-DVCS Cross Section with a Hydrogen Target
-CLAS 12
-E12-06-119
 Cristina
 Moody
 Purdue 
