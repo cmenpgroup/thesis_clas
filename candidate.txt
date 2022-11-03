@@ -1,3 +1,10 @@
+Juan Sebastian 
+Alvarado Galeano
+IPN Orsay
+Adam Hobart
+TBD
+CLAS12 RG-A, RG-B
+
 Giovanni
 Angelini 
 George Washington University
@@ -26,6 +33,13 @@ Charles Hyde
 Partial-Wave Analysis of Deep Virtual &pi;-&pi; Electroproduction on the Proton, with Extraction of the &sigma;-meson and &rho;-meson Signals.
 CLAS12 RG-A
 E12-12-007
+Richard 
+Capobianco
+University of Connecticut
+Kyungseon Joo
+Measurements of the cos &phi; and cos 2 &phi; Moments of the Unpolarized SIDIS &pi;<sup>+</sup> Cross-section at CLAS12
+CLAS12 RG-A
+
 Jose
 Carvajal
 Florida International University
@@ -193,13 +207,6 @@ Ohio University
 Ken Hicks
 Cross sections for Lambda-proton scattering
 g12
-
-Efrain
-Segarra
-Massachusetts Institute of Technology
-Or Hen
-Bound proton structure function from d(e,e'n_recoil) measurements
-CLAS12 RG-A
 
 Erin
 Seroka
