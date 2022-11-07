@@ -2,8 +2,8 @@ Juan Sebastian
 Alvarado Galeano
 IPN Orsay
 Adam Hobart
-TBD
-CLAS12 RG-A, RG-B
+DVCS, DVpi0 production, and DVCS Simulations with a transverse target
+CLAS12 RG-A, RG-B, RG-H
 
 Giovanni
 Angelini 
