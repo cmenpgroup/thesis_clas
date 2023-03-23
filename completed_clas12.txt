@@ -1,3 +1,11 @@
+Achyut
+Khanal
+2022 October
+Florida International University
+Brian Raue, Lei Guo
+<a href="thesis/AKhanal_thesis.pdf">Search for Excited Cascade Hyperons (&Xi;<sup>*-</sup>) using the CLAS12 Spectrometer at Jefferson Laboratory</a>
+CLAS12 RG-A
+E12-11-005A
 Sangbaek
 Lee
 2022 September
@@ -29,6 +37,14 @@ Old Dominion University
 Stepan Stepanyan
 <a href="thesis/JNewton_thesis.pdf">J/&psi; Photoproduction Near Threshold with CLAS12</a>
 CLAS12 RG-A
+
+Giovanni
+Angelini 
+2021 July
+George Washington University
+William Briscoe & Patrizia Rossi (JLab)
+<a href="thesis/GAngelini_thesis.pdf">Probing Quark Dynamics in Semi-Inclusive Charged Pion Electroproduction with CLAS12</a>
+CLAS12
 
 Guillaume
 Christiaens
