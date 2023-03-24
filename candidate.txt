@@ -166,6 +166,13 @@ Stephen Bueltmann
 Neutron Structure with Bonus12
 CLAS12 RG-F
 Bonus12
+Samy
+Polcher Rafael
+CEA Saclay
+Francesco Bossu
+DVCS on longitudinally polarized protons
+CLAS12 RG-C
+E12-06-119b
 Jiwan
 Poudel
 Old Dominion University
