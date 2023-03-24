@@ -1,8 +1,8 @@
 Juan Sebastian 
 Alvarado Galeano
 IPN Orsay
-Adam Hobart
-DVCS, DVpi0 production, and DVCS Simulations with a transverse target
+Adam Hobart, Eric Voutier
+DVCS, DV&pi;<sup>0</sup> production, and DVCS Simulations with a transverse target
 CLAS12 RG-A, RG-B, RG-H
 
 Lamya
@@ -40,17 +40,11 @@ Lei Guo
 Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12
 CLAS12
 E12-11-005A 
-Yeranuhi
-Ghandilyan
-Yerevan  
-Stepan Stepanyan
-Coherent Production of Proton - Anti-proton Pairs on Deuterium
-eg3
 
 Sudeep
 Ghosh
 Indian Inst. of Tech, Indore & ODU
-Ankhi Roy & M. Amaryan
+Ankhi Roy, M. Amaryan
 Dalitz Plot Analysis of Hadronic Decays of &#951 and &#951' Mesons
 g11
 CAA LMD
@@ -215,6 +209,13 @@ Daniel Watts
 KKp Observables
 g11 
 HASPECT
+Mariana 
+Tenorio Pita
+Old Dominion University
+Stepan Stepanyan
+J/&psi; Production off a Proton Target at CLAS12
+CLAS12 RG-A
+
 Kemal
 Tezgin
 University of Connecticut
