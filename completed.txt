@@ -321,7 +321,7 @@ SRC
 Brice
 Garillon
 2015 September
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Silvia Niccolai
 <a href="thesis/Garillon_thesis.pdf">Electroproduction Exclusive des Mesons f<sub>0</sub>(980) et f<sub>2</sub>(1270) sur le Proton a JLab avec le Detecteur CLAS</a> (in French)
 e1-6
@@ -345,7 +345,7 @@ e1f
 Mohammad
 Hattaway
 2015 September
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Michel Guidal & Raphael Dupre
 <a href="thesis/MHattawy_thesis.pdf">Deeply Virtual Compton Scattering off 4He</a>
 eg6
@@ -537,7 +537,7 @@ FROST
 Nicholas 
 Saylor
 2013 August
-RPI / IJCLab
+RPI / IJCLab, Univ. Paris-Saclay
 Paul Stoler & Michel Guidal
 <a href="thesis/Saylor_thesis.pdf">A Measurement of Unpolarized Cross Sections and Polarized Cross Section Differences of Deeply Virtual Compton Scattering on the Proton at Jefferson Laboratory using CLAS</a>
 e1-dvcs2
@@ -561,7 +561,7 @@ HyCLAS
 Baptiste
 Guegan
 2013 January
-IJCLab / RPI
+IJCLab, Univ. Paris-Saclay / RPI
 Michel Guidal & Paul Stoler
 <a href="thesis/Guegan_thesis.pdf">Study of Generalized Parton Distributions and Deeply Virtual Compton Scattering on the nucleon with the CLAS and CLAS12</a>
 e1-dvcs2
@@ -753,7 +753,7 @@ g13
 Piotr
 Konczykowski 
 2010 December
-SPhN-Saclay
+CEA-Saclay
 Franck Sabatie
 <a href="thesis/Konczykowski_thesis.pdf">Etude de l'Asymetrie de Spin du Faisceau Dans  l'Electroproduction de Photons Aupres du Spectrometre CLAS au Jefferson Lab et Developpement de Detecteurs Micromegas Pour le Futur Spectrometre CLAS12</a> (in French)
 e1-dvcs2
@@ -929,7 +929,7 @@ g8b
 Brahim
 Moreno
 2009 July
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Marion MacCormick
 <a href="thesis/Moreno_thesis.pdf">Etude de l'Asymetrie de Spin du Faisceau a 6 GeV Pour l'Electroproduction d'un Etat Resonnant &#960;+ et d'un Photon sur le Proton (e p to e &#960;+ g) avec le Detecteur CLAS</a> (in French)
 e1-dvcs
@@ -937,7 +937,7 @@ E01-113
 Ahmed
 Fradi
 2009 July
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Michel Guidal
 <a href="thesis/Fradi_thesis.pdf">Electroproduction Exclusive du Meson &#961;+ sur le Proton a JLab avec le Detecteur CLAS</a> (in French)
 e1-dvcs
@@ -1065,7 +1065,7 @@ E89-027
 Hyon-Suk
 Jo
 2007 March
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Michel Guidal
 <a href="thesis/HyonSukJo_thesis.pdf">Etude de la Diffusion Compton Profondement Virtuelle sur le nucleon avec le detecteur CLAS deJefferson Lab: mesure des sections efficaces polarisees et nonpolarisees</a>(in French)
 e1-dvcs
@@ -1073,7 +1073,7 @@ E01-113
 Francois-Xavier
 Girod
 2006 December
-SPhN-Saclay
+CEA-Saclay
 Michel Gar&ccedil;on
 <a href="http://www.jlab.org/Hall-B/general/thesis/FXGirod_thesis.pdf">Deeply Virtual Compton Scattering (Beam Spin Asymmetries) for the study of Generalized Parton Distributions</a> (in French)
 e1-dvcs
@@ -1225,7 +1225,7 @@ g6
 Sylvain
 Bouchigny
 2004 April
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Michel Guidal
 <a href="thesis/Bouchigny_thesis.pdf">Development of a pure HD polarized target: HD analysis and distillation.Resonant virtual Compton scattering on the nucleon</a> (in French)
 e1-6
@@ -1265,7 +1265,7 @@ g6
 Ludyvine
 Morand
 2003 December
-Saclay 
+CEA-Saclay 
 Michel Gar&ccedil;on
 <a href="thesis/Morand_thesis.ps.gz">Deeply Virtual &#969; Electroproduction and the Study of Generalized Parton Distributions</a> (JLab thesis prize 2003)
 e1-6
@@ -1369,7 +1369,7 @@ E89-004
 Cynthia
 Hajidakis
 2002 December
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Michel Guidal
 <a href="http://www.jlab.org/Hall-B/general/thesis/Hajidakis_thesis.pdf.gz">&#961; meson electroproduction at intermediate virtuality at JLab with the CLAS detector</a> (in French)
 e1-6
@@ -1553,7 +1553,7 @@ g1
 Michel
 Guidal
 1996 December
-IJCLab
+IJCLab, Univ. Paris-Saclay
 Jean-Marc Laget
 <a href="thesis/Guidal_thesis.pdf">Photoproduction de Mesons sur le Nucleon aux Energies Intermediaire</a> (in French)
 
