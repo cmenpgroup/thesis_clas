@@ -81,7 +81,7 @@ RG-A
 Pierre
 Chatagnon
 2020 October
-IPN Orsay
+IJCLAB
 Silvia Niccolai
 <a href="thesis/PChatagnon_thesis.pdf">Nucleon Structure studies with CLAS12 at Jefferson Lab: Timelike Compton Scattering and the Central Neutron Detector</a>
 CLAS12

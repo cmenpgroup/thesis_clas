@@ -1,6 +1,6 @@
 Juan Sebastian 
 Alvarado Galeano
-IPN Orsay
+IJCLab
 Adam Hobart, Eric Voutier
 DVCS, DV&pi;<sup>0</sup> production, and DVCS Simulations with a transverse target
 CLAS12 RG-A, RG-B, RG-H
@@ -89,6 +89,13 @@ Sebastian Kuhn
 The CLAS12 Longitudinally Polarized Target
 CLAS12 RG-C
 
+Daniel
+Matamoros
+IJCLab
+Raphael Dupre 
+Exploring TMDs with cos &phi; and cos 2&phi; moments of SIDIS on nuclear targets
+CLAS12 RG-D
+E12-06-106A
 Cristina
 Moody
 Purdue 
@@ -166,13 +173,6 @@ Francesco Bossu
 DVCS on longitudinally polarized protons
 CLAS12 RG-C
 E12-06-119b
-Jiwan
-Poudel
-Old Dominion University
-Stephen Bueltmann
-Beam Spin Asymmetries in Time-like Compton Scattering
-CLAS12 RG-A
-
 Trevor
 Reed
 Florida International University
