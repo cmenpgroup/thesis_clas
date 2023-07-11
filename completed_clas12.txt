@@ -94,6 +94,13 @@ Gail Dodge
 <a href="thesis/NDzbenski_thesis.pdf">Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12</a>
 CLAS 12 RG-F
 BONUS12
+Ivana
+Stankovic
+Edinburgh University
+Daniel Watts
+<a href="thesis/IStankovic_thesis.pdf">New scintillation hodoscope for CLAS12 and partial wave analysis of the channel &gamma; p -> p K<sup+</sup> K<sup>-</sup></a>
+g11
+HASPECT
 Ilaria
 Balossino
 2018 February

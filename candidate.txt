@@ -201,13 +201,6 @@ Axel Schmidt
 Mapping the NN Tensor-to-Scalar Transition using the Isospin Composition of Short-Range Correlated Pairs in the CLAS12 Detector
 CLAS12 RG-M
 
-Ivana 
-Stankovic
-Edinburgh
-Daniel Watts
-KKp Observables
-g11 
-HASPECT
 Mariana 
 Tenorio Pita
 Old Dominion University
