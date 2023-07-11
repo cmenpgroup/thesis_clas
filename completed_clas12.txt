@@ -99,7 +99,7 @@ Stankovic
 2019 April
 Edinburgh University
 Daniel Watts
-<a href="thesis/IStankovic_thesis.pdf">New scintillation hodoscope for CLAS12 and partial wave analysis of the channel &gamma; p -> p K<sup+</sup> K<sup>-</sup></a>
+<a href="thesis/IStankovic_thesis.pdf">New scintillation hodoscope for CLAS12 and partial wave analysis of the channel &gamma; p --> p K<sup>+</sup> K<sup>-</sup></a>
 g11
 HASPECT
 Ilaria
