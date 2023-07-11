@@ -82,13 +82,6 @@ Kai Brinkmann
 Beam Spin Asymmetries in Kaon SIDIS with unpolarized hydrogen target
 CLAS12 RG-A
 
-Victoria
-Lagerquist
-Old Dominion University
-Sebastian Kuhn
-The CLAS12 Longitudinally Polarized Target
-CLAS12 RG-C
-
 Daniel
 Matamoros
 IJCLab, Univ. Paris-Saclay
