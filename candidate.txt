@@ -176,7 +176,7 @@ CLAS(g12), CLAS12(RG-A, RG-K)
 Torri
 Roark
 Old Dominion Universtity
-M. Maryam
+M. Amaryan
 Photoproduction and Radiative Decay of &eta; Meson in CLAS at JLab
 g11
 CAA LMD
