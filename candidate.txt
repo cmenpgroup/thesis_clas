@@ -173,13 +173,6 @@ Brian Raue
 Investigating Structure of &Lambda;(1405): Photoproduction Cross Sections Using CLAS g12 Data and Electroproduction Cross Sections Using CLAS12 Data
 CLAS(g12), CLAS12(RG-A, RG-K)
 
-Torri
-Roark
-Old Dominion Universtity
-M. Amaryan
-Photoproduction and Radiative Decay of &eta; Meson in CLAS at JLab
-g11
-CAA LMD
 Erin
 Seroka
 The George Washington University

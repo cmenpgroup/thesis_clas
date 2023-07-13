@@ -53,7 +53,15 @@ Ohio University
 Ken Hicks
 <a href="thesis/UShrestha_thesis.pdf">Photoproduction of Lambda* Resonances</a>
 g12
- 
+
+Torri
+Roark
+2020 December
+Old Dominion Universtity
+M. Amaryan
+<a href="thesis/TRoark_thesis.pdf">Measurement of Pion-Pion Final State Interactions in &eta; --> &pi;<sup>+</sup> &pi;<sup>−</sup> &gamma; with CLAS at Jefferson Lab</a>
+g11
+
 Mariana
 Khachatryan
 2019 December
