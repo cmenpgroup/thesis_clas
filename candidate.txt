@@ -124,13 +124,6 @@ Ralf Gothe
 CLAS12 Two-Pion Electroproduction Channel Analysis
 CLAS12 RG-A 
 
-Matthew
-Nicol
-University of York
-Mikhail Bashkanov, Nick Zachariou
-Exploring strong interaction through exotic particles
-CLAS12 RG-A, RG-B
-
 Mathieu
 Ouillon
 IJCLab, Univ. Paris-Saclay

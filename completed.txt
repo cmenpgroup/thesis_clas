@@ -62,6 +62,14 @@ Lawrence Weinstein
 <a href="thesis/MKhachatryan_thesis.pdf">Electrons for Neutrinos: Beam Energy Reconstruction</a>
 e2
 
+David
+Riser
+2019 June
+University of Connecticut
+Kyungseon Joo
+<a href="thesis/DRiser_thesis.pdf">Studies of Quark Momentum in the Proton by Use of the SIDIS Process</a>
+e1f
+
 Frank
 Cao
 2019 May
@@ -69,14 +77,6 @@ University of Connecticut
 Kyungseon Joo
 <a href="thesis/FCao_thesis.pdf">Beam-Spin Asymmetry of Exclusive Coherent Electroproduction of the &#960;<sup>0</sup> off <sup>4</sup>He</a> 
 eg6
-
-David
-Riser
-2019 June
-University of Connecticut
-Kyungseon Joo
-<a href="thesis/DRiser_thesis.pdf">Studies of Quark Momentum in the Proton by Use of the SIDIS Process</a> 
-e1f
 
 Taya
 Chetry
@@ -86,6 +86,14 @@ Ken Hicks
 <a href="thesis/TChetry_thesis.pdf">A Study of the Reaction &#947; d --> &#960;<sup>+</sup> &#960;<sup>-</sup> d (From Vector Mesons to Possible Dibaryons)</a> 
 g10
 
+Ivana
+Stankovic
+2019 April
+Edinburgh University
+Daniel Watts
+<a href="thesis/IStankovic_thesis.pdf">New scintillation hodoscope for CLAS12 and partial wave analysis of the channel &gamma; p --> p K<sup>+</sup> K<sup>-</sup></a>
+g11
+HASPECT
 Gavin
 Murdoch
 2019 March
