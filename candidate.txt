@@ -39,7 +39,13 @@ Florida International University
 Lei Guo
 Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12
 CLAS12
-E12-11-005A 
+E12-11-005A
+Caleb
+Folger
+Old Dominion University
+The 4.2 GeV Inclusive Pion Electroproduction in RGB
+CLAS12 RG-B
+
 Sudeep
 Ghosh
 Indian Inst. of Tech, Indore & ODU
