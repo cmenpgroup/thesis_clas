@@ -176,17 +176,10 @@ CLAS(g12), CLAS12(RG-A, RG-K)
 Torri
 Roark
 Old Dominion Universtity
-M. Maryann
+M. Maryam
 Photoproduction and Radiative Decay of &eta; Meson in CLAS at JLab
 g11
 CAA LMD
-Joseph
-Rowley
-Ohio University
-Ken Hicks
-Cross sections for Lambda-proton scattering
-g12
-
 Erin
 Seroka
 The George Washington University
@@ -221,13 +214,6 @@ University of Ferrara, Italy
 Marco Contalbrigo
 Beam Spin Asymmetries of KAON SIDIS with unpolarized deuterium target
 CLAS12 RG-B
-
-Tyler 
-Viducic
-Old Dominion University
-Moskov Amaryan
-Radiative Decay of &rho; to &pi;<sup>+</sup> &pi;<sup>-</sup> &gamma;
-g11 CLAS12
 
 Isaac
 Newton
