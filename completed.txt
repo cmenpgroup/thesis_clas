@@ -54,6 +54,14 @@ Ken Hicks
 <a href="thesis/UShrestha_thesis.pdf">Photoproduction of Lambda* Resonances</a>
 g12
 
+Gary
+Hollis
+2020 December
+University of South Carolina
+Ralf Gothe
+<a href="thesis/GHollis_thesis.pdf">Fermi-Unsmearing in Single Charged Pion Electroproduction Cross-Section Measurements for the Neutron and Proton in Deuterium</a>
+e1-e
+
 Torri
 Roark
 2020 December
