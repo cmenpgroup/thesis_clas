@@ -14,6 +14,14 @@ Sebastian Kuhn
 <a href="thesis/VLagerquist_thesis.pdf">Design and Construction of a Longitudinally Polarized Solid Nuclear Target for CLAS12</a>
 CLAS12 RG-C
 
+Robert
+Wishart
+2023 April
+University of Glasgow
+Derek Glazier
+<a href="thesis/RWishart_thesis.pdf">Analysis of Three Body Decays in Quasi-Real Photoproduction</a>
+CLAS12 RG-A
+MesonEx
 Achyut
 Khanal
 2022 October
