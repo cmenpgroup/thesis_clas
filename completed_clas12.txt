@@ -18,7 +18,7 @@ Robert
 Wishart
 2023 April
 University of Glasgow
-Derek Glazier
+Derek Glazier, Dave Ireland
 <a href="thesis/RWishart_thesis.pdf">Analysis of Three Body Decays in Quasi-Real Photoproduction</a>
 CLAS12 RG-A
 MesonEx

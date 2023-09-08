@@ -22,6 +22,14 @@ Igor Strakovsky, William Briscoe
 <a href="thesis/CKim_thesis.pdf">Measurement of the Helicity E for the &gamma; p -> p &pi;<sup>0</sup> Reaction in the Resonance Region</a>
 g9
 FROST
+Joseph
+Rowley
+2021 December
+Ohio University
+Ken Hicks, Chaden Djalali
+<a href="thesis/JRowley_thesis.pdf">Improved &Lambda; p Elastic Scattering Cross Sections Between 0.9 and 2.0 GeV/c and Connections to Neutron Stars</a>
+g12
+
 Iuliia
 Skorodumina
 2021 August
