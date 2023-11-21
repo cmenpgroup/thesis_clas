@@ -82,13 +82,13 @@ Raphael Dupre
 Exploring TMDs with cos &phi; and cos 2&phi; moments of SIDIS on nuclear targets
 CLAS12 RG-D
 E12-06-106A
-Cristina
-Moody
-Purdue 
-K. Hafidi (ANL), A. Hirsch (Purdue)
-Study of the EMC Effect via DVCS on <sup>4</sup>He
-eg6
-
+Matthew
+Maynes
+Mississippi State University
+Lamiaa El Fassi
+Study of Color Transparency Phenomenon in \rho^0 Electroproduction off Nuclei 
+CLAS12 RG-D
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
 Christopher
 McLauchlin
 University of South Carolina

@@ -1050,7 +1050,7 @@ Lamiaa
 El Fassi
 2008 May
 University  Mohammed V, Morocco
-Kwatar Hafidi
+Kawtar Hafidi
 <a href="thesis/ElFassi_thesis.pdf">Etude de la Transparence de Couleur du Meson Vecteur &#961;<sup>0</sup> </a> (in French)
 eg2
 E02-110 
