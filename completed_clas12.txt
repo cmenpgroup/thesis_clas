@@ -1,3 +1,4 @@
+
 Dilini
 Bulumulla
 2023 August
@@ -13,6 +14,14 @@ Old Dominion University
 Sebastian Kuhn
 <a href="thesis/VLagerquist_thesis.pdf">Design and Construction of a Longitudinally Polarized Solid Nuclear Target for CLAS12</a>
 CLAS12 RG-C
+
+Richard 
+Tyson
+May 2023 
+University of Glasgow
+David Ireland, Bryan McKinnon
+<a href="thesis/RTyson_thesis.pdf">J/&psi; Near-Threshold Photoproduction off the Proton and Neutron with CLAS12</a>
+CLAS12 RG-B
 
 Robert
 Wishart
