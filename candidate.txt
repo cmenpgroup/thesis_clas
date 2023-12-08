@@ -19,6 +19,13 @@ Volker Crede
 Polarized SDME's for the &#947; p --> p &#969; Reaction
 g8b
 
+William
+Booth
+University of York
+Dan Watts, Nick Zachariou
+Measuring neutron polarisation in pn production using CLAS
+g13
+E06-103
 Richard 
 Capobianco
 University of Connecticut
@@ -33,6 +40,13 @@ Lei Guo
 Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12
 CLAS12
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
+Geraint
+Clash
+University of York
+Mikhail Bashkanov, Nick Zachariou
+First Search for Experimental Evidence of Strange Hexaquark Using CLAS12
+CLAS12 RG-A, RG-B
+Very Strange Experiment
 Caleb
 Folger
 Old Dominion University
@@ -152,6 +166,13 @@ Francesco Bossu
 DVCS on longitudinally polarized protons
 CLAS12 RG-C
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=486">E12-06-119</a>
+Sara
+Ratliff
+The George Washington University
+Axel Schmidt
+Exploring the SRC-EMC Hypothesis in Recoil-Tagged DIS on Nuclei
+CLAS12 RG-M
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
 Trevor
 Reed
 Florida International University
@@ -165,7 +186,7 @@ The George Washington University
 Axel Schmidt
 Mapping the NN Tensor-to-Scalar Transition using the Isospin Composition of Short-Range Correlated Pairs in the CLAS12 Detector
 CLAS12 RG-M
-
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
 Mariana 
 Tenorio Pita
 Old Dominion University
