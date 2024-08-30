@@ -854,7 +854,7 @@ Ken Livingston &  Gunter Rosner
       <a href="thesis/Hassall_thesis.pdf">Spin Observables in Kaon Photoproduction from the Neutron in a Deuterium Target with CLAS</a>
 g13
 E06-103
-Rafaela
+Rafayel
 Paremuzyan
 2010 June
 Yerevan State University

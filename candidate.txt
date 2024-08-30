@@ -5,13 +5,6 @@ Adam Hobart, Eric Voutier
 DVCS, DV&pi;<sup>0</sup> production, and DVCS Simulations with a transverse target
 CLAS12 RG-A, RG-B, RG-H
 
-Lamya
-Baashen
-Florida International University
-Brian Raue, Gerald Gilfoyle
-Neutron Magnetic Form Factor G<sub>nm</sub> Measurement at High Q<sup>2</sup> with CLAS12
-CLAS12 RG-B
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=510">E12-07-104</a> 
 Zachary 
 Beach 
 Florida State University
@@ -33,13 +26,6 @@ Kyungseon Joo
 Measurements of the cos &phi; and cos 2 &phi; Moments of the Unpolarized SIDIS &pi;<sup>+</sup> Cross-section at CLAS12
 CLAS12 RG-A
 
-Jose
-Carvajal
-Florida International University
-Lei Guo
-Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12
-CLAS12
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
 Geraint
 Clash
 University of York
@@ -68,12 +54,6 @@ Stephen Bueltmann
 Quasi-Free Neutron Structure
 RG-F
 Bonus12
-Isabella
-Illari
-The George Washington University
-Igor Strakovsky, William Briscoe, Volker Burkert
-Electro-Production of &#951 and &#951' Mesons with CLAS12 at Jefferson Lab
-CLAS12 RG-A, RG-K
 
 Robert
 Johnston
@@ -131,20 +111,6 @@ Ralf Gothe
 CLAS12 Two-Pion Electroproduction Channel Analysis
 CLAS12 RG-A 
 
-Mathieu
-Ouillon
-IJCLab, Univ. Paris-Saclay
-Raphael Dupre
-Tagged neutron DVCS with Bonus12 and CLAS12 at Jefferson Lab
-CLAS12 RG-F
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=482">E12-06-113A</a>, BONUS12
-Pushpa 
-Pandey 
-Old Dominion University
-Sebastian Kuhn
-Inclusive Spin Structure Functions
-CLAS12 RG-C
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=688">E12-06-109</a>
 Noemie
 Pilleux
 IJCLab, Univ. Paris Saclay
