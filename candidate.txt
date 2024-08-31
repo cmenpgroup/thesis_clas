@@ -131,7 +131,6 @@ Axel Schmidt
 Exploring the SRC-EMC Hypothesis in Recoil-Tagged DIS on Nuclei
 CLAS12 RG-M
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
-
 Erin
 Seroka
 The George Washington University
