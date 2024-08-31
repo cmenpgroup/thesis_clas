@@ -38,6 +38,15 @@ Brian Raue, Gerald Gilfoyle
 <a href="thesis/LBaashen_thesis.pdf">Neutron Magnetic Form Factor G<sub>nm</sub> Measurement at High Q<sup>2</sup> with CLAS12</a>
 CLAS12 RG-B
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=510">E12-07-104</a> 
+
+Aron 
+Kripko
+2023 November
+U. of Giessen, Germany
+Kai Brinkmann
+<a href="thesis/AKripko_thesis.pdf">Studying the hadron structure with PANDA and CLAS using machine learning techniques</a>
+CLAS12 RG-A
+
 Dilini
 Bulumulla
 2023 August

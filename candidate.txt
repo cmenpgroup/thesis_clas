@@ -61,13 +61,6 @@ Richard Milner
 Deeply Virtual &#960;<sup>0</sup> Production Cross Section
 CLAS12 RG-A
 
-Aron 
-Kripko
-U. of Giessen, Germany
-Kai Brinkmann
-Beam Spin Asymmetries in Kaon SIDIS with unpolarized hydrogen target
-CLAS12 RG-A
-
 Daniel
 Matamoros
 IJCLab, Univ. Paris-Saclay
@@ -138,12 +131,6 @@ Axel Schmidt
 Exploring the SRC-EMC Hypothesis in Recoil-Tagged DIS on Nuclei
 CLAS12 RG-M
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
-Trevor
-Reed
-Florida International University
-Brian Raue
-Investigating Structure of &Lambda;(1405): Photoproduction Cross Sections Using CLAS g12 Data and Electroproduction Cross Sections Using CLAS12 Data
-CLAS(g12), CLAS12(RG-A, RG-K)
 
 Erin
 Seroka
