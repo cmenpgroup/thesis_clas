@@ -3,7 +3,7 @@ Illari
 2024 May
 The George Washington University
 Igor Strakovsky, William Briscoe, Volker Burkert
-<a href="thesis/IIllari_thesis.pdf">Electro-Production of &#951 and &#951' Mesons with CLAS12 at Jefferson Lab</a>
+<a href="thesis/IIllari_thesis.pdf">Exclusive &#951 Electro-Production Beam Spin Asymmetry Measurements using CLAS12 at Jefferson Lab</a>
 CLAS12 RG-A, RG-K
 
 Mathieu
