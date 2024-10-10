@@ -1,9 +1,9 @@
 Valerii
-Kilimenko
+Klimenko
 2024 October
 University of Connecticut
 Kyungseon Joo
-<a href="thesis/VKilimenko_thesis.pdf">Differential Cross Sections from CLAS12 RG-A Inclusive Electron Scattering</a>
+<a href="thesis/VKlimenko_thesis.pdf">Differential Cross Sections from CLAS12 RG-A Inclusive Electron Scattering</a>
 CLAS12 RG-A
 
 Isabella
