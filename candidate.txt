@@ -72,7 +72,7 @@ Matthew
 Maynes
 Mississippi State University
 Lamiaa El Fassi
-Study of Color Transparency Phenomenon in \rho^0 Electroproduction off Nuclei 
+Study of Color Transparency Phenomenon in &rho;<sup>0</sup> Electroproduction off Nuclei 
 CLAS12 RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
 Christopher
