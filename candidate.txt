@@ -67,7 +67,7 @@ IJCLab, Univ. Paris-Saclay
 Raphael Dupre 
 Exploring TMDs with cos &phi; and cos 2&phi; moments of SIDIS on nuclear targets
 CLAS12 RG-D
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=998">E12-06-106A</a>
 Matthew
 Maynes
 Mississippi State University
@@ -138,6 +138,13 @@ Axel Schmidt
 Mapping the NN Tensor-to-Scalar Transition using the Isospin Composition of Short-Range Correlated Pairs in the CLAS12 Detector
 CLAS12 RG-M
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
+Suman
+Shrestha
+Temple Univ. & Mississippi State Univ.
+Nikos Sparveris, Hamza Atac, Lamiaa El Fassi  
+Exploring TMDs with cos &phi; and cos 2&phi; Moments of Charged Pions SIDIS off Nuclei
+CLAS12 RG-D
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=998">E12-06-106A</a>
 Mariana 
 Tenorio Pita
 Old Dominion University
