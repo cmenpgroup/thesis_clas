@@ -159,6 +159,13 @@ Kyungseon Joo
 PDF Extractions using CLAS e1f Measurements
 e1f
 
+Darren
+Upton
+Old Dominion University
+Sebastian Kuhn
+Spin Structure of the Deuteron
+CLAS12 RG-D
+
 Simone 
 Vallarino
 University of Ferrara, Italy
@@ -166,6 +173,13 @@ Marco Contalbrigo
 Beam Spin Asymmetries of KAON SIDIS with unpolarized deuterium target
 CLAS12 RG-B
 
+Uditha
+Weerasinghe 
+Mississippi State University
+Lamiaa El Fassi
+Exploring Lambda SIDIS Production in the Target and Current Fragmentation Regions
+CLAS12 RG-E
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=485">E12-06-117</a>
 Isaac
 Newton
 Trinity College Cambridge
