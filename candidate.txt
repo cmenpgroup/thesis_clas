@@ -164,7 +164,7 @@ Upton
 Old Dominion University
 Sebastian Kuhn
 Spin Structure of the Deuteron
-CLAS12 RG-D
+CLAS12 RG-C
 
 Simone 
 Vallarino
