@@ -75,13 +75,6 @@ Lamiaa El Fassi
 Study of Color Transparency Phenomenon in &rho;<sup>0</sup> Electroproduction off Nuclei 
 CLAS12 RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
-Christopher
-McLauchlin
-University of South Carolina
-Ralf Gothe
-Double Charged Pion Electroproduction off the Proton and Measurement of Beam Spin Asymmetries
-e1-6, e1f
-
 Patrick
 Moran
 Massachusetts Institute of Technology
