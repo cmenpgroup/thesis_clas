@@ -96,13 +96,6 @@ Ralf Gothe
 CLAS12 Two-Pion Electroproduction Channel Analysis
 CLAS12 RG-A 
 
-Noemie
-Pilleux
-IJCLab, Univ. Paris Saclay
-Silvia Niccolai
-nDVCS on a longitudinally polarized target with CLAS12 
-CLAS12 RG-C
-
 Madhusudhan
 Pokhrel
 Old Dominion University
