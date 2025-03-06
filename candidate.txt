@@ -47,12 +47,19 @@ Ankhi Roy, M. Amaryan
 Dalitz Plot Analysis of Hadronic Decays of &#951 and &#951' Mesons
 g11
 CAA LMD
+Derek
+Holmberg
+William and Mary
+Keith Griffieon, Todd Averett  
+The Longitudinal Spin Structure of the Proton
+CLAS12 RG-C
+
 Yu-Chun
 Hung
 Old Dominion University
 Stephen Bueltmann
 Quasi-Free Neutron Structure
-RG-F
+CLAS12 RG-F
 Bonus12
 Robert
 Johnston
