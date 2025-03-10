@@ -1,9 +1,9 @@
 Caleb
-Folger
+Fogler
 2024 December
 Old Dominion University
 Lawrence Weinstein
-<a href="thesis/CFolger_thesis.pdf">Measuring CLAS12 d(e,e'&pi;<sup>+/-</sup>) Cross Sections for e4nu.</a>
+<a href="thesis/CFogler_thesis.pdf">Measuring CLAS12 d(e,e'&pi;<sup>+/-</sup>) Cross Sections for e4nu.</a>
 CLAS12 RG-B
 
 Noemie
