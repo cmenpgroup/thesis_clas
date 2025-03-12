@@ -6,6 +6,14 @@ Lawrence Weinstein
 <a href="thesis/CFogler_thesis.pdf">Measuring CLAS12 d(e,e'&pi;<sup>+/-</sup>) Cross Sections for e4nu.</a>
 CLAS12 RG-B
 
+Kayleigh
+Gates
+2024 November
+University of Glasgow
+Daria Sokhan, Rachel Montgomery
+<a href="thesis/KGates_thesis.pdf">Timelike Compton Scattering from a Longitudinally-Polarised Target with CLAS12 at Jefferson Lab</a>
+CLAS12 RG-C
+
 Noemie
 Pilleux
 2024 November
