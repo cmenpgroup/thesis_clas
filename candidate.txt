@@ -26,13 +26,6 @@ Kyungseon Joo
 Measurements of the cos &phi; and cos 2 &phi; Moments of the Unpolarized SIDIS &pi;<sup>+</sup> Cross-section at CLAS12
 CLAS12 RG-A
 
-Geraint
-Clash
-University of York
-Mikhail Bashkanov, Nick Zachariou
-First Search for Experimental Evidence of Strange Hexaquark Using CLAS12
-CLAS12 RG-A, RG-B
-Very Strange Experiment
 Sudeep
 Ghosh
 Indian Inst. of Tech, Indore & ODU

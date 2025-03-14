@@ -78,6 +78,14 @@ Kai Brinkmann
 <a href="thesis/AKripko_thesis.pdf">Studying the hadron structure with PANDA and CLAS using machine learning techniques</a>
 CLAS12 RG-A
 
+Geraint
+Clash
+2023 September
+University of York
+Mikhail Bashkanov, Nick Zachariou
+<a href="thesis/GClash_thesis.pdf">Search for a Singly Strange Hexaquark Using Polarization Data From CLAS12 at Jefferson Lab Virginia</a>
+CLAS12 RG-A, RG-B
+Very Strange Experiment
 Dilini
 Bulumulla
 2023 August
