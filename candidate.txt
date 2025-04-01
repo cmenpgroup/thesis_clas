@@ -26,13 +26,6 @@ Kyungseon Joo
 Measurements of the cos &phi; and cos 2 &phi; Moments of the Unpolarized SIDIS &pi;<sup>+</sup> Cross-section at CLAS12
 CLAS12 RG-A
 
-Sudeep
-Ghosh
-Indian Inst. of Tech, Indore & ODU
-Ankhi Roy, M. Amaryan
-Dalitz Plot Analysis of Hadronic Decays of &#951 and &#951' Mesons
-g11
-CAA LMD
 Derek
 Holmberg
 William and Mary
