@@ -38,6 +38,14 @@ Igor Strakovsky, William Briscoe, Volker Burkert
 <a href="thesis/IIllari_thesis.pdf">Exclusive &#951 Electro-Production Beam Spin Asymmetry Measurements using CLAS12 at Jefferson Lab</a>
 CLAS12 RG-A, RG-K
 
+Pushpa 
+Pandey 
+2024 May
+Old Dominion University
+Sebastian Kuhn
+<a href="thesis/PPandey_thesis.pdf">Longitudinal Solid Polarized Target for CLAS12 and Study of Spin Structure of Nucleons</a>
+CLAS12 RG-C
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=688">E12-06-109</a>
 Mathieu
 Ouillon
 2024 April
@@ -54,14 +62,6 @@ Lei Guo
 <a href="thesis/JCarvajal_thesis.pdf">Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12</a>
 CLAS12
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
-Pushpa 
-Pandey 
-2024 February
-Old Dominion University
-Sebastian Kuhn
-<a href="thesis/PPandey_thesis.pdf">Inclusive Spin Structure Functions</a>
-CLAS12 RG-C
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=688">E12-06-109</a>
 Lamya
 Baashen
 2023 December
