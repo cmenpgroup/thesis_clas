@@ -75,13 +75,6 @@ Daria Sokhan & Bryan McKinnon
 Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuterium
 CLAS12 RG-B
 
-Krishna
-Neupane
-University of South Carolina
-Ralf Gothe
-CLAS12 Two-Pion Electroproduction Channel Analysis
-CLAS12 RG-A 
-
 Madhusudhan
 Pokhrel
 Old Dominion University
