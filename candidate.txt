@@ -75,13 +75,6 @@ Daria Sokhan & Bryan McKinnon
 Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuterium
 CLAS12 RG-B
 
-Madhusudhan
-Pokhrel
-Old Dominion University
-Stephen Bueltmann
-Neutron Structure with Bonus12
-CLAS12 RG-F
-Bonus12
 Samy
 Polcher Rafael
 CEA Saclay
