@@ -3,7 +3,7 @@ Pokhrel
 2025 May
 Old Dominion University
 Stephen Bueltmann
-<a href="thesis/MPkhrel_thesis.pdf">The Structure Function of the Free Neutron at High x-Bjorken</a>
+<a href="thesis/MPokhrel_thesis.pdf">The Structure Function of the Free Neutron at High x-Bjorken</a>
 CLAS12 RG-F
 Bonus12
 Krishna
