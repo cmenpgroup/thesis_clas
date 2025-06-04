@@ -107,7 +107,7 @@ Noah
 Smith
 Ohio University
 Chaden Djalali
-Analysis of CLAS12 Single Pion (ep -> e'n&pi;<sup>+<\sup>) Electroproduction
+Analysis of CLAS12 Single Pion (ep -> e'n&pi;<sup>+</sup>) Electroproduction
 CLAS12 RG-A
 
 Mariana 
