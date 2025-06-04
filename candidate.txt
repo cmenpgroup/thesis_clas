@@ -103,6 +103,13 @@ Nikos Sparveris, Hamza Atac, Lamiaa El Fassi
 Exploring TMDs with cos &phi; and cos 2&phi; Moments of Charged Pions SIDIS off Nuclei
 CLAS12 RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=998">E12-06-106A</a>
+Noah
+Smith
+Ohio University
+Chaden Djalali
+Analysis of CLAS12 Single Pion (ep -> e'n&pi;<sup>+<\sup>) Electroproduction
+CLAS12 RG-A
+
 Mariana 
 Tenorio Pita
 Old Dominion University
@@ -117,6 +124,13 @@ Kyungseon Joo
 PDF Extractions using CLAS e1f Measurements
 e1f
 
+Felix
+Touchte-Codjo
+IJCLab, Univ. Paris-Saclay
+Raphael Dupre
+Experimental Study of the Strong Interaction with the ALERT and CLAS12 Spectrometers at Jefferson Lab
+CLAS12 ALERT
+E12-17-012
 Darren
 Upton
 Old Dominion University
