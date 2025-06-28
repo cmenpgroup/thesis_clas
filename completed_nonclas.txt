@@ -1,3 +1,10 @@
+Alic 
+Spellman 
+2024 December
+UC Santa Cruz
+<a href="thesis/ASpellman_thesis.pdf">Searching for Strongly-Interacting Dark Matter with the Heavy Photon Search Experiment</a>
+HPS
+
 Thomas
 O'Connell
 2022 March
@@ -14,6 +21,30 @@ Kyungseon Joo and Andrew Sandorfi
 <a href="thesis/KWei_thesis.pdf">The Response of Polarized Protons in SolidHydrogen-Deuteride(HD) to Electron Beams</a>
 Upgraded Injector Test Facility
 
+Matthew 
+Solt
+2020 August 
+Stanford University 
+Philip Schuster
+<a href="thesis/MSolt_thesis.pdf">Searching for Long-Lived Dark Photons with the Heavy Photon Search Experiment</a>
+HPS
+
+Xinzhan 
+Bai
+2020 May
+University of Virginia
+Nilanga Liyanage
+<a href="thesis/XBai_thesis.pdf">Jefferson Lab High Precision Proton Radius Measurement Experiment: PRad</a>
+PRad
+
+Weizhi 
+Xiong
+2020 February
+Duke University
+Haiyan Gao
+<a href="thesis/WXiong_thesis.pdf">A High Precision Measurement of the Proton Charge Radius at JLab</a>
+PRad
+
 Bradley
 Yale
 2019 September
@@ -22,4 +53,43 @@ Maurik Holtrop
 <a href="thesis/BYale_thesis.pdf">Heavy Photon Displaced Vertex Search at 2.3 GeV with Prospects for True Muonium Discovery</a>
 HPS
 
+Li 
+Ye
+2018 August
+Mississippi State University
+Dipangkar Dutta
+<a href="thesis/LYe_thesis.pdf">Measurement of Compton scattering cross section at a few GeV electron energy</a>
+PRimEx-II
+ 
+Yang 
+Zhang
+2018 May
+Duke University
+Haiyan Gao
+<a href="thesis/YZhang_thesis.pdf">A Precision Measurement of Neutral Pion Lifetime</a>
+PrimEx-II
+
+Sebouh 
+Paul 
+2018 May
+William & Mary
+Keith Griffioen
+<a href="thesis/SPaul_thesis.pdf">Searching for A Dark Photon in the HPS Experiment</a>
+HPS
+
+Ani 
+Simonyan
+2017 December
+Université Paris-Saclay
+Michel Guidal
+<a href="thesis/ASimonyan_thesis.pdf">Dark Photon Search with the HPS Experiment at JLab</a>
+HPS
+
+Luca 
+Colaneri
+2017 April 
+Univ. Roma Tor Vegata,
+Annalisa D'Angelo 
+<a href="thesis/LColaneri_thesis.pdf">The HPS Experiment</a>
+HPS
 
