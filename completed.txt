@@ -254,14 +254,6 @@ Ken Hicks
 <a href="thesis/Compton_thesis.pdf">The Differential Cross Section and &#923; Recoil Polarization from &#947; d to K<sup>0</sup>&#923;(p)</a>  
 g10, g13
 
-Yeranuhi
-Ghandilyan
-2016 March
-Yerevan State University  
-Stepan Stepanyan
-<a href="thesis/YGhandilyan-summary_thesis.pdf">Coherent Production of Proton - Anti-proton Pairs on Deuterium</a>
-eg3
-
 Arjun
 Trivedi
 2016 December
@@ -358,6 +350,14 @@ Paul Eugenio
 <a href="thesis/AlGhoul_thesis.pdf">The Photoproduction of Strangeness in &#947; p --> K<sup>+</sup> &#960;<sup>+</sup> &#960;<sup>-</sup> &#923; with CLAS at Jefferson Lab</a>
 g12
 E004-05
+Yeranuhi
+Ghandilyan
+2016 March
+Yerevan State University  
+Stepan Stepanyan
+<a href="thesis/YGhandilyan-summary_thesis.pdf">Coherent Production of Proton - Anti-proton Pairs on Deuterium</a>
+eg3
+
 William
 Levine
 2016 February
