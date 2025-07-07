@@ -12,13 +12,6 @@ Volker Crede
 Polarized SDME's for the &#947; p --> p &#969; Reaction
 g8b
 
-William
-Booth
-University of York
-Dan Watts, Nick Zachariou
-Measuring neutron polarisation in pn production using CLAS
-g13
-E06-103
 Richard 
 Capobianco
 University of Connecticut

@@ -6,6 +6,14 @@ Ralf Gothe
 <a href="thesis/CMcLauchlin_thesis.pdf">Measurement of Single Differential Cross Sections, Polarization Observables, and Beam-Spin Asymmetry for Charged Two-Pion Electroproduction off the Proton with CLAS.</a>
 e1-6, e1f
 
+William
+Booth
+2024 September
+University of York
+Dan Watts, Nick Zachariou
+<a href="thesis/WBooth_thesis.pdf">Measuring Neutron Polarisation in Deuteron Photo-disintegration with the CLAS Start Counter.</a>
+g13
+E06-103
 Trevor
 Reed
 2024 April
