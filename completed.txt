@@ -256,10 +256,10 @@ g10, g13
 
 Yeranuhi
 Ghandilyan
-2016
+2016 March
 Yerevan State University  
 Stepan Stepanyan
-<a href="thesis/YGhandilyan_thesis.pdf">Coherent Production of Proton - Anti-proton Pairs on Deuterium</a>
+<a href="thesis/YGhandilyan-summary_thesis.pdf">Coherent Production of Proton - Anti-proton Pairs on Deuterium</a>
 eg3
 
 Arjun
