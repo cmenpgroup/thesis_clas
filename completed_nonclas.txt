@@ -22,6 +22,14 @@ Kyungseon Joo and Andrew Sandorfi
 <a href="thesis/KWei_thesis.pdf">The Response of Polarized Protons in SolidHydrogen-Deuteride(HD) to Electron Beams</a>
 Upgraded Injector Test Facility
 
+Samantha
+McCarty
+2020 December 
+University of New Hampshire
+Maurik Holtrop
+<a href="thesis/SMcCarty_thesis.pdf">Search for an A' Resonance in the Heavy Photon Search 2.3 GeV Data Set</a>
+HPS
+
 Matthew 
 Solt
 2020 August 
@@ -60,7 +68,7 @@ Ye
 Mississippi State University
 Dipangkar Dutta
 <a href="thesis/LYe_thesis.pdf">Measurement of Compton scattering cross section at a few GeV electron energy</a>
-PRimEx-II
+PrimEx-II
  
 Yang 
 Zhang
@@ -86,11 +94,35 @@ Michel Guidal
 <a href="thesis/ASimonyan_thesis.pdf">Dark Photon Search with the HPS Experiment at JLab</a>
 HPS
 
+Holly 
+Szumila-Vance
+2017 August 
+Old Dominion University
+Lawrence Weinstein
+<a href="thesis/HSzumila-Vance_thesis.pdf">Searching for Heavy Photons with Detached Vertices in the Heavy Photon Search Experiment</a>
+HPS
+
 Luca 
 Colaneri
 2017 April 
-Univ. Roma Tor Vegata,
+Univ. Roma Tor Vegata
 Annalisa D'Angelo 
 <a href="thesis/LColaneri_thesis.pdf">The HPS Experiment</a>
+HPS
+
+Sho 
+Uemura
+2016 November 
+Stanford University
+John Jaros 
+<a href="thesis/SUemura_thesis.pdf">Searching for Heavy Photons in the HPS Experiment</a>
+HPS
+
+Omar
+Moreno
+2016 June 
+UC, Santa Cruz 
+Bruce Schumm 
+<a href="thesis/OMoreno_thesis.pdf">Search for a Heavy Photon in the 2015 Engineering Run Data of the Heavy Photon Search Experiment</a>
 HPS
 
