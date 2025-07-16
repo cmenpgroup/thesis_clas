@@ -126,3 +126,20 @@ Bruce Schumm
 <a href="thesis/OMoreno_thesis.pdf">Search for a Heavy Photon in the 2015 Engineering Run Data of the Heavy Photon Search Experiment</a>
 HPS
 
+Aram 
+Teymurazyan
+2007 December
+University of Kentucky
+Daniel Dale
+<a href="thesis/ATeymurazyan_thesis.pdf">Photon Flux Determination for a Precision Measurement of the Neutral Pion Lifetime</a>
+Primex-I
+
+Eric 
+Clinton
+2007 September
+University of Massachusetts, Amherst
+Rory Miskimen
+<a href="thesis/EClinton_thesis.pdf">A Precision Measurement of the Neutral Pion Lifetime via the Primakoff Effect</a>
+Primex-I
+
+
