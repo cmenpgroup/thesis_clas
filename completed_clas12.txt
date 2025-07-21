@@ -4,72 +4,81 @@ Pokhrel
 Old Dominion University
 Stephen Bueltmann
 <a href="thesis/MPokhrel_thesis.pdf">The Structure Function of the Free Neutron at High x-Bjorken</a>
-CLAS12 RG-F
+RG-F
 Bonus12
+2020
 Krishna
 Neupane
 2025 April
 University of South Carolina
 Ralf Gothe
 <a href="thesis/KNeupane_thesis.pdf">First CLAS12 Double-Pion (N&pi;&pi;) Electroproduction Analysis</a>
-CLAS12 RG-A 
+RG-A 
 
+2018
 Caleb
 Fogler
 2024 December
 Old Dominion University
 Lawrence Weinstein
 <a href="thesis/CFogler_thesis.pdf">Measuring CLAS12 d(e,e'&pi;<sup>+/-</sup>) Cross Sections for e4nu.</a>
-CLAS12 RG-B
+RG-B
 
+2019
 Kayleigh
 Gates
 2024 November
 University of Glasgow
 Daria Sokhan, Rachel Montgomery
 <a href="thesis/KGates_thesis.pdf">Timelike Compton Scattering from a Longitudinally-Polarised Target with CLAS12 at Jefferson Lab</a>
-CLAS12 RG-C
+RG-C
 
+2022
 Noemie
 Pilleux
 2024 November
 IJCLab, Univ. Paris Saclay
 Silvia Niccolai
 <a href="thesis/NPilleux_thesis.pdf">Nucleon structure studies at Jefferson Lab and the Electron-Ion Collider</a>
-CLAS12 RG-C
+RG-C
 
+2022
 Valerii
 Klimenko
 2024 October
 University of Connecticut
 Kyungseon Joo
 <a href="thesis/VKlimenko_thesis.pdf">Differential Cross Sections from CLAS12 RG-A Inclusive Electron Scattering</a>
-CLAS12 RG-A
+RG-A
 
+2018
 Isabella
-Illari
+Allure
 2024 May
 The George Washington University
 Igor Strakovsky, William Briscoe, Volker Burkert
 <a href="thesis/IIllari_thesis.pdf">Exclusive &#951 Electro-Production Beam Spin Asymmetry Measurements using CLAS12 at Jefferson Lab</a>
-CLAS12 RG-A, RG-K
+RG-A, RG-K
 
+2018
 Pushpa 
 Pandey 
 2024 May
 Old Dominion University
 Sebastian Kuhn
 <a href="thesis/PPandey_thesis.pdf">Longitudinal Solid Polarized Target for CLAS12 and Study of Spin Structure of Nucleons</a>
-CLAS12 RG-C
+RG-C
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=688">E12-06-109</a>
+2022
 Mathieu
-Ouillon
+Bouillon
 2024 April
 IJCLab, Univ. Paris-Saclay
 Raphael Dupre
 <a href="thesis/MOuillon_thesis.pdf">Tagged neutron DVCS with Bonus12 and CLAS12 at Jefferson Lab</a>
-CLAS12 RG-F
+RG-F
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=482">E12-06-113A</a>, BONUS12
+2020
 Jose
 Carvajal
 2024 March
@@ -78,78 +87,87 @@ Lei Guo
 <a href="thesis/JCarvajal_thesis.pdf">Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12</a>
 CLAS12
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
+2018
 Lamya
 Baashen
 2023 December
 Florida International University
 Brian Raue, Gerald Gilfoyle
 <a href="thesis/LBaashen_thesis.pdf">Neutron Magnetic Form Factor G<sub>nm</sub> Measurement at High Q<sup>2</sup> with CLAS12</a>
-CLAS12 RG-B
+RG-B
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=510">E12-07-104</a> 
+2019
 Aron 
 Kripko
 2023 November
 U. of Giessen, Germany
 Kai Brinkmann
 <a href="thesis/AKripko_thesis.pdf">Studying the hadron structure with PANDA and CLAS using machine learning techniques</a>
-CLAS12 RG-A
+RG-A
 
+2018
 Geraint
 Clash
 2023 September
 University of York
 Mikhail Bashkanov, Nick Zachariou
 <a href="thesis/GClash_thesis.pdf">Search for a Singly Strange Hexaquark Using Polarization Data From CLAS12 at Jefferson Lab Virginia</a>
-CLAS12 RG-A, RG-B
+RG-A, RG-B
 Very Strange Experiment
+2018
 Dilini
 Bulumulla
 2023 August
 Old Dominion University
 Charles Hyde
 <a href="thesis/DBulumulla_thesis.pdf">Deep Virtual Pion Pair Production</a>
-CLAS12 RG-A
+RG-A
 E12-12-007
+2018
 Victoria
 Lagerquist
 2023 May
 Old Dominion University
 Sebastian Kuhn
 <a href="thesis/VLagerquist_thesis.pdf">Design and Construction of a Longitudinally Polarized Solid Nuclear Target for CLAS12</a>
-CLAS12 RG-C
+RG-C
 
+2022
 Richard 
 Tyson
 May 2023 
 University of Glasgow
 David Ireland, Bryan McKinnon
 <a href="thesis/RTyson_thesis.pdf">J/&psi; Near-Threshold Photoproduction off the Proton and Neutron with CLAS12</a>
-CLAS12 RG-B
+RG-B
 
+2019
 Robert
 Wishart
 2023 April
 University of Glasgow
 Derek Glazier, Dave Ireland
 <a href="thesis/RWishart_thesis.pdf">Analysis of Three Body Decays in Quasi-Real Photoproduction</a>
-CLAS12 RG-A
+RG-A
 MesonEx
+2018
 Achyut
 Khanal
 2022 October
 Florida International University
 Brian Raue, Lei Guo
 <a href="thesis/AKhanal_thesis.pdf">Search for Excited Cascade Hyperons (&Xi;<sup>*-</sup>) using the CLAS12 Spectrometer at Jefferson Laboratory</a>
-CLAS12 RG-A
-E12-11-005A
+RG-A
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
+2018
 Matthew
 Nicol
 2022 October
 University of York
 Mikhail Bashkanov, Nick Zachariou
 <a href="thesis/MNicol_thesis.pdf">Exploring The Strong Interaction Through Electroproduction of Exotic Particles</a>
-CLAS12 RG-A, RG-B
-
+RG-A, RG-B
+2018/2019
 Sangbaek
 Lee
 2022 September
@@ -158,30 +176,34 @@ Richard Milner
 <a href="thesis/SLee_thesis.pdf">Measurement of the Deeply Virtual Compton Scattering Cross Section from the Proton at 10.6 GeV using the CLAS12 Detector</a>
 CLAS 12 RG-A
 E12-06-119
+2018
 Efrain
 Segarra
 2022 June
 Massachusetts Institute of Technology
 Or Hen
 <a href="thesis/ESegarra_thesis.pdf">Disentangling the EMC effect: from free to bound nucleon structure</a>
-CLAS 12 RG-B
+RG-B
 BAND
+2019
 Jiwan
 Poudel
 2022 May
 Old Dominion University
 Stephen Bueltmann
 <a href="thesis/JPoudel_thesis.pdf">Studies of the BONUS12 Radial GEM Detector and TCS Beam Spin Asymmetry in CLAS12</a>
-CLAS12 RG-F, RG-A
+RG-F, RG-A
 Bonus12, TCS
+2018/2019/2020
 Joseph
 Newton
 2021 August
 Old Dominion University
 Stepan Stepanyan
 <a href="thesis/JNewton_thesis.pdf">J/&psi; Photoproduction Near Threshold with CLAS12</a>
-CLAS12 RG-A
+RG-A
 
+2018
 Giovanni
 Angelini 
 2021 July
@@ -190,14 +212,16 @@ William Briscoe & Patrizia Rossi (JLab)
 <a href="thesis/GAngelini_thesis.pdf">Probing Quark Dynamics in Semi-Inclusive Charged Pion Electroproduction with CLAS12</a>
 CLAS12
 
+2018
 Guillaume
 Christiaens
 2021 May
 University of Glasgow & CEA Saclay
 D. Sokhan & M. Defurne
 <a href="thesis/GChristiaens_thesis.pdf">DVCS Beam Spin Asymetries at 10.6 GeV with the CLAS12 Spectrometer</a>
-CLAS12 RG-A
+RG-A
 E12-06-119
+2018
 David
 Payette
 2021 May
@@ -206,30 +230,34 @@ Sebastian Kuhn
 <a href="thesis/DPayette_thesis.pdf">Spectator Proton Detection and Reconstruction in Deep Inelastic D(e,ep<sub>s</sub>) SCATTERING</a>
 CLAS12
 BONUS12
+2020
 Timothy
 Hayward
 2021 March
 William and Mary
 Keith Griffioen
 <a href="thesis/THayward_thesis.pdf">Dihadron Beam Spin Asymmetries on an Unpolarized Hydrogen Target with CLAS12</a>
-CLAS12 
 RG-A
+
+2018
 Brandon
 Clary
 2020 August
 University of Connecticut
 Kyungseon Joo
 <a href="thesis/BClary_thesis.pdf">Exclusive &#966 Production Beam Spin Asymmetry Measurements with CLAS12</a>
-CLAS12
 RG-A
+
+2018
 Pierre
 Chatagnon
 2020 October
 IJCLab, Univ. Paris-Saclay
 Silvia Niccolai
 <a href="thesis/PChatagnon_thesis.pdf">Nucleon Structure studies with CLAS12 at Jefferson Lab: Timelike Compton Scattering and the Central Neutron Detector</a>
-CLAS12
-RG-A E12-12-001
+RG-A 
+E12-12-001
+2018
 Nathan
 Dzbenski
 2020 May
@@ -238,6 +266,7 @@ Gail Dodge
 <a href="thesis/NDzbenski_thesis.pdf">Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12</a>
 CLAS 12 RG-F
 BONUS12
+2020
 Ilaria
 Balossino
 2018 February
@@ -246,6 +275,7 @@ Marco Contalbrigo
 <a href="thesis/IBalossino_thesis.pdf">Studies of Innovative Photon Detectors Working in the Single-Photon Regime for the RICH Detector of the CLAS12 Experiment</a> 
 CLAS12 RICH 
 E12-09-008
+N/A
 Lucilla
 Lanza
 2017 March
@@ -254,6 +284,7 @@ Annalisa D'Angelo
 <a href="thesis/Lanza_thesis.pdf">Search for Hybrid Mesons with CLAS12 Experimental Setup</a>
 
 
+N/A
 Matteo
 Turisini
 2017 March
@@ -262,18 +293,22 @@ Marco Contalbrigo
 <a href="thesis/MTurisini_thesis.pdf">The CLAS12 RICH Readout Electronics: Design, Development, and Test</a> 
 CLAS12 RICH
 E12-09-008
+N/A
 Andrea
 Celentano
 2014 March
 Genova
-Mauro Taiuti & Marco Battaglieri
+Mauro Taiuti, Marco Battaglieri
 <a href="thesis/Celentano_thesis.pdf">The Forward Tagger Detector for CLAS12 at Jefferson Lab and the MesonEx Experiment</a>
 CLAS12
 E12-11-005
+N/A
 Gabriel
 Charles
 2013 September
 Universite Paris-Sud XI
-F. Kunne & S. Procureur
+F. Kunne, S. Procureur
 <a href="thesis/Charles_thesis.pdf">Mise au Point de Detecteurs Micromegas pour le Spectrometre CLAS12 au Laboratoire Jefferson</a> (in French)  
 CLAS12
+
+N/A
