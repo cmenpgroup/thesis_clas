@@ -211,7 +211,7 @@ Angelini
 George Washington University
 William Briscoe, Patrizia Rossi (JLab)
 <a href="thesis/GAngelini_thesis.pdf">Probing Quark Dynamics in Semi-Inclusive Charged Pion Electroproduction with CLAS12</a>
-CLAS12
+RG-A
 
 2018
 Guillaume
