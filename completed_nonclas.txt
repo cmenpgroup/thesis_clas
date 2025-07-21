@@ -5,7 +5,6 @@ UC Santa Cruz
 Robert Johnson
 <a href="thesis/ASpellman_thesis.pdf">Searching for Strongly-Interacting Dark Matter with the Heavy Photon Search Experiment</a>
 HPS
-
 Thomas
 O'Connell
 2022 March
@@ -13,7 +12,6 @@ University of Connecticut
 Kyungseon Joo and Andrew Sandorfi
 <a href="thesis/TOConnell_thesis.pdf">Measurements of Electron Beam-Induced Spin-Relaxation inFrozen-Spin Hydrogen-Deuteride (HD)</a>
 Upgraded Injector Test Facility
-
 Kevin
 Wei
 2021 November
@@ -21,7 +19,6 @@ University of Connecticut
 Kyungseon Joo and Andrew Sandorfi
 <a href="thesis/KWei_thesis.pdf">The Response of Polarized Protons in SolidHydrogen-Deuteride(HD) to Electron Beams</a>
 Upgraded Injector Test Facility
-
 Samantha
 McCarty
 2020 December 
@@ -29,7 +26,6 @@ University of New Hampshire
 Maurik Holtrop
 <a href="thesis/SMcCarty_thesis.pdf">Search for an A' Resonance in the Heavy Photon Search 2.3 GeV Data Set</a>
 HPS
-
 Matthew 
 Solt
 2020 August 
@@ -37,7 +33,6 @@ Stanford University
 Philip Schuster
 <a href="thesis/MSolt_thesis.pdf">Searching for Long-Lived Dark Photons with the Heavy Photon Search Experiment</a>
 HPS
-
 Xinzhan 
 Bai
 2020 May
@@ -45,7 +40,6 @@ University of Virginia
 Nilanga Liyanage
 <a href="thesis/XBai_thesis.pdf">Jefferson Lab High Precision Proton Radius Measurement Experiment: PRad</a>
 PRad
-
 Weizhi 
 Xiong
 2020 February
@@ -53,7 +47,6 @@ Duke University
 Haiyan Gao
 <a href="thesis/WXiong_thesis.pdf">A High Precision Measurement of the Proton Charge Radius at JLab</a>
 PRad
-
 Bradley
 Yale
 2019 September
@@ -61,7 +54,6 @@ University of New Hampshire
 Maurik Holtrop
 <a href="thesis/BYale_thesis.pdf">Heavy Photon Displaced Vertex Search at 2.3 GeV with Prospects for True Muonium Discovery</a>
 HPS
-
 Li 
 Ye
 2018 August
@@ -69,7 +61,6 @@ Mississippi State University
 Dipangkar Dutta
 <a href="thesis/LYe_thesis.pdf">Measurement of Compton scattering cross section at a few GeV electron energy</a>
 PrimEx-II
- 
 Yang 
 Zhang
 2018 May
@@ -77,7 +68,6 @@ Duke University
 Haiyan Gao
 <a href="thesis/YZhang_thesis.pdf">A Precision Measurement of Neutral Pion Lifetime</a>
 PrimEx-II
-
 Sebouh 
 Paul 
 2018 May
@@ -85,7 +75,6 @@ William & Mary
 Keith Griffioen
 <a href="thesis/SPaul_thesis.pdf">Searching for A Dark Photon in the HPS Experiment</a>
 HPS
-
 Ani 
 Simonyan
 2017 December
@@ -93,7 +82,6 @@ Université Paris-Saclay
 Michel Guidal
 <a href="thesis/ASimonyan_thesis.pdf">Dark Photon Search with the HPS Experiment at JLab</a>
 HPS
-
 Holly 
 Szumila-Vance
 2017 August 
@@ -101,7 +89,6 @@ Old Dominion University
 Lawrence Weinstein
 <a href="thesis/HSzumila-Vance_thesis.pdf">Searching for Heavy Photons with Detached Vertices in the Heavy Photon Search Experiment</a>
 HPS
-
 Luca 
 Colaneri
 2017 April 
@@ -109,7 +96,6 @@ Univ. Roma Tor Vegata
 Annalisa D'Angelo 
 <a href="thesis/LColaneri_thesis.pdf">The HPS Experiment</a>
 HPS
-
 Sho 
 Uemura
 2016 November 
@@ -117,7 +103,6 @@ Stanford University
 John Jaros 
 <a href="thesis/SUemura_thesis.pdf">Searching for Heavy Photons in the HPS Experiment</a>
 HPS
-
 Omar
 Moreno
 2016 June 
@@ -125,7 +110,6 @@ UC, Santa Cruz
 Bruce Schumm 
 <a href="thesis/OMoreno_thesis.pdf">Search for a Heavy Photon in the 2015 Engineering Run Data of the Heavy Photon Search Experiment</a>
 HPS
-
 Aram 
 Teymurazyan
 2007 December
@@ -133,7 +117,6 @@ University of Kentucky
 Daniel Dale
 <a href="thesis/ATeymurazyan_thesis.pdf">Photon Flux Determination for a Precision Measurement of the Neutral Pion Lifetime</a>
 PrimEx-I
-
 Eric 
 Clinton
 2007 September
@@ -141,5 +124,3 @@ University of Massachusetts, Amherst
 Rory Miskimen
 <a href="thesis/EClinton_thesis.pdf">A Precision Measurement of the Neutral Pion Lifetime via the Primakoff Effect</a>
 PrimEx-I
-
-
