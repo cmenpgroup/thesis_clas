@@ -175,7 +175,7 @@ Lee
 Massachusetts Institute of Technology
 Richard Milner
 <a href="thesis/SLee_thesis.pdf">Measurement of the Deeply Virtual Compton Scattering Cross Section from the Proton at 10.6 GeV using the CLAS12 Detector</a>
-CLAS 12 RG-A
+RG-A
 E12-06-119
 2018
 Efrain
@@ -209,7 +209,7 @@ Giovanni
 Angelini 
 2021 July
 George Washington University
-William Briscoe & Patrizia Rossi (JLab)
+William Briscoe, Patrizia Rossi (JLab)
 <a href="thesis/GAngelini_thesis.pdf">Probing Quark Dynamics in Semi-Inclusive Charged Pion Electroproduction with CLAS12</a>
 CLAS12
 
@@ -218,7 +218,7 @@ Guillaume
 Christiaens
 2021 May
 University of Glasgow & CEA Saclay
-D. Sokhan & M. Defurne
+D. Sokhan, M. Defurne
 <a href="thesis/GChristiaens_thesis.pdf">DVCS Beam Spin Asymetries at 10.6 GeV with the CLAS12 Spectrometer</a>
 RG-A
 E12-06-119
@@ -265,7 +265,7 @@ Dzbenski
 Old Dominion University
 Gail Dodge
 <a href="thesis/NDzbenski_thesis.pdf">Simulation and Development of the Radial Time Projection Chamber for the BONUS12 Experiment in CLAS12</a>
-CLAS 12 RG-F
+RG-F
 BONUS12
 2020
 Ilaria
