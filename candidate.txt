@@ -3,7 +3,7 @@ Alvarado Galeano
 IJCLab, Univ. Paris-Saclay
 Adam Hobart, Eric Voutier
 DVCS, DV&pi;<sup>0</sup> production, and DVCS Simulations with a transverse target
-CLAS12 RG-A, RG-B, RG-H
+RG-A, RG-B, RG-H
 
 N/A
 Zachary 
@@ -19,7 +19,7 @@ Capobianco
 University of Connecticut
 Kyungseon Joo
 Measurements of the cos &phi; and cos 2 &phi; Moments of the Unpolarized SIDIS &pi;<sup>+</sup> Cross-section at CLAS12
-CLAS12 RG-A
+RG-A
 
 2018
 Derek
@@ -27,7 +27,7 @@ Holmberg
 William and Mary
 Keith Griffieon, Todd Averett  
 The Longitudinal Spin Structure of the Proton
-CLAS12 RG-C
+RG-C
 
 2022
 Yu-Chun
@@ -35,7 +35,7 @@ Hung
 Old Dominion University
 Stephen Bueltmann
 Quasi-Free Neutron Structure
-CLAS12 RG-F
+RG-F
 Bonus12
 2020
 Robert
@@ -43,7 +43,7 @@ Johnston
 Massachusetts Institute of Technology
 Richard Milner
 Deeply Virtual &#960;<sup>0</sup> Production Cross Section
-CLAS12 RG-A
+RG-A
 
 2018
 Daniel
@@ -51,7 +51,7 @@ Matamoros
 IJCLab, Univ. Paris-Saclay
 Raphael Dupre 
 Exploring TMDs with cos &phi; and cos 2&phi; moments of SIDIS on nuclear targets
-CLAS12 RG-D
+RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=998">E12-06-106A</a>
 2023
 Matthew
@@ -59,7 +59,7 @@ Maynes
 Mississippi State University
 Lamiaa El Fassi
 Study of Color Transparency Phenomenon in &rho;<sup>0</sup> Electroproduction off Nuclei 
-CLAS12 RG-D
+RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
 2023
 Patrick
@@ -67,7 +67,7 @@ Moran
 Massachusetts Institute of Technology
 Richard Milner
 Deeply Virtual &#966; Meson Electroproduction off a Hydrogen Target
-CLAS12 RG-A
+RG-A
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=609">PR12-12-007</a>
 2018
 Paul 
@@ -75,7 +75,7 @@ Naidoo
 University of Glasgow
 Daria Sokhan & Bryan McKinnon
 Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuterium
-CLAS12 RG-B
+RG-B
 
 2019
 Samy
@@ -83,7 +83,7 @@ Polcher Rafael
 CEA Saclay
 Francesco Bossu
 DVCS on longitudinally polarized protons
-CLAS12 RG-C
+RG-C
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=486">E12-06-119</a>
 2022
 Sara
@@ -91,7 +91,7 @@ Ratliff
 The George Washington University
 Axel Schmidt
 Exploring the SRC-EMC Hypothesis in Recoil-Tagged DIS on Nuclei
-CLAS12 RG-M
+RG-M
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
 2020
 Erin
@@ -99,7 +99,7 @@ Seroka
 The George Washington University
 Axel Schmidt
 Mapping the NN Tensor-to-Scalar Transition using the Isospin Composition of Short-Range Correlated Pairs in the CLAS12 Detector
-CLAS12 RG-M
+RG-M
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
 2020
 Suman
@@ -107,7 +107,7 @@ Shrestha
 Temple Univ. & Mississippi State Univ.
 Nikos Sparveris, Hamza Atac, Lamiaa El Fassi  
 Exploring TMDs with cos &phi; and cos 2&phi; Moments of Charged Pions SIDIS off Nuclei
-CLAS12 RG-D
+RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=998">E12-06-106A</a>
 2023
 Noah
@@ -115,7 +115,7 @@ Smith
 Ohio University
 Chaden Djalali
 Analysis of CLAS12 Single Pion (ep -> e'n&pi;<sup>+</sup>) Electroproduction
-CLAS12 RG-A
+RG-A
 
 2018
 Mariana 
@@ -123,7 +123,7 @@ Tenorio Pita
 Old Dominion University
 Stepan Stepanyan
 J/&psi; Production off a Proton Target at CLAS12
-CLAS12 RG-A
+RG-A
 
 2018
 Kemal
@@ -147,7 +147,7 @@ Upton
 Old Dominion University
 Sebastian Kuhn
 Spin Structure of the Deuteron
-CLAS12 RG-C
+RG-C
 
 2022
 Simone 
@@ -155,7 +155,7 @@ Vallarino
 University of Ferrara, Italy
 Marco Contalbrigo
 Beam Spin Asymmetries of KAON SIDIS with unpolarized deuterium target
-CLAS12 RG-B
+RG-B
 
 2019
 Uditha
@@ -163,6 +163,6 @@ Weerasinghe
 Mississippi State University
 Lamiaa El Fassi
 Exploring Lambda SIDIS Production in the Target and Current Fragmentation Regions
-CLAS12 RG-E
+RG-E
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=485">E12-06-117</a>
 2024
