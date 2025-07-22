@@ -140,7 +140,7 @@ IJCLab, Univ. Paris-Saclay
 Raphael Dupre
 Experimental Study of the Strong Interaction with the ALERT and CLAS12 Spectrometers at Jefferson Lab
 CLAS12 ALERT
-E12-17-012
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=927">E12-17-012</a>
 2025
 Darren
 Upton

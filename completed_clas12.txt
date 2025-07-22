@@ -131,7 +131,7 @@ Old Dominion University
 Charles Hyde
 <a href="thesis/DBulumulla_thesis.pdf">Deep Virtual Pion Pair Production</a>
 RG-A
-E12-12-007
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=726">E12-12-007</a>
 2018
 Victoria
 Lagerquist
@@ -185,7 +185,7 @@ Massachusetts Institute of Technology
 Richard Milner
 <a href="thesis/SLee_thesis.pdf">Measurement of the Deeply Virtual Compton Scattering Cross Section from the Proton at 10.6 GeV using the CLAS12 Detector</a>
 RG-A
-E12-06-119
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=486">E12-06-119</a>
 2018
 Efrain
 Segarra
@@ -230,7 +230,7 @@ University of Glasgow & CEA Saclay
 D. Sokhan, M. Defurne
 <a href="thesis/GChristiaens_thesis.pdf">DVCS Beam Spin Asymetries at 10.6 GeV with the CLAS12 Spectrometer</a>
 RG-A
-E12-06-119
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=486">E12-06-119</a>
 2018
 David
 Payette
@@ -266,7 +266,7 @@ IJCLab, Univ. Paris-Saclay
 Silvia Niccolai
 <a href="thesis/PChatagnon_thesis.pdf">Nucleon Structure studies with CLAS12 at Jefferson Lab: Timelike Compton Scattering and the Central Neutron Detector</a>
 RG-A 
-E12-12-001
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=701">E12-12-001</a>
 2018
 Nathan
 Dzbenski
@@ -284,7 +284,7 @@ INFN Ferrara
 Marco Contalbrigo
 <a href="thesis/IBalossino_thesis.pdf">Studies of Innovative Photon Detectors Working in the Single-Photon Regime for the RICH Detector of the CLAS12 Experiment</a> 
 CLAS12 RICH 
-E12-09-008
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=610">E12-09-008</a>
 N/A
 Lucilla
 Lanza
@@ -302,7 +302,7 @@ INFN Ferrara
 Marco Contalbrigo
 <a href="thesis/MTurisini_thesis.pdf">The CLAS12 RICH Readout Electronics: Design, Development, and Test</a> 
 CLAS12 RICH
-E12-09-008
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=610">E12-09-008</a>
 N/A
 Andrea
 Celentano
@@ -311,7 +311,7 @@ Genova
 Mauro Taiuti, Marco Battaglieri
 <a href="thesis/Celentano_thesis.pdf">The Forward Tagger Detector for CLAS12 at Jefferson Lab and the MesonEx Experiment</a>
 CLAS12
-E12-11-005
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005</a>
 N/A
 Gabriel
 Charles
