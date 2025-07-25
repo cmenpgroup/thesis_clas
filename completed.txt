@@ -1463,6 +1463,7 @@ Glasgow University
 G. Rosner
 <a href="thesis/Gordon_thesis.ps.gz">&#961;0 Photoproduction using Linearly Polarised Photons with the CLAS Detector
 g8
+
 <p style="color:red;">2005</p> 
 Gagik
 Gavalian
