@@ -5,7 +5,7 @@ Old Dominion University
 Stephen Bueltmann
 <a href="thesis/MPokhrel_thesis.pdf">The Structure Function of the Free Neutron at High x-Bjorken</a>
 RG-F
-Bonus12
+BONUS12
 2020
 Krishna
 Neupane
@@ -84,7 +84,7 @@ Bouillon
 2024 April
 IJCLab, Univ. Paris-Saclay
 Raphael Dupre
-<a href="thesis/MOuillon_thesis.pdf">Tagged neutron DVCS with Bonus12 and CLAS12 at Jefferson Lab</a>
+<a href="thesis/MOuillon_thesis.pdf">Tagged neutron DVCS with BONUS12 and CLAS12 at Jefferson Lab</a>
 RG-F
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=482">E12-06-113A</a>, BONUS12
 2020
@@ -203,7 +203,7 @@ Old Dominion University
 Stephen Bueltmann
 <a href="thesis/JPoudel_thesis.pdf">Studies of the BONUS12 Radial GEM Detector and TCS Beam Spin Asymmetry in CLAS12</a>
 RG-F, RG-A
-Bonus12, TCS
+BONUS12, TCS
 2018/2019/2020
 Joseph
 Newton
