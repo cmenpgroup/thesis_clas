@@ -73,7 +73,7 @@ foreach $line (@lines){
     $indLine==0 and print $FileHtml "$stringTR\n";
     print $FileHtml "      <td>".$line."</td>\n";
     $indLine+=1;
-    $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
+    $indLine==9 and print $FileHtml "    </tr>\n" and $indLine=0;
 }
 close($FileFinish);
 
@@ -89,7 +89,7 @@ foreach $line (@lines){
     $indLine==0 and print $FileHtml "$stringTR\n";
     print $FileHtml "      <td>".$line."</td>\n";
     $indLine+=1;
-    $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
+    $indLine==9 and print $FileHtml "    </tr>\n" and $indLine=0;
 }
 close($FileMasters);
 
@@ -105,7 +105,7 @@ foreach $line (@lines){
     $indLine==0 and print $FileHtml "$stringTR\n";
     print $FileHtml "      <td>".$line."</td>\n";
     $indLine+=1;
-    $indLine==7 and print $FileHtml "    </tr>\n" and $indLine=0;
+    $indLine==8 and print $FileHtml "    </tr>\n" and $indLine=0;
 }
 close($FileNonCLAS);
 @lines=<$FileBottom>;

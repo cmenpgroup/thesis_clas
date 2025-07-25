@@ -6,6 +6,7 @@ Hayk Hakobyan
 <a href="thesis/EMolina_thesis.pdf">Experimental Measurement and Phenomenological Study of Positive Pion Production in Nuclear Media</a>
 eg2
 E02-104
+2004
 Andres
 Borquez Carcamo
 2021 May
@@ -14,6 +15,7 @@ Hayk Hakobyan
 <a href="thesis/ABorquez_thesis.pdf">The &#969; Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer</a>
 eg2
 E02-104
+2004
 Sebastian
 Moran Vasquez
 2021 March
@@ -22,6 +24,7 @@ Hayk Hakobyan
 <a href="thesis/SMoran_thesis.pdf">Study of Hadronization Process Using Positive Pions with CLAS in Jefferson Lab</a>
 eg2
 E02-104
+2004
 Antonio
 Radic Brito
 2021 March
@@ -30,6 +33,7 @@ Hayk Hakobyan
 <a href="thesis/ARadic_thesis.pdf">Two-Pion Bose-Einstein Correlation Measurements with CLAS Detector</a>
 eg2
 E02-104
+2004
 Jose Fransico
 Gonzalez Ledesma
 2020 December
@@ -37,7 +41,8 @@ Florida State University
 Volker Crede
 <a href="thesis/JFGonzalezLedesma_thesis.pdf">The Study of Beam-Recoil Polarization Observables for &#947 p --> K<sup>0</sup>&#931<sup>+</sup></a>
 g12
- 
+
+2008 
 Joseph
 Rowley
 2018 December
@@ -46,6 +51,7 @@ Kenneth Hicks
 <a href="thesis/JRowley_masters_thesis.pdf">A Study of Lambda-Nucleon Scattering Using the CLAS Detector</a>
 g12
 
+2008
 Andres
 Melo
 2016 March
@@ -53,4 +59,5 @@ Universidad de la Republica, Montevideo, Uruguay
 Carlos Salgado and Gabriel Gonzalez-Sprinberg
 <a href="thesis/AMelo_thesis.pdf">Analysis of the &#969; -> &pi;<sup>+</sup> &pi;<sup>-</sup> &pi;<sup>0</sup> decay using the CLAS at Jefferson Lab</a>
 g12
- 
+
+2008 

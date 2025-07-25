@@ -13,7 +13,7 @@ Volker Crede
 Polarized SDME's for the &#947; p --> p &#969; Reaction
 g8b
 
-N/A
+2005
 Richard 
 Capobianco
 University of Connecticut
@@ -133,7 +133,7 @@ Kyungseon Joo
 PDF Extractions using CLAS e1f Measurements
 e1f
 
-N/A
+2003
 Felix
 Touchte-Codjo
 IJCLab, Univ. Paris-Saclay
