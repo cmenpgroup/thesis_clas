@@ -186,6 +186,7 @@ Volker Crede
 <a href="thesis/AZulkaida_thesis.pdf"> The Search For N<sup>*</sup> Resonances: Measurement of Differential Cross Sections and Polarization Observables for &#947; p --> p &#969; and &#947; p --> K<sup>0</sup>&#931;<sup>+</sup> Using Circularly-Polarized Photons at CLAS, JEFFERSON LAB</a> 
 g12
 
+2008
 Orlando
 Soto
 2018 July
@@ -194,6 +195,7 @@ Hayk Hakobyan
 <a href="thesis/OSoto_thesis.pdf">Hadronization Studies of &#951; Mesons Using the CLAS Spectrometer</a> 
 eg2
 E02-104
+2004
 Sudeep
 Ghosh
 2018 May
