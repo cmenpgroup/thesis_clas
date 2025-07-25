@@ -562,7 +562,7 @@ Lewis
 Glasgow University
 David Ireland
 <a href="thesis/Lewis_thesis.pdf">Bayesian Data Analysis in Baryon Spectroscopy</a>
-g1cb, g8b
+g1c, g8b
 
 2005
 Brian
@@ -959,6 +959,7 @@ Univ. of California at Los Angeles
 Bernard Nefkens
 <a href="thesis/Goetz_thesis.pdf">Cascade Hyperon Photoproduction from Threshold to 5.4 GeV with the CEBAF Large Acceptance Spectrometer</a>
 g12
+
 2008
 Kei
 Moriya
