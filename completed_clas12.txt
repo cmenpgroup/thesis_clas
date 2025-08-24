@@ -62,7 +62,7 @@ RG-M, g9a
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>, FROST
 2021
 Isabella
-Allure
+Illari
 2024 May
 The George Washington University
 Igor Strakovsky, William Briscoe, Volker Burkert
