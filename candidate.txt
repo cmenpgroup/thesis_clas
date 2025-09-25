@@ -78,14 +78,6 @@ Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuter
 RG-B
 
 2019
-Samy
-Polcher Rafael
-CEA Saclay
-Francesco Bossu
-DVCS on longitudinally polarized protons
-RG-C
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=486">E12-06-119</a>
-2022
 Sara
 Ratliff
 The George Washington University
