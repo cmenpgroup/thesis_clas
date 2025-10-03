@@ -102,7 +102,7 @@ Carvajal
 2024 March
 Florida International University
 Lei Guo
-<a href="thesis/JCarvajal_thesis.pdf">Electroproduction of Ground State Cascade (&Xi;<sup>*</sup>(1320)) at CLAS12</a>
+<a href="thesis/JCarvajal_thesis.pdf">First Time Measurement of Ground-State &Xi;<sup>-</sup> Hyperon Cross Section in Electroproduction</a>
 CLAS12
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
 2018
