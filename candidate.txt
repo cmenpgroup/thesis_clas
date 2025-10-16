@@ -22,6 +22,14 @@ Measurements of the cos &phi; and cos 2 &phi; Moments of the Unpolarized SIDIS &
 RG-A
 
 2018
+Elouan
+Ferrand
+CEA Saclay
+Maxime Defurne, Pierre Chatagnon
+DVCS on the pion via the Sullivan Process
+RG-A
+
+2018
 Derek
 Holmberg
 William and Mary
@@ -86,6 +94,14 @@ Exploring the SRC-EMC Hypothesis in Recoil-Tagged DIS on Nuclei
 RG-M
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
 2021
+Mathieu
+Ronayette
+CEA Saclay
+Pierre Chatagnon, Francesco Bossu
+Electroproduction of &phi; meson on proton in the neutral kaon decay channel
+period: RG-A
+
+2018
 Erin
 Seroka
 The George Washington University
