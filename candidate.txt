@@ -30,6 +30,14 @@ DVCS on the pion via the Sullivan Process
 RG-A
 
 2018
+Bianca	
+Gualtieri	
+Florida International University	
+Lei Guo	
+Electroproduction Cross Sections of &Xi;<sup>-</sup>(1320) and &Xi;<sup>-</sup>(1530) with CLAS12 at Beam Energies of 6.5 and 7.5 GeV	
+RG-K
+
+
 Derek
 Holmberg
 William and Mary
@@ -46,6 +54,14 @@ Quasi-Free Neutron Structure
 RG-F
 BONUS12
 2020
+Tatsuhiro	
+Ishige	
+Tohoku University	
+Satoshi Nakmura	
+Electroproduction of &Lambda;* at CLAS12	
+RG-K	 
+
+
 Robert
 Johnston
 Massachusetts Institute of Technology
@@ -54,6 +70,14 @@ Deeply Virtual &#960;<sup>0</sup> Production Cross Section
 RG-A
 
 2018
+Md	
+Masud	
+New Mexico State University	
+Michael Paolone	
+Exploring Gravitational From Factors of Light Nuclei-Helium-4	
+RG-L	
+ALERT
+2025
 Daniel
 Matamoros
 IJCLab, Univ. Paris-Saclay
@@ -86,6 +110,14 @@ Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuter
 RG-B
 
 2019
+Alexis	
+Osmond	
+University of South Carolina	
+Ralf Gothe	
+Double Pion Electroproduction in the Resonance Region	
+RGA	
+E12-09-003, E12-06-108A, E12-06-108B 
+2018
 Sara
 Ratliff
 The George Washington University
@@ -150,6 +182,14 @@ Experimental Study of the Strong Interaction with the ALERT and CLAS12 Spectrome
 CLAS12 ALERT
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=927">E12-17-012</a>
 2025
+Brandon	
+Tumeo	
+Florida International University	
+Lei Guo	
+&rho; Photoproduction off of Protons in CLAS6 g12	
+g12
+
+2008
 Darren
 Upton
 Old Dominion University
