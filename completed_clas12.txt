@@ -61,6 +61,15 @@ Kyungseon Joo
 RG-A
 
 2018
+Erin
+Seroka
+2024 August
+The George Washington University
+Axel Schmidt
+<a href="thesis/ESeroka_thesis.pdf">Probing the Isospin Composition of Short-Range Correlated Pairs at Jefferson Lab Hall B</a>
+RG-M
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
+2021
 Rhidian
 Williams
 2024 May

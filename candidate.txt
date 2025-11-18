@@ -134,14 +134,6 @@ Electroproduction of &phi; meson on proton in the neutral kaon decay channel
 period: RG-A
 
 2018
-Erin
-Seroka
-The George Washington University
-Axel Schmidt
-Mapping the NN Tensor-to-Scalar Transition using the Isospin Composition of Short-Range Correlated Pairs in the CLAS12 Detector
-RG-M
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=942">E12-17-006A</a>
-2021
 Suman
 Shrestha
 Temple Univ. & Mississippi State Univ.
