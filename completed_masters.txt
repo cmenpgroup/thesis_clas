@@ -7,21 +7,30 @@ Daniel Watts, Nick Zachariou
 RG-A
 MesonEx
 2019
-Esteban
-Molina Cardenas
-2021 March
-Universidad Tecnica Federico Santa Maria
-Hayk Hakobyan
-<a href="thesis/EMolina_thesis.pdf">Experimental Measurement and Phenomenological Study of Positive Pion Production in Nuclear Media</a>
-eg2
-E02-104
-2004
+Brandon
+Tumeo
+2021 June 
+University of South Carolina
+Yordanka Ilieva
+<a href="thesis/BTumeo_thesis_masters.pdf">Feasibility Study of &Lambda;d Elastic Scattering in Data From Photoproduction Off Deuteron</a>
+g13
+
+2007
 Andres
 Borquez Carcamo
 2021 May
 Universidad Tecnica Federico Santa Maria
 Hayk Hakobyan
 <a href="thesis/ABorquez_thesis.pdf">The &#969; Hadronization Studies in the Nuclear Medium with the CLAS Spectrometer</a>
+eg2
+E02-104
+2004
+Esteban
+Molina Cardenas
+2021 March
+Universidad Tecnica Federico Santa Maria
+Hayk Hakobyan
+<a href="thesis/EMolina_thesis.pdf">Experimental Measurement and Phenomenological Study of Positive Pion Production in Nuclear Media</a>
 eg2
 E02-104
 2004
