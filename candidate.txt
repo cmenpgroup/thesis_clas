@@ -54,14 +54,6 @@ Electroproduction of &Lambda;* at CLAS12
 RG-K	 
 
 
-Robert
-Johnston
-Massachusetts Institute of Technology
-Richard Milner
-Deeply Virtual &#960;<sup>0</sup> Production Cross Section
-RG-A
-
-2018
 Md	
 Masud	
 New Mexico State University	

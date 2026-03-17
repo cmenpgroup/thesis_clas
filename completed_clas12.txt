@@ -151,6 +151,15 @@ Mikhail Bashkanov, Nick Zachariou
 RG-A, RG-B
 Very Strange Experiment
 2018
+Robert
+Johnston
+2023 September
+Massachusetts Institute of Technology
+Richard Milner
+<a href="thesis/RJohnston_thesis.pdf">Measurement of the Deeply Virtual Neutral Pion Electroproduction Cross Section off the Proton at 10.6 GeV using the CLAS12 Detector</a>
+RG-A
+
+2018
 Dilini
 Bulumulla
 2023 August
