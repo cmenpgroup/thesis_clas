@@ -151,6 +151,15 @@ Kai Brinkmann
 RG-A
 
 2018
+Paul 
+Naidoo
+2023 October
+University of Glasgow
+Daria Sokhan, Bryan McKinnon
+<a href="thesis/PNaidoo_thesis.pdf">Measuring the beam-spin asymmetry &pi;<sup>0</sup> production off the neutron with CLAS12</a>
+RG-B
+
+2019
 Geraint
 Clash
 2023 September

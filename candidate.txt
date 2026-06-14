@@ -78,14 +78,6 @@ Study of Color Transparency Phenomenon in &rho;<sup>0</sup> Electroproduction of
 RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
 2023
-Paul 
-Naidoo
-University of Glasgow
-Daria Sokhan & Bryan McKinnon
-Hard exclusive &pi;<sup>0</sup> production from the neutron and proton in deuterium
-RG-B
-
-2019
 Alexis	
 Osmond	
 University of South Carolina	
