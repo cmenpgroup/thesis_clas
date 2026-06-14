@@ -78,14 +78,6 @@ Study of Color Transparency Phenomenon in &rho;<sup>0</sup> Electroproduction of
 RG-D
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=685">E12-06-106</a>
 2023
-Patrick
-Moran
-Massachusetts Institute of Technology
-Richard Milner
-Deeply Virtual &#966; Meson Electroproduction off a Hydrogen Target
-RG-A
-<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=609">PR12-12-007</a>
-2018
 Paul 
 Naidoo
 University of Glasgow

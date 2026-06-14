@@ -124,6 +124,16 @@ Lei Guo
 CLAS12
 <a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=637">E12-11-005A</a>
 2018
+Patrick
+Moran
+2024 February
+Massachusetts Institute of Technology
+Richard Milner
+<a href="thesis/PMoran_thesis.pdf">Cross Section Measurement of Exclusive &phi;-Meson
+Electroproduction off the Proton at CLAS12</a>
+RG-A
+<a href="https://misportal.jlab.org/mis/physics/experiments/viewProposal.cfm?paperId=609">PR12-12-007</a>
+2018
 Lamya
 Baashen
 2023 December
