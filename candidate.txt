@@ -118,14 +118,6 @@ Analysis of CLAS12 Single Pion (ep -> e'n&pi;<sup>+</sup>) Electroproduction
 RG-A
 
 2018
-Mariana 
-Tenorio Pita
-Old Dominion University
-Stepan Stepanyan
-J/&psi; Production off a Proton Target at CLAS12
-RG-A
-
-2018
 Kemal
 Tezgin
 University of Connecticut
